@@ -1,18 +1,9 @@
 !
-! Temporary to fix Keenetic health check - resolve dnscheck.adguard.com to 0.0.0.0
-! Date: 18.04.2020
-! TODO: Remove in a week
-!
-||dnscheck.adguard.com^
-!
 ! Tracking
 !
 ! This domain does not exist and is used for health checks
 ||abcounter.de^
-! replacing ||bpmonline.com^ from easyprivacy
-*.bpmonline.com^
 ||adc.9news.com.au^
-||adc.api.nine.com.au^
 ||adc.nine.com.au^
 ! https://github.com/AdguardTeam/AdguardDNS/issues/52
 ||mobileanalytics.*.amazonaws.com^
@@ -200,7 +191,6 @@
 ||meter-svc.nytimes.com^
 ||metric*.rediff.com^
 ||metric-agent.i10c.net^
-||metric.gstatic.com^
 ||metric.inetcore.com^
 ||metrics.apartments.com^
 ||metrics.aws.sitepoint.com^
@@ -454,7 +444,6 @@
 ||t.hulu.com/beacon/
 ||t.kck.st^
 ||t.my.jobs^
-||t.paypal.com^
 ||t.vimeo.com^
 ||t.wayfair.com^
 ||t2.hulu.com^
@@ -581,3 +570,6 @@
 ||torvind.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+!
+! Special block section, requires explanation for the rule
+!
