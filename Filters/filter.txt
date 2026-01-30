@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-30T14:15:10.542Z
+! Last modified: 2026-01-30T14:35:02.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11029,6 +11029,7 @@ vkcdnservice.appspot.com^
 ||beggingrivulet.com^
 ||beginnerfurglow.com^
 ||beginningstock.com^
+||beginshello.com^
 ||beginsrainbowcamomile.com^
 ||begnawkareau.cfd^
 ||begolbatan.com^
@@ -25601,6 +25602,7 @@ vkcdnservice.appspot.com^
 ||hypogynscathed.qpon^
 ||hypollsteceful.com^
 ||hypopusureal.cyou^
+||hypsdoupion.cfd^
 ||hypttoyynpjin.net^
 ||hyqokzrsxklqs.site^
 ||hyqpdpkxskhao.online^
@@ -30086,6 +30088,7 @@ vkcdnservice.appspot.com^
 ||letchouzockee.net^
 ||letdownlyricallyquarry.com^
 ||lethalbask.com^
+||lethalserth.shop^
 ||lethargyplatingsatin.com^
 ||letitnews.com^
 ||letitredir.com^
@@ -37668,6 +37671,7 @@ vkcdnservice.appspot.com^
 ||phowiver.qpon^
 ||phoysrgipoku.com^
 ||phpbjalhigtqe.site^
+||phphtjingkosayette.cfd^
 ||phphtscriver.com^
 ||phprdouhkyukn.space^
 ||phpzsathmoeon.online^
@@ -39152,6 +39156,7 @@ vkcdnservice.appspot.com^
 ||pstreetma.com^
 ||psucmazailsaps.net^
 ||psudsoockaign.net^
+||psufgguclyxhl.site^
 ||psuhfbue.com^
 ||psuhofevzdnyz.online^
 ||psulrushe.net^
@@ -50478,6 +50483,7 @@ vkcdnservice.appspot.com^
 ||vmntnkbmcdvyy.space^
 ||vmouptcdare.com^
 ||vmring.cc^
+||vmrqhfbfvkmj.com^
 ||vmuid.com^
 ||vmwoxqroobncg.online^
 ||vmxckyomhbtcz.space^
@@ -50966,6 +50972,7 @@ vkcdnservice.appspot.com^
 ||wacthobbegkx.net^
 ||wadauthy.net^
 ||wadecarbohydrate.com^
+||waecfxgwypwoh.space^
 ||waescyne.com^
 ||waeshana.com^
 ||waexhoxdqigad.space^
