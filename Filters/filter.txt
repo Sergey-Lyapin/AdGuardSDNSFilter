@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-31T12:43:16.330Z
+! Last modified: 2026-01-31T14:22:44.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||stanzytkyx.com^
 ||controversychilly.com^
 ||sparrowcanned.com^
 ||hairsromance.com^
@@ -7881,6 +7882,7 @@ vkcdnservice.appspot.com^
 ||admireddepressedsarcastic.com^
 ||admiredeterioratesinner.com^
 ||admiredjumper.com^
+||admiredpopulation.pro^
 ||admiredtrick.com^
 ||admiregarrisonnetwork.com^
 ||admissibleconference.com^
@@ -12057,6 +12059,7 @@ vkcdnservice.appspot.com^
 ||boobausauhipsa.net^
 ||boobbounds.com^
 ||boodaisi.xyz^
+||boogiesflathe.cfd^
 ||boogiesspoach.qpon^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -14328,6 +14331,7 @@ vkcdnservice.appspot.com^
 ||clickcash.com^
 ||clickcdn.co^
 ||clickco.net^
+||clickcudwort.shop^
 ||clickdescentchristmas.com^
 ||clickexperts.net^
 ||clickgate.biz^
@@ -14628,6 +14632,7 @@ vkcdnservice.appspot.com^
 ||cofqvtyrtujpl.website^
 ||coftfdtcjtnjt.website^
 ||cogaijaimt.net^
+||cogenerrechose.qpon^
 ||cogesrtordlwm.tech^
 ||coghlemaselin.cfd^
 ||cognatesyringe.com^
@@ -18913,6 +18918,7 @@ vkcdnservice.appspot.com^
 ||emdubwpifloqg.space^
 ||emediate.dk^
 ||emeemutheese.net^
+||emeeriwwood.qpon^
 ||emeerunoily.com^
 ||ementrandings.org^
 ||ementseconom.org^
@@ -19589,6 +19595,7 @@ vkcdnservice.appspot.com^
 ||eudaruffles.cfd^
 ||eudistoutlets.help^
 ||euezpnhisvvhl.online^
+||eufyhrumanann.website^
 ||eugxibbuhk.com^
 ||euizhltcd6ih.com^
 ||eujeopalyxukw.com^
@@ -22048,6 +22055,7 @@ vkcdnservice.appspot.com^
 ||galaksion.com^
 ||galaxyearningsfly.com^
 ||galaxypush.com^
+||galeechook.com^
 ||galeindelicatedrove.com^
 ||galemammals.shop^
 ||galepush.net^
@@ -22880,6 +22888,7 @@ vkcdnservice.appspot.com^
 ||globaltraffico.com^
 ||globatemudbankexhumes.cfd^
 ||globeofnews.com^
+||globerotate.com^
 ||globingnasal.help^
 ||globsoukra.net^
 ||globwo.online^
@@ -26236,6 +26245,7 @@ vkcdnservice.appspot.com^
 ||imamateblithe.cfd^
 ||imbalmbidene.com^
 ||imbandptoses.world^
+||imbedsclopped.qpon^
 ||imbet.site^
 ||imbfsidnchope.site^
 ||imbosvatakyvt.site^
@@ -26704,6 +26714,7 @@ vkcdnservice.appspot.com^
 ||intendsopush.com^
 ||intendwaitresssalty.com^
 ||intentanalysis.com^
+||intentionalfahrenheit.com^
 ||intentionalhurt.pro^
 ||intentionaltransition.pro^
 ||intentionproof.com^
@@ -34642,6 +34653,7 @@ vkcdnservice.appspot.com^
 ||noohapou.com^
 ||noohifauptesu.net^
 ||nookentangledirectness.com^
+||nookqwvdlwq.com^
 ||noolt.com^
 ||nooningguffin.cyou^
 ||noopoacogoa.net^
@@ -35486,6 +35498,7 @@ vkcdnservice.appspot.com^
 ||oduauledfalmc.online^
 ||odvazhfsnswns.online^
 ||odxtwpsygcpgt.space^
+||odxuiaakoumao.space^
 ||odyeocykadelh.website^
 ||odyjsxwapjvac.online^
 ||odylepeeoy.rest^
@@ -45159,6 +45172,7 @@ vkcdnservice.appspot.com^
 ||spherical-brilliant.com^
 ||sphericalwife.pro^
 ||sphidaphyps.com^
+||sphinxillbred.com^
 ||spice-sugar.net^
 ||spicedeirene.cyou^
 ||spiceforthjobless.com^
@@ -48589,6 +48603,7 @@ vkcdnservice.appspot.com^
 ||uaivqzpqzehth.love^
 ||uajebcmnce.com^
 ||uajgfkbpypbsa.site^
+||uajkaphyuopgu.website^
 ||uakarisigneur.com^
 ||uakexjkcae.com^
 ||uaktjvdbrstrg.online^
@@ -49174,6 +49189,7 @@ vkcdnservice.appspot.com^
 ||unhelmweiring.cfd^
 ||unhivjqsbpvdg.space^
 ||unhotpockily.help^
+||unicingmennuet.qpon^
 ||unicornpride123.com^
 ||unidentifiedrelatecalled.com^
 ||unifacedaffing.cfd^
@@ -51360,6 +51376,7 @@ vkcdnservice.appspot.com^
 ||waspnaut.cfd^
 ||wasqimet.net^
 ||wastabljellib.com^
+||wastagelulabs.cfd^
 ||wasteful-read.pro^
 ||wastefulrope.com^
 ||wasteresents.shop^
@@ -51367,6 +51384,7 @@ vkcdnservice.appspot.com^
 ||wastinghaplome.cyou^
 ||wastoowuth.net^
 ||watanabehono.info^
+||watapesjazzesscalene.qpon^
 ||watch-now.club^
 ||watchcpm.com^
 ||watchetifuters.cloud^
@@ -52925,6 +52943,7 @@ vkcdnservice.appspot.com^
 ||xbc91f9n8gk524w9u4vzlq.cfd^
 ||xbeaspolzddtc.space^
 ||xbftcjudbgbha.website^
+||xbhvwpmkjvgeb.website^
 ||xbiicstjgsqpr.website^
 ||xbkcaouzpdgpb.site^
 ||xblymwmlhadfh.website^
