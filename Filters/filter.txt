@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-05T14:41:27.416Z
+! Last modified: 2026-02-05T16:44:31.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||garudakrakatau.com^
+||demonicclanstarch.com^
 ||one-new-message.com^
 ||qwooxrmixmzi.com^
 ||direct-specific.com
@@ -11715,6 +11717,7 @@ vkcdnservice.appspot.com^
 ||bochnvmvvzeqc.space^
 ||bochurwhicker.click^
 ||bochutoartoasu.net^
+||bocj4lt2etrl4bvpz5w.rest^
 ||bockouphourgait.net^
 ||bodegashunlike.com^
 ||bodieraisles.shop^
@@ -15359,6 +15362,7 @@ vkcdnservice.appspot.com^
 ||cursednomad.com^
 ||cursersvarved.qpon^
 ||cursinglucanid.cfd^
+||cursncpnsi.com^
 ||cursorpreach.com^
 ||curstlyaborterbacks.cfd^
 ||curtcrannyhustle.com^
@@ -18283,6 +18287,7 @@ vkcdnservice.appspot.com^
 ||ejoanpaklnyrg.space^
 ||ejpmrwxzzggrx.online^
 ||ejqeijlnjfaxn.online^
+||ejqnbutjxfssk.com^
 ||ejrzeehyqboza.website^
 ||ejspelwr.xyz^
 ||ejsxzsisfbvfm.online^
@@ -22498,6 +22503,7 @@ vkcdnservice.appspot.com^
 ||goddedkrater.com^
 ||godkc.com^
 ||godkinhont.qpon^
+||godlesscourieradmirable.com^
 ||godlessgirlsmoothly.com^
 ||godlierlepchabegster.cfd^
 ||godlierserums.cfd^
@@ -23003,6 +23009,7 @@ vkcdnservice.appspot.com^
 ||grtyj.com^
 ||grubby-freedom.com^
 ||grubby-sink.pro^
+||grubby-zone.pro^
 ||grubbybaken.cfd^
 ||grubgranted.com^
 ||grubpaths.com^
@@ -23162,6 +23169,7 @@ vkcdnservice.appspot.com^
 ||gulliesdamozel.cfd^
 ||gullsharpy.help^
 ||gulpiersqueaky.shop^
+||gulpingoafsfifo.cfd^
 ||gulsyangtao.guru^
 ||gumapoqpscumd.space^
 ||gumihancymlin.cyou^
@@ -23852,6 +23860,7 @@ vkcdnservice.appspot.com^
 ||hegqbcoplnfmx.site^
 ||hegraixaimp.net^
 ||hegrbaokqwzll.website^
+||hegzhmfoe.com^
 ||hehadstoppedto.org^
 ||hehewow.com^
 ||heighencarpa.cyou^
@@ -28678,6 +28687,7 @@ vkcdnservice.appspot.com^
 ||ksqkmhdydi.net^
 ||ksrameyexbogf.space^
 ||kstnyuhvyrtpp.club^
+||ksvjmvrjjo.com^
 ||ksvnwdhtvndeq.site^
 ||kswaskvtvqae.net^
 ||ksygnkfxxdhse.website^
@@ -30347,6 +30357,7 @@ vkcdnservice.appspot.com^
 ||ltjlizbdmbxdy.online^
 ||ltlkcemdhwroc.website^
 ||ltlldtoyvvbkz.store^
+||ltm25nmm3ppuwk5w79oghvhjjtjxm.cfd^
 ||ltnchfmuwmltz.space^
 ||ltnpqdlvyhynv.website^
 ||ltnrlwuwzcqsl.space^
@@ -35287,6 +35298,7 @@ vkcdnservice.appspot.com^
 ||orjlsopkbtieb.store^
 ||orkyoawjouvebd.xyz^
 ||orlglnaldates.net^
+||orlmfvvlhgdkauh.com^
 ||orlowedonhisdhilt.info^
 ||orlysoiree.cfd^
 ||ormhyvwciiqqg.space^
@@ -43162,6 +43174,7 @@ vkcdnservice.appspot.com^
 ||skivesfogyismmatelow.cyou^
 ||skiwiesbelinda.help^
 ||skkjtopbgnflw.website^
+||skkrgcnj.xyz^
 ||sklatemustyshifty.cfd^
 ||skmwqnhqhlceg.site^
 ||skolshrinks.qpon^
@@ -44233,6 +44246,7 @@ vkcdnservice.appspot.com^
 ||staufainsous.com^
 ||staujourous.net^
 ||staumpempoak.net^
+||staunchharmonious.com^
 ||staunchtownsegg.com^
 ||staunchtyken.cyou^
 ||staupsoaksy.net^
@@ -44292,6 +44306,7 @@ vkcdnservice.appspot.com^
 ||stereemain.net^
 ||stereospoutfireextinguisher.com^
 ||stereotypeswig.com^
+||stererypeckstashed.cfd^
 ||sternedboheas.help^
 ||steroidbazaarbalance.com^
 ||steroidslaughteradvertise.com^
@@ -47951,6 +47966,7 @@ vkcdnservice.appspot.com^
 ||unwelcometown.com^
 ||unwelcometry.pro^
 ||unwelcomewave.pro^
+||unwhiptrypan.shop^
 ||unwieldytowel.pro^
 ||unwilling-cable.pro^
 ||unwilling-space.com^
