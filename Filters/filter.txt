@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-05T01:56:29.055Z
+! Last modified: 2026-02-05T04:16:14.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10173,6 +10173,7 @@ vkcdnservice.appspot.com^
 ||axixvytazguot.space^
 ||axjlszfvmfjpx.space^
 ||axjndvucr.com^
+||axkcomjtwke.com^
 ||axlikeariososdasturi.cfd^
 ||axmmilepqvdyj.world^
 ||axnejzdaiyjsq.space^
@@ -12001,6 +12002,7 @@ vkcdnservice.appspot.com^
 ||bpmbhbpmmbndn.online^
 ||bpmfagzlptbxp.site^
 ||bpmpcqyvhellh.com^
+||bpmsqurkg.com^
 ||bpoiscqmwxej.buzz^
 ||bpojutddbiktb.website^
 ||bpoypqlymovdt.site^
@@ -18630,6 +18632,7 @@ vkcdnservice.appspot.com^
 ||enigmamedicine.com^
 ||enigmanarrativedime.com^
 ||enigmaswhereas.com^
+||enislesghettosmusquaw.cfd^
 ||eniza.site^
 ||enjkmqtrhycht.online^
 ||enjoyablefax.com^
@@ -19081,6 +19084,7 @@ vkcdnservice.appspot.com^
 ||etqzttxmlrgxm.space^
 ||etrem.site^
 ||etterismypersonal.com^
+||ettnavhv.com^
 ||ettqeirvwtxah.online^
 ||etuaoleums.help^
 ||etukuqstzpkzz.space^
@@ -19829,6 +19833,7 @@ vkcdnservice.appspot.com^
 ||feaseguerite.help^
 ||feaseshognose.qpon^
 ||feasibledecisiveasserted.com^
+||feasibleunpredictable.com^
 ||feastgiddybleeding.com^
 ||featuregangster.com^
 ||featurelockout.com^
@@ -22339,6 +22344,7 @@ vkcdnservice.appspot.com^
 ||glvhvesvnp.com^
 ||glvmtlnxdxdhl.website^
 ||glwmbwogaqwop.space^
+||glwxxxvn.com^
 ||glxacqtlhomgu.online^
 ||glxtest.site^
 ||glycidnates.cyou^
@@ -23181,6 +23187,7 @@ vkcdnservice.appspot.com^
 ||guzzlealibied.cyou^
 ||gv9bykk4hi6eze9b8umymh3ggz.cfd^
 ||gvbcsteidxqmd.website^
+||gvcudlhp.com^
 ||gvdjmcztiqwhw.website^
 ||gvdxudyoswyfp.online^
 ||gvebfzopfpezm.website^
@@ -25790,6 +25797,7 @@ vkcdnservice.appspot.com^
 ||inexpedientlads.com^
 ||inexperiencedunseensuggested.com^
 ||infacejimjam.help^
+||infameeagled.com^
 ||infamous-atmosphere.pro^
 ||infamouschurch.pro^
 ||infamoussurround.pro^
@@ -31101,6 +31109,7 @@ vkcdnservice.appspot.com^
 ||mdusneoid.rest^
 ||mdwzdvbjkixim.site^
 ||mdyhysyezdigw.online^
+||me16pfeuqj9q3qj.cfd^
 ||meager-conclusion.com^
 ||mealdisparitydrip.com^
 ||meandermajagua.cyou^
@@ -33545,6 +33554,7 @@ vkcdnservice.appspot.com^
 ||nodoseshamus.rest^
 ||nodthunderthis.com^
 ||noduwzniqnshf.site^
+||noeticsbootiedunsell.qpon^
 ||noeuymfjtquuk.site^
 ||nofilemaskeg.qpon^
 ||noftclykhdllg.space^
@@ -38691,6 +38701,7 @@ vkcdnservice.appspot.com^
 ||q97h1l5ktwg6w7ffhtp.rest^
 ||q9986woieplhxz.cfd^
 ||q99i1qi6.de^
+||qabxnphqmxthw.com^
 ||qaflyqanumeji.online^
 ||qafmixlijwr.com^
 ||qahmipatkmaj.com^
@@ -40118,6 +40129,7 @@ vkcdnservice.appspot.com^
 ||refpasrasw.world^
 ||refrainanthony.com^
 ||refraintsarcoma.com^
+||refreidbelchedovergot.cyou^
 ||refreshmentwisertowards.com^
 ||refriesferned.qpon^
 ||refrigeratebranchtheological.com^
@@ -42400,6 +42412,7 @@ vkcdnservice.appspot.com^
 ||serpentinefeed.com^
 ||sersabion.com^
 ||sertivepremier.cfd^
+||sertuleyatvyag.qpon^
 ||serumlyrisms.cfd^
 ||serumsugareffective.com^
 ||serutredcoll.com^
@@ -51922,6 +51935,7 @@ vkcdnservice.appspot.com^
 ||y1jxiqds7v.com^
 ||y1z29vqt4pgxg9ri.cfd^
 ||y1zoxngxp.com^
+||y32jle1grurk3p8.rest^
 ||y42rru7u1cwijz9bxmunjfp2e79ex4xq6.cfd^
 ||y4n7m8zic2frkvx9.cfd^
 ||y8hrpipr43t1w7.cfd^
@@ -52172,6 +52186,7 @@ vkcdnservice.appspot.com^
 ||ygoqsybudqczf.website^
 ||ygrgyhhexvwvs.site^
 ||yguychjhiayuj.site^
+||ygwquncboud.xyz^
 ||ygzrbzzfccqua.online^
 ||yhbatwdehlcrz.website^
 ||yhbcii.com^
