@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-10T20:42:02.763Z
+! Last modified: 2026-02-10T22:37:52.444Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6999,6 +6999,7 @@ vkcdnservice.appspot.com^
 ||8162f6c343.com^
 ||819mng4kn6wybgg.cfd^
 ||81af8eb64e.com^
+||81b3xokzur2c6vo95igg14iuco.rest^
 ||821e113467.com^
 ||8231e5c33a.com^
 ||82d36b5fc4.com^
@@ -9489,6 +9490,7 @@ vkcdnservice.appspot.com^
 ||aqle3.com^
 ||aqleispxkvda.xyz^
 ||aqlnyhwiulwbm.website^
+||aqluiuckcnxkg.website^
 ||aqnlyporcwcvq.space^
 ||aqoifpujbbptd.space^
 ||aqouezvllvgox.site^
@@ -9948,6 +9950,7 @@ vkcdnservice.appspot.com^
 ||attendsdeewan.com^
 ||attentionantecedentsuperb.com^
 ||attentive-path.com^
+||attentivefee.pro^
 ||attentiverutfamous.com^
 ||atticalgodshipthumps.qpon^
 ||atticcourthousetechnique.com^
@@ -13177,6 +13180,7 @@ vkcdnservice.appspot.com^
 ||cartnye.qpon^
 ||cartrigepromised.com^
 ||cartrigestale.com^
+||carucaleagle.qpon^
 ||carungo.com^
 ||carvaltunnage.cfd^
 ||carvedseptembernest.com^
@@ -14192,6 +14196,7 @@ vkcdnservice.appspot.com^
 ||clcyhugcse.net^
 ||cldirplarimo.com^
 ||cldlr.com^
+||cldnpegyfstse.space^
 ||cleamertowbar.cyou^
 ||clean-browsing.com^
 ||clean.gg^
@@ -15484,6 +15489,7 @@ vkcdnservice.appspot.com^
 ||ctsdwm.com^
 ||cttidjdivuexl.website^
 ||ctubhxbaew.com^
+||ctvtzeqqgenre.online^
 ||ctwcanlknfuoz.site^
 ||ctwmcd.com^
 ||ctwmed.com^
@@ -15542,6 +15548,7 @@ vkcdnservice.appspot.com^
 ||cullemple-motline.com^
 ||cullionaweel.cyou^
 ||culmedpasses.cam^
+||culmyscapoid.cfd^
 ||culnas.click^
 ||culotteuta.qpon^
 ||culponkinema.cfd^
@@ -15600,6 +15607,7 @@ vkcdnservice.appspot.com^
 ||curiouslyconcern.com^
 ||curiouslyplanning.com^
 ||curitesgums.qpon^
+||curiumuribagonet.qpon^
 ||curledpastpatty.com^
 ||curlsbatter.com^
 ||curlsseizuregolan.com^
@@ -16701,6 +16709,7 @@ vkcdnservice.appspot.com^
 ||dheketusdfcpn.online^
 ||dhertouchingthe.org^
 ||dhhardtosntrk.site^
+||dhkdordhnlxcz.space^
 ||dhmfgzuhhusoz.online^
 ||dhncuhar.xyz^
 ||dhnxalgfditdo.online^
@@ -19224,6 +19233,7 @@ vkcdnservice.appspot.com^
 ||equaleddelly.qpon^
 ||equalpreparation.pro^
 ||equarm.click^
+||equatorialcloud.pro^
 ||equatorspitefulbilliards.com^
 ||equidcoward.cyou^
 ||equilibriumfestive.com^
@@ -21245,6 +21255,7 @@ vkcdnservice.appspot.com^
 ||fpxpobaudkjzu.site^
 ||fpyf8.com^
 ||fpyhhnyycugrd.website^
+||fpyjacudptcrr.website^
 ||fqayoymigvmbw.website^
 ||fqbbtbvqgqbia.online^
 ||fqbhvdgaqchdm.xyz^
@@ -22772,6 +22783,7 @@ vkcdnservice.appspot.com^
 ||glowingnews.com^
 ||glowparegal.cfd^
 ||glozepeloton.cfd^
+||glozervilest.shop^
 ||glozerxenictoast.cyou^
 ||glozingweakweeze.cyou^
 ||glqomjkpepqam.site^
@@ -25623,6 +25635,7 @@ vkcdnservice.appspot.com^
 ||iaeaadfleusbk.site^
 ||iaeqayiwasqee.website^
 ||iafixnjsgasps.store^
+||iagochfdbvhkk.space^
 ||iagrus.com^
 ||iahlyftiumutx.site^
 ||iaibunpknqzvw.website^
@@ -28057,6 +28070,7 @@ vkcdnservice.appspot.com^
 ||jtxvktxabvewp.site^
 ||jtytawsydhfih.website^
 ||jtzrhflqbnbal.website^
+||ju1y4o73qzn54qu1gu.cfd^
 ||ju52cfzjk2rjlhkfyvt.cfd^
 ||juanpingers.com^
 ||juausnanolbbs.space^
@@ -36003,6 +36017,7 @@ vkcdnservice.appspot.com^
 ||oqhhjzdtexufr.site^
 ||oqkhxgzljvqzr.store^
 ||oqkixahtjpbbs.online^
+||oqlidusgxkxa.com^
 ||oqmiadfkmlcwz.website^
 ||oqmxzuagpokf.com^
 ||oqqonjjyswbkgud.com^
@@ -37490,6 +37505,7 @@ vkcdnservice.appspot.com^
 ||pharehocks.cfd^
 ||pharmacycoercive.com^
 ||pharmcash.com^
+||phaseunfabularhefting.cfd^
 ||phasexeemaudsie.net^
 ||phastoag.com^
 ||phaugroajodsib.net^
@@ -40466,6 +40482,7 @@ vkcdnservice.appspot.com^
 ||qxdownload.com^
 ||qxewl7bmn9pup6135hzqmlb3w7hvey1o35g.cfd^
 ||qxhjutyuykewi.store^
+||qxiotaedhnlvg.online^
 ||qxjvugdjhxjmm.site^
 ||qxkjouybtbqrw.space^
 ||qxoavfdykiqwh.space^
@@ -43211,6 +43228,7 @@ vkcdnservice.appspot.com^
 ||sdfsdvc.com^
 ||sdftjepmiwcwq.space^
 ||sdggvtejxhojo.website^
+||sdghktrwuyesk.website^
 ||sdgrpwleihxjm.space^
 ||sdhfbvd.com^
 ||sdhgvevmmaxxy.website^
@@ -44771,6 +44789,7 @@ vkcdnservice.appspot.com^
 ||sovereignlooarm.com^
 ||soviethearthfps.cfd^
 ||sovietransom.com^
+||sovietsite.com^
 ||soviettreasures.com^
 ||sovpantine.cfd^
 ||sovuyibacinnb.space^
@@ -45104,6 +45123,7 @@ vkcdnservice.appspot.com^
 ||sqxozutfwnwjj.website^
 ||sqyoswjftqnjk.online^
 ||sqyuxifbrkuez.website^
+||sqzwgogsloktr.site^
 ||srasomqmogkfpc.net^
 ||sravakaeastre.cfd^
 ||srbgalkyxmohn.online^
@@ -45117,6 +45137,7 @@ vkcdnservice.appspot.com^
 ||srowvggksbuvv.vip^
 ||srpchbxglnjfv.site^
 ||srtlgucdko.com^
+||srtqpnsvvh.xyz^
 ||srtrak.com^
 ||srv224.com^
 ||srvb1.com^
@@ -48030,6 +48051,7 @@ vkcdnservice.appspot.com^
 ||tubeelite.com^
 ||tubefulsewers.com^
 ||tubemov.com^
+||tubericasso.cyou^
 ||tubeultra.com^
 ||tubfurryhen.com^
 ||tubicenpokeful.qpon^
@@ -48490,6 +48512,7 @@ vkcdnservice.appspot.com^
 ||ufaexpert.com^
 ||ufbpqmryrrctn.site^
 ||ufbspzgoirfha.website^
+||ufbxejvj.com^
 ||ufcxoaidboqxt.site^
 ||ufdxzbxnnkulz.online^
 ||ufecyfanfekys.site^
@@ -48773,6 +48796,7 @@ vkcdnservice.appspot.com^
 ||umzwmufdxrcrf.site^
 ||unaces.com^
 ||unactkiosk.com^
+||unaisscreams.qpon^
 ||unaitrey.shop^
 ||unakinloggin.com^
 ||unanimousinflammableboxing.com^
@@ -49338,6 +49362,7 @@ vkcdnservice.appspot.com^
 ||uqxtyjclokxex.website^
 ||uqzoyikxsfhdr.space^
 ||urablqistynjk.online^
+||uraemiapeage.cfd^
 ||uralicchatot.com^
 ||urban-signal.pro^
 ||urbanercockily.cyou^
@@ -50265,6 +50290,7 @@ vkcdnservice.appspot.com^
 ||vilytaku.com^
 ||vimrcluqfmwih.site^
 ||vimzwlhchcrrb.online^
+||vindexlisped.cyou^
 ||vindicosuite.com^
 ||vindictivemopenthrone.com^
 ||vinegardaring.com^
@@ -50337,6 +50363,7 @@ vkcdnservice.appspot.com^
 ||visionmemorable.com^
 ||visitarkqr.click^
 ||visiteddrunkardcontaining.com^
+||visitegaskets.cfd^
 ||visitingmargaretantony.com^
 ||visitingthirdnine.com^
 ||visitorscholar.com^
