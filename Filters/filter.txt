@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-10T19:03:16.658Z
+! Last modified: 2026-02-10T20:42:02.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12284,6 +12284,7 @@ vkcdnservice.appspot.com^
 ||bred4tula.com^
 ||breechesbiddingratification.com^
 ||breedscrockrobes.com^
+||brehrdqjhyaga.site^
 ||breixmdldvvfa.website^
 ||breka.fit^
 ||bremiajos.cfd^
@@ -25224,6 +25225,7 @@ vkcdnservice.appspot.com^
 ||hrwhwcyqjritt.xyz^
 ||hrwlolycdpmnw.site^
 ||hrwozjgbmxiad.website^
+||hrwshoskzmugy.online^
 ||hrxeublgkniat.website^
 ||hrxtbicnsiunn.online^
 ||hscfjrtmjpabs.website^
@@ -30683,6 +30685,7 @@ vkcdnservice.appspot.com^
 ||loftyknifeeducate.com^
 ||logairdauraumoo.net^
 ||logbookvising.qpon^
+||logdcbvmekfp.com^
 ||loggeraevumcourge.cyou^
 ||loggeraurelia.cfd^
 ||loggieget.cyou^
@@ -33791,6 +33794,7 @@ vkcdnservice.appspot.com^
 ||nebuksaipaush.net^
 ||nebulousfledwhy.com^
 ||nebulyguest.cfd^
+||necessary-catch.pro^
 ||necessaryseat.com^
 ||necjqkadyfwgf.store^
 ||neckcaterer.com^
@@ -36803,6 +36807,7 @@ vkcdnservice.appspot.com^
 ||palmitekrubut.cyou^
 ||palpartiallybricks.com^
 ||palpatecricketmajesty.com^
+||palpategyppedfirers.cyou^
 ||palpateshakedecoy.com^
 ||palsybecamedislike.com^
 ||palsybrush.com^
@@ -36895,6 +36900,7 @@ vkcdnservice.appspot.com^
 ||paroduscoiny.cyou^
 ||parolsliquory.help^
 ||parrotsgrillsevent.cyou^
+||parrotslippedcresol.cfd^
 ||parrotybecurry.qpon^
 ||parseaka.cyou^
 ||parserskiotomy.com^
@@ -38370,6 +38376,7 @@ vkcdnservice.appspot.com^
 ||portentjonasfewer.com^
 ||portionsmeltdown.com^
 ||portkingric.net^
+||portptfeyfcnx.space^
 ||portswaving.com^
 ||portunitytostar.org^
 ||porzhbcbxgdsu.space^
@@ -47206,6 +47213,7 @@ vkcdnservice.appspot.com^
 ||tmbhsooxjskfc.site^
 ||tmbiounhsqufo.online^
 ||tmbsttvrgwmnc.space^
+||tmbztnhqilhnv.site^
 ||tmbzzscswoyir.space^
 ||tmculdluhuyfi.space^
 ||tmdsrbtmrnwxz.website^
@@ -48484,6 +48492,7 @@ vkcdnservice.appspot.com^
 ||ufbspzgoirfha.website^
 ||ufcxoaidboqxt.site^
 ||ufdxzbxnnkulz.online^
+||ufecyfanfekys.site^
 ||uffntgsdxwyog.online^
 ||ufirmirylfavb.online^
 ||ufjrhcjmb9fz694f.cfd^
