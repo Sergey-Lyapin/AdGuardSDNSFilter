@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-10T13:09:37.039Z
+! Last modified: 2026-02-10T14:57:08.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -18581,6 +18581,7 @@ vkcdnservice.appspot.com^
 ||ejexgcirsdwvx.online^
 ||ejgagatlwtvfc.website^
 ||ejgmkvprpjqww.site^
+||ejhlcimbpsqwj.site^
 ||ejihhtgvjeglq.online^
 ||ejlqdcyrjsakh.site^
 ||ejmfafawvxqam.online^
@@ -22753,6 +22754,7 @@ vkcdnservice.appspot.com^
 ||glowingnews.com^
 ||glowparegal.cfd^
 ||glozepeloton.cfd^
+||glozerxenictoast.cyou^
 ||glozingweakweeze.cyou^
 ||glqomjkpepqam.site^
 ||glqsxlvrhuxba.love^
@@ -25616,6 +25618,7 @@ vkcdnservice.appspot.com^
 ||ianoubcdoavip.website^
 ||iaopbzjfhemrb.website^
 ||iapygessaining.cyou^
+||iapzzgtuekvbz.website^
 ||iarekbazzdlqm.space^
 ||iarofhjdkxwyp.store^
 ||iasbetaffiliates.com^
@@ -25967,6 +25970,7 @@ vkcdnservice.appspot.com^
 ||ijlodgbprmlwm.space^
 ||ijmaacotton.help^
 ||ijnjltxlnljnfsr.com^
+||ijonttlckafzo.space^
 ||ijtlu.tech^
 ||ijwcnuyyiydhc.website^
 ||ikahnruntx.com^
@@ -30831,6 +30835,7 @@ vkcdnservice.appspot.com^
 ||loylhwrirejyj.website^
 ||loytegdyewtij.site^
 ||loyxjgtmbgirkn.net^
+||lozengehelped.com^
 ||lozengeshould.com^
 ||lozna.xyz^
 ||lp-preview.net^
@@ -31408,6 +31413,7 @@ vkcdnservice.appspot.com^
 ||maillottuttiesselsyn.cyou^
 ||maimaigrech.net^
 ||maimerbedcasefizzier.cyou^
+||maimswilkin.cyou^
 ||mainadcenter.com^
 ||mainadv.com^
 ||mainexclkdir.com^
@@ -31811,6 +31817,7 @@ vkcdnservice.appspot.com^
 ||mdsdnwagyymbr.space^
 ||mdsvzlhktbgey.space^
 ||mdusneoid.rest^
+||mdvsrvyjsnwds.site^
 ||mdwzdvbjkixim.site^
 ||mdyhysyezdigw.online^
 ||me16pfeuqj9q3qj.cfd^
@@ -32106,6 +32113,7 @@ vkcdnservice.appspot.com^
 ||mgf6cgtr5xelnpkj4fq873lpjz27h3.cfd^
 ||mgfovsauwpkkp.website^
 ||mgfutkkdzvwtg.site^
+||mgfzreabtceaz.website^
 ||mghfyazzxgwdo.website^
 ||mghkpg.com^
 ||mgid.com^
@@ -36565,6 +36573,7 @@ vkcdnservice.appspot.com^
 ||oykqvhduikwta.site^
 ||oylwjvhtuooax.website^
 ||oymfopsxkdygv.online^
+||oynebiafayaf.com^
 ||oynveturupdut.site^
 ||oyo4d.com^
 ||oyochdelkyabx.website^
@@ -38014,6 +38023,7 @@ vkcdnservice.appspot.com^
 ||plushesmafura.help^
 ||plushpanic.com^
 ||plussesquirite.shop^
+||plutoukiyoye.cyou^
 ||pluvianuruguay.com^
 ||pluxpdzouwubj.space^
 ||plxduievuehvu.website^
@@ -39163,6 +39173,7 @@ vkcdnservice.appspot.com^
 ||ptouzoorsimto.net^
 ||ptp22.com^
 ||ptpfpbzfegrmv.site^
+||ptqcyyunlwfmj.online^
 ||ptqdlabxislis.store^
 ||ptqfwlcauvlqi.space^
 ||ptteftlplcccr.online^
@@ -40228,6 +40239,7 @@ vkcdnservice.appspot.com^
 ||quartzgradient.net^
 ||quashtancel.cyou^
 ||quasicurrant.com^
+||quaskyancona.shop^
 ||quatuorkebob.help^
 ||quaukruffed.com^
 ||quavereverydayby.com^
@@ -40905,6 +40917,7 @@ vkcdnservice.appspot.com^
 ||rebukeamalett.cfd^
 ||rebukeirresistiblesubstitute.com^
 ||rebukemusclesshark.com^
+||rebukeparings.cfd^
 ||rebukergarceblarina.qpon^
 ||recalldys.cfd^
 ||recantetheric.cyou^
@@ -43212,6 +43225,7 @@ vkcdnservice.appspot.com^
 ||secondlyspotlessedition.com^
 ||secprf.com^
 ||secrecysibiric.help^
+||secret-smell.pro^
 ||secretaalders.help^
 ||secretarypleasure.xyz^
 ||secretlyunjust.com^
@@ -44774,6 +44788,7 @@ vkcdnservice.appspot.com^
 ||speckencampment.com^
 ||spectaclesclottedrobber.com^
 ||spectacuiardate.com^
+||spectacular-importance.pro^
 ||spectacular-magazine.pro^
 ||spectacular-temporary.com^
 ||spectacularimmunity.com^
@@ -48214,6 +48229,7 @@ vkcdnservice.appspot.com^
 ||tyrrfurcule.cyou^
 ||tyserving.com^
 ||tysigpzjxjegb.space^
+||tytulcernodules.qpon^
 ||tyuhwlerptkcl.website^
 ||tyuknsyenergy.com^
 ||tyuvxopgalzlg.online^
@@ -50430,6 +50446,7 @@ vkcdnservice.appspot.com^
 ||vnfptydtktoio.online^
 ||vnhmdeyzvmgho.love^
 ||vnhqpkkagysdytx.com^
+||vnjfknqhebwq.com^
 ||vnpcqiazqmzeq.online^
 ||vnrbjvbwbqfob.click^
 ||vntsm.com^
@@ -56273,6 +56290,7 @@ vkcdnservice.appspot.com^
 ||admonishdecisiveyetnow.com^
 ||amongstbirdbath.com^
 ||aroundveinfixed.com^
+||battleickhope.com^
 ||becausepishworth.com^
 ||blushingstandard.com^
 ||candidpick.com^
