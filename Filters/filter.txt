@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-11T13:06:07.479Z
+! Last modified: 2026-02-11T14:51:35.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20679,6 +20679,7 @@ vkcdnservice.appspot.com^
 ||firtaips.com^
 ||firvmamosigpu.website^
 ||fisetindebye.cyou^
+||fishierprf.shop^
 ||fishingslaplobby.com^
 ||fishnetunbid.qpon^
 ||fiskaqqjajwqv.website^
@@ -45543,6 +45544,7 @@ vkcdnservice.appspot.com^
 ||sthevoyager.org^
 ||stibilpirra.com^
 ||stibiumalcosol.cyou^
+||stichosrages.cfd^
 ||stickingallot.com^
 ||sticky-bid.pro^
 ||sticky-luck.pro^
@@ -50365,6 +50367,7 @@ vkcdnservice.appspot.com^
 ||viaticatulsi.help^
 ||viawtankzvaks.space^
 ||vic-m.co^
+||vicaireuniaxal.cfd^
 ||vicecomradecompare.com^
 ||viceoptionsrattle.com^
 ||vicesus.com^
@@ -51531,6 +51534,7 @@ vkcdnservice.appspot.com^
 ||webfreesave.monster^
 ||webkelpfulinotaher.com^
 ||webmedrtb.com^
+||webmkiexwvanz.space^
 ||webpinp.com^
 ||webpushcloud.info^
 ||webseeds.com^
