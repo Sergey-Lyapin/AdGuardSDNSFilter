@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-14T06:41:52.175Z
+! Last modified: 2026-02-14T08:30:03.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||atytentioniaukmla.org^
+||d1j5bhx6uel4km.cloudfront.net^
 ||frugraoqlo.com^
 ||pahter.tech^
 ||pahtuo.tech^
@@ -14350,6 +14352,7 @@ vkcdnservice.appspot.com^
 ||cldirplarimo.com^
 ||cldlr.com^
 ||cldnpegyfstse.space^
+||cleachregiankhalif.cfd^
 ||cleamertowbar.cyou^
 ||clean-browsing.com^
 ||clean.gg^
@@ -21386,6 +21389,7 @@ vkcdnservice.appspot.com^
 ||forbearsnob.com^
 ||forbidcrenels.com^
 ||forblowtribbledunt.qpon^
+||forcefulbeginning.com^
 ||forcefulpacehauled.com^
 ||forcefulwest.com^
 ||forcertollon.help^
@@ -27303,6 +27307,7 @@ vkcdnservice.appspot.com^
 ||istbfayfjgqfa.com^
 ||istipaumophy.com^
 ||istlnkbn.com^
+||istokerejoltillust.cyou^
 ||istsguqiooy.net^
 ||istvakils.cfd^
 ||isueazuwzlmmb.space^
@@ -27801,6 +27806,7 @@ vkcdnservice.appspot.com^
 ||jdt8.net^
 ||jdtqbvirzetyc.website^
 ||jdvncnlwf.net^
+||jdvsmjmlnbgdgnv.com^
 ||jdwqsewrbvnnt.website^
 ||jdxnelgnhtfyq.space^
 ||jdxxuvnrpdmit.space^
@@ -34750,6 +34756,7 @@ vkcdnservice.appspot.com^
 ||nitridsgabfest.cyou^
 ||nitridslah.com^
 ||nitrogenindustrynobleman.com^
+||nitsulquj.com^
 ||niuneujrvefqb.website^
 ||nivjcjfcxttko.online^
 ||nivrdypzuecnd.online^
@@ -42973,6 +42980,7 @@ vkcdnservice.appspot.com^
 ||rpfpmvkkdaahw.online^
 ||rpgcsytgx.xyz^
 ||rpgirls.com^
+||rphbklsatxguq.site^
 ||rphlfhshukhnb.online^
 ||rpjvqmqutauby.space^
 ||rpjxrvhkcntkw.site^
@@ -43107,6 +43115,7 @@ vkcdnservice.appspot.com^
 ||rtbsystem.org^
 ||rtbterra.com^
 ||rtbtrail.com^
+||rtdcdabgoduvo.com^
 ||rtdgdfdfehzrv.space^
 ||rtfwbwstodqyj.site^
 ||rtgio.co^
@@ -43333,6 +43342,7 @@ vkcdnservice.appspot.com^
 ||rwovzozkyg.com^
 ||rwqovmoezrvrv.top^
 ||rwsgrpifj.com^
+||rwsooxswiga.com^
 ||rwsvojqhkafvs.website^
 ||rwtubddzghzzr.site^
 ||rwulzuaqsafn.com^
@@ -47363,6 +47373,7 @@ vkcdnservice.appspot.com^
 ||teekouches.net^
 ||teemeevoug.net^
 ||teeming-service.com^
+||teemingcoach.pro^
 ||teemingsonsy.cyou^
 ||teemooge.net^
 ||teemtechnique.com^
@@ -49774,6 +49785,7 @@ vkcdnservice.appspot.com^
 ||unelectsiwens.qpon^
 ||unequaled-ad.pro^
 ||unequaled-switch.pro^
+||unequaledbeginning.pro^
 ||unequaledchair.com^
 ||unerectsirgang.help^
 ||uneven-cold.pro^
@@ -55213,6 +55225,7 @@ vkcdnservice.appspot.com^
 ||zacygnygluawn.site^
 ||zaevoqatiyylf.online^
 ||zaffirbowly.cfd^
+||zafsayaexptas.online^
 ||zagvee.com^
 ||zahvrkdkeulsy.site^
 ||zaichoaphap.com^
@@ -55297,6 +55310,8 @@ vkcdnservice.appspot.com^
 ||zcoptry.com^
 ||zcorolydmbaha.space^
 ||zcpnzuwahtpxi.space^
+||zcppqspqrayqk.online^
+||zcpzdnfttsvos.online^
 ||zcqinpfm.com^
 ||zcswet.com^
 ||zctyxvnokstqs.website^
@@ -55453,6 +55468,7 @@ vkcdnservice.appspot.com^
 ||zgtuchkwpggji.space^
 ||zgtydezpmxupc.space^
 ||zgukxyhzquesk.love^
+||zgvaicjdorgqa.website^
 ||zgwgoxzayjmqc.store^
 ||zgxzeicunptms.store^
 ||zgyrvygvthohy.site^
@@ -55553,6 +55569,7 @@ vkcdnservice.appspot.com^
 ||zjjohpawymyop.online^
 ||zjjpxxxmderzr.online^
 ||zjjxp.online^
+||zjlasclkahbtq.space^
 ||zjlsdwcytkql.com^
 ||zjmwizpyxsreb.space^
 ||zjqbxcdwwtvtt.site^
