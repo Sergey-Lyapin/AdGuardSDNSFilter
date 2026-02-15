@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-15T06:50:00.625Z
+! Last modified: 2026-02-15T08:31:18.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -19931,6 +19931,7 @@ vkcdnservice.appspot.com^
 ||ewhfrfdrwffkg.website^
 ||ewhoupturuwhoa.net^
 ||ewhrgaiuttvig.space^
+||ewicjscnnufyuqi.com^
 ||ewituhinlargeco.org^
 ||ewjuunftkhpge.net^
 ||ewltkoajehyzr.click^
@@ -28690,6 +28691,7 @@ vkcdnservice.appspot.com^
 ||julrdr.com^
 ||julunggcfdryfvn.xyz^
 ||julyclassesstature.com^
+||julyfellowslaxly.cyou^
 ||jumbo-insurance.pro^
 ||jumbo-order.com^
 ||jumboaffiliates.com^
@@ -46867,6 +46869,7 @@ vkcdnservice.appspot.com^
 ||superiorityroundinhale.com^
 ||superlativedanemistress.com^
 ||superlativemound.com^
+||superlay.pro^
 ||supermaninquirypliable.com^
 ||supernaturalcharlesclone.com^
 ||superonclick.com^
@@ -52089,6 +52092,7 @@ vkcdnservice.appspot.com^
 ||vxpcarcapffdp.global^
 ||vxpjzvyvvvzsh.space^
 ||vxqpuuzamduiw.space^
+||vxravetkep.com^
 ||vxrfmtxqrdubg.site^
 ||vxrpfyuafznyc.online^
 ||vxsdibhjeyvwf.space^
@@ -53642,6 +53646,7 @@ vkcdnservice.appspot.com^
 ||wszcmshnxepkp.website^
 ||wszoizyaoqzcj.site^
 ||wt20trk.com^
+||wt2x6p7j.xyz^
 ||wt9bi8nywgw3l2ot66nb6k.cfd^
 ||wtadloahayytc.online^
 ||wtatrrum.net^
@@ -54390,6 +54395,7 @@ vkcdnservice.appspot.com^
 ||xsaycjhjnwtwk.site^
 ||xsbjtmzcpqlst.space^
 ||xsbrzsgqspkwz.site^
+||xsbyeeescqfjn.online^
 ||xsbzjmhvigahe.space^
 ||xsdsemgyxukwx.space^
 ||xsedsmmfzdgeg.online^
@@ -55117,6 +55123,7 @@ vkcdnservice.appspot.com^
 ||ynrije.com^
 ||ynrkroilfcglods.xyz^
 ||ynrqvdhkygzdn.space^
+||ynrykzolwliub.online^
 ||yntherplunge.com^
 ||yntkpkwykfooj.site^
 ||yntvrgqkwlwag.site^
@@ -55234,6 +55241,7 @@ vkcdnservice.appspot.com^
 ||ypvibqgydnejr.space^
 ||ypwcttlciuuzu.online^
 ||ypwhtnnghvhmr.space^
+||ypwyjfjtiyaca.website^
 ||ypx6ne7o6lcfl6.cfd^
 ||ypxdakreabzhk.website^
 ||ypxvhl1i1kqm2g38wc.cfd^
@@ -55773,6 +55781,7 @@ vkcdnservice.appspot.com^
 ||zhffvzqowuoos.space^
 ||zhfiefpivwpve.site^
 ||zhgcahjbqiiuu.website^
+||zhgsipynyvjji.site^
 ||zhhjdkwgtxjpo.site^
 ||zhifvatqhcs.com^
 ||zhluxoxgmgvmi.online^
@@ -55914,6 +55923,7 @@ vkcdnservice.appspot.com^
 ||zlkuarhdhcuej.site^
 ||zlmzvqoishrcb.store^
 ||zlnzioxqvzfxp.store^
+||zlosabftzqikz.site^
 ||zlqgrxuoxqpbd.website^
 ||zlsvhossbiuwq.space^
 ||zlsxqoru.com^
@@ -56000,6 +56010,7 @@ vkcdnservice.appspot.com^
 ||zog.link^
 ||zogmfiyljbdvf.space^
 ||zognoaderoubse.net^
+||zogogirlerydirges.qpon^
 ||zogrepsili.com^
 ||zohlikopegrdz.space^
 ||zohoptortibsi.net^
