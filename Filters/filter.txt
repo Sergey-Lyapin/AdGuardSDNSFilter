@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-16T07:01:06.863Z
+! Last modified: 2026-02-16T08:43:53.238Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12761,6 +12761,7 @@ vkcdnservice.appspot.com^
 ||buissonnigrous.cyou^
 ||bujerdaz.com^
 ||bujgirjkejoay.website^
+||bujxyzsfiolnp.online^
 ||bukfymzbkcpef.space^
 ||bukmravwfgcwh.online^
 ||bukusukses.com^
@@ -15260,6 +15261,7 @@ vkcdnservice.appspot.com^
 ||corporaldispleased.com^
 ||correctdilutetrophy.com^
 ||correlationcocktailinevitably.com^
+||correohattiegises.cfd^
 ||correspondencebirthday.com^
 ||corrodedriveroverfed.com^
 ||corrupt-comfort.com^
@@ -17452,6 +17454,7 @@ vkcdnservice.appspot.com^
 ||djqprujbvjcfx.space^
 ||djrkpoublcswv.store^
 ||djrtrzohpfgmi.site^
+||djtdmgwjbq.com^
 ||djtsgzireukxr.online^
 ||djtsrgmx.com^
 ||djubwlstecfre.online^
@@ -18687,6 +18690,7 @@ vkcdnservice.appspot.com^
 ||edgypollnormandy.com^
 ||edhsitalici.cfd^
 ||edhsphocoid.shop^
+||edhtbaelwzkwd.site^
 ||edhzwdjmhaatv.online^
 ||edibileupcard.click^
 ||edible-mind.com^
@@ -18901,6 +18905,7 @@ vkcdnservice.appspot.com^
 ||egpdbp6e.de^
 ||egpealygnhgue.online^
 ||egqhbuyfdpswm.space^
+||egqsqdbdasbgm.com^
 ||egrldstkdlmme.site^
 ||egvlsbzuolczs.site^
 ||egvmdcbddgial.website^
@@ -21399,6 +21404,7 @@ vkcdnservice.appspot.com^
 ||fmapdxqhqvcia.space^
 ||fmazwqtzwcfym.website^
 ||fmbristly.cyou^
+||fmbwqyymrtphh.space^
 ||fmfdkgoj.net^
 ||fmgitnxalekei.website^
 ||fmgqdplqohfct.space^
@@ -21705,6 +21711,7 @@ vkcdnservice.appspot.com^
 ||foxqamob.xyz^
 ||foybdfdodvgva.rocks^
 ||foyooiexomuku.site^
+||foziiviyexxws.space^
 ||fozyversor.cyou^
 ||fpadserver.com^
 ||fpbckekryivna.website^
@@ -34166,6 +34173,7 @@ vkcdnservice.appspot.com^
 ||muskitsdemigod.help^
 ||muskitsfrailes.cfd^
 ||muskoxambier.cfd^
+||muskoxhattienatchez.cyou^
 ||musnudmarlier.rest^
 ||musnuduncased.qpon^
 ||mussedmushaa.cfd^
@@ -34965,6 +34973,7 @@ vkcdnservice.appspot.com^
 ||nhbfknbrrfhvy.site^
 ||nhbtedswpqdv.xyz^
 ||nhcgucgrsnupg.online^
+||nhcpxlofjkdqo.space^
 ||nheopaobzlrqc.site^
 ||nhinfhaxl.com^
 ||nhiwyubasvwub.site^
@@ -36418,6 +36427,7 @@ vkcdnservice.appspot.com^
 ||ogypquywenfmq.site^
 ||ogzashgkmhted.space^
 ||ogzjrajav.com^
+||ogzzcnyujxylo.website^
 ||oh53v842gxk76i8zkpqjcy5izf.cfd^
 ||ohaplvrbzkcee.site^
 ||ohbognmxxssou.space^
@@ -38991,6 +39001,7 @@ vkcdnservice.appspot.com^
 ||plannedgreenhousewaltz.com^
 ||plansatwin.qpon^
 ||planscul.com^
+||planseffectstrim.com^
 ||plansforourcompan.org^
 ||plantalrasceta.com^
 ||plantationexhaust.com^
@@ -42309,6 +42320,7 @@ vkcdnservice.appspot.com^
 ||refpa4293501.top^
 ||refpasrasw.world^
 ||refrainanthony.com^
+||refrainsitimmovable.com^
 ||refraintsarcoma.com^
 ||refreidbelchedovergot.cyou^
 ||refreshmentwisertowards.com^
@@ -44117,6 +44129,7 @@ vkcdnservice.appspot.com^
 ||saptorge.com^
 ||saqgahyvbajqt.website^
 ||saqibxerafin.help^
+||saqoctqho.com^
 ||saqomainndofo.site^
 ||saquarocheezit.cyou^
 ||saqztkldkrmlf.site^
@@ -50494,6 +50507,7 @@ vkcdnservice.appspot.com^
 ||unrealisticmaybe.pro^
 ||unregisteredtraditional.com^
 ||unresolvedtame.com^
+||unrestcontemporary.com^
 ||unrestwidthconsonant.com^
 ||unridhoncho.com^
 ||unrigshirerneist.cyou^
@@ -52354,6 +52368,7 @@ vkcdnservice.appspot.com^
 ||vwfurlcwpujuz.site^
 ||vwfwdxariknxp.website^
 ||vwfxuhjgwwent.online^
+||vwghrazcfimuh.website^
 ||vwgnmcwmbolok.online^
 ||vwjdosviijhit.website^
 ||vwjsiywwgynud.online^
@@ -52734,6 +52749,7 @@ vkcdnservice.appspot.com^
 ||wboptim.online^
 ||wboux.com^
 ||wbpiaqaqnqlmc.space^
+||wbquoytetlhau.com^
 ||wbrgeoldclybx.online^
 ||wbrihpfkpgujh.space^
 ||wbryzfgwkpqno.space^
@@ -54476,6 +54492,7 @@ vkcdnservice.appspot.com^
 ||xkihevzkxjtdq.website^
 ||xkisdsaazwzch.online^
 ||xkjcixcapnt.net^
+||xkklczarnpnds.website^
 ||xklejvczdbknm.space^
 ||xkmhnekbfoibx.website^
 ||xkohqkhftqwlm.site^
