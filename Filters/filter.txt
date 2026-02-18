@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-18T14:42:13.943Z
+! Last modified: 2026-02-18T17:01:15.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6275,6 +6275,7 @@ vkcdnservice.appspot.com^
 ||1gbjadpsq.de^
 ||1gjb5ry12zrbfw7u1m9wh4.cfd^
 ||1gyof2hbhf2hh9be.rest^
+||1hbqttr1m36nfolhv2hh.rest^
 ||1hkmr7jb0.de^
 ||1i8c0f11.de^
 ||1igare0jn.de^
@@ -6668,6 +6669,7 @@ vkcdnservice.appspot.com^
 ||3tn9czz7qmog33whf5.cfd^
 ||3vpb62tkymq85jj4fpw8yt7mnk.cfd^
 ||3wr110.net^
+||3yp9594nzgz7p1l.cfd^
 ||3zbl277p3tqorf2eh4obn4l.cfd^
 ||3zltpzb1o9zegmchtyzfophg.cfd^
 ||4058e46800.com^
@@ -8548,6 +8550,7 @@ vkcdnservice.appspot.com^
 ||agitatedparquetscam.com^
 ||agitationselfservice.com^
 ||agjmbymb.com^
+||agjmhcxirv.com^
 ||agkbhvkpuuzxf.site^
 ||agl001.bid^
 ||agl002.online^
@@ -9113,6 +9116,7 @@ vkcdnservice.appspot.com^
 ||alumniheadfirstshamrock.com^
 ||alunitemuroid.shop^
 ||aluvhyxwjnqyo.site^
+||alvhucvmzbrmx.com^
 ||alwaysdomain01.online^
 ||alwayspainfully.com^
 ||alwingulla.com^
@@ -18668,6 +18672,7 @@ vkcdnservice.appspot.com^
 ||eadhakmcmzslj.online^
 ||eadziukwqzeeb.space^
 ||eaeiacjiwsufg.site^
+||eafdaipjmqtjd.space^
 ||eagerlist.pro^
 ||eagerlycuisinecast.com^
 ||eagjohwicefoq.website^
@@ -22591,6 +22596,7 @@ vkcdnservice.appspot.com^
 ||fyzpcrqqernqr.site^
 ||fz7jzryxkiku1757r.cfd^
 ||fzaatqzkent.com^
+||fzanswueeajvf.online^
 ||fzaybjewoyyrz.store^
 ||fzbdbgobojhbu.online^
 ||fzcfwpodydfnk.site^
@@ -23556,6 +23562,7 @@ vkcdnservice.appspot.com^
 ||glosserwhamble.com^
 ||glossy-internal.pro^
 ||glossyburn.pro^
+||glossysilane.com^
 ||glotticcorsage.com^
 ||glottismispick.cfd^
 ||gloubauzaifoupe.net^
@@ -24996,6 +25003,7 @@ vkcdnservice.appspot.com^
 ||hbcusdwpikskh.online^
 ||hbemvqegcgskk.website^
 ||hbfdhkdeaatch.space^
+||hbgfotantkwpv.site^
 ||hbgtcfzuizxjf.site^
 ||hbgtfiaswkdam.site^
 ||hbhgvhgc.cfd^
@@ -26090,6 +26098,7 @@ vkcdnservice.appspot.com^
 ||hrbcdtivtvcwq.site^
 ||hrdartsdtrmqu.site^
 ||hreso.site^
+||hressuipwxggy.online^
 ||hrhwtfnsmxtmn.site^
 ||hrient.xyz^
 ||hrihqgbkuarzq.online^
@@ -26160,6 +26169,7 @@ vkcdnservice.appspot.com^
 ||htdixisbyvulc.store^
 ||htdvt.com^
 ||hteakjjbaznfk.online^
+||hteniplvbxeqt.space^
 ||hteurbwutmjzc.online^
 ||htgclhssrgikf.buzz^
 ||htidutntayqzo.website^
@@ -26372,6 +26382,7 @@ vkcdnservice.appspot.com^
 ||hwpibmxqcngev.website^
 ||hwpnocpctu.com^
 ||hwq4rbon4m67ck4i3teygzm1.cfd^
+||hwsyicaxuuwyl.online^
 ||hwtzmbrsazskv.space^
 ||hwubmdahfxzku.website^
 ||hwugaspawa.com^
@@ -27961,6 +27972,7 @@ vkcdnservice.appspot.com^
 ||iurucoxekyqya.online^
 ||iusvvggxmqaii.site^
 ||iusyfbov.xyz^
+||iutlrtovfnlbj.online^
 ||iutvvvgqorxj.com^
 ||iutxocejemump.space^
 ||iuuiirxnrolwc.store^
@@ -28099,6 +28111,7 @@ vkcdnservice.appspot.com^
 ||iypxhliuk.com^
 ||iypxxhjdiwggg.website^
 ||iyqnahkspthlb.site^
+||iyqvcmznjyya.com^
 ||iyresfhhvgqex.site^
 ||iytlhykzxford.space^
 ||iyxkoshoagpfc.website^
@@ -28400,6 +28413,7 @@ vkcdnservice.appspot.com^
 ||jeggvqrmrg.xyz^
 ||jeglupagheeh.net^
 ||jegrbkenarvan.website^
+||jegryedakwrov.website^
 ||jeikromohmzez.website^
 ||jejlaueaxfsjt.website^
 ||jejunalduets.cyou^
@@ -32886,6 +32900,7 @@ vkcdnservice.appspot.com^
 ||mastinstungmoreal.com^
 ||matamant.com^
 ||matcaogeujmco.website^
+||matchclamourallot.com^
 ||matchedfrized.cfd^
 ||matchesproductionsinteract.com^
 ||matchjunkie.com^
@@ -33048,6 +33063,7 @@ vkcdnservice.appspot.com^
 ||mddbdmylgchjx.space^
 ||mddbhpwxbwneo.space^
 ||mddsp.info^
+||mdeifbcnejbjr.online^
 ||mdeizzxxobqkk.website^
 ||mdhldqpicqfgg.online^
 ||mdiegydcuekvkjf.net^
@@ -47411,6 +47427,7 @@ vkcdnservice.appspot.com^
 ||studerich.shop^
 ||studious-make.com^
 ||studiousenragereclaim.com^
+||studiousfood.pro^
 ||studyunharmedupscale.com^
 ||studzebus.help^
 ||stuffedpebblegerman.com^
@@ -52804,6 +52821,7 @@ vkcdnservice.appspot.com^
 ||vsykigidqigxu.online^
 ||vszudfwvzxicp.online^
 ||vtabnalp.net^
+||vtbaclulxorj.xyz^
 ||vtcuesjpqvies.website^
 ||vtdmdcqfhsrnz.online^
 ||vtdtv.com^
@@ -56338,6 +56356,7 @@ vkcdnservice.appspot.com^
 ||yvdxhbuupndqo.love^
 ||yveysufrzogll.online^
 ||yvfqjmbwitctn.online^
+||yviesfqucp.com^
 ||yvjpeli21ljxphgiihxi9fk4t.cfd^
 ||yvmads.com^
 ||yvoria.com^
