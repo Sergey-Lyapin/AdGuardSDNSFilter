@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-19T13:01:52.566Z
+! Last modified: 2026-02-19T14:44:12.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11684,6 +11684,7 @@ vkcdnservice.appspot.com^
 ||biggbaymen.top^
 ||biggerluck.com^
 ||biggingantonym.cyou^
+||biggingfoxly.shop^
 ||bighearted-wedding.pro^
 ||bigheartedbeard.com^
 ||bigheartedregular.com^
@@ -11760,6 +11761,7 @@ vkcdnservice.appspot.com^
 ||bircherexsert.top^
 ||birchsottagejacksaw.cfd^
 ||birdeentecta.shop^
+||birderathole.shop^
 ||birderleafing.cfd^
 ||birdseyewings.co^
 ||birliebouclewetbird.cyou^
@@ -14524,6 +14526,7 @@ vkcdnservice.appspot.com^
 ||cjhmaygz.com^
 ||cjikpufjlcxht.fun^
 ||cjjhocfofemex.website^
+||cjkpdzlgm.com^
 ||cjlph.com^
 ||cjnetrybscint.online^
 ||cjnrtveejxsrl.online^
@@ -15799,6 +15802,7 @@ vkcdnservice.appspot.com^
 ||crossecopepod.help^
 ||crosspreferrite.com^
 ||crossshafty.cyou^
+||crosswindbolt.net^
 ||crotondaytime.cyou^
 ||crouchedmonarch.com^
 ||croupybaboons.qpon^
@@ -16527,6 +16531,7 @@ vkcdnservice.appspot.com^
 ||data852.click^
 ||data963.click^
 ||databoilrecommendation.com^
+||dataframeix.net^
 ||datapacstereos.shop^
 ||dataslicenode.com^
 ||datasprintlab.com^
@@ -17503,6 +17508,7 @@ vkcdnservice.appspot.com^
 ||disdainplayedbluster.com^
 ||disduboleinbolide.cyou^
 ||disefyqrmsbya.website^
+||disfigured-farmer.com^
 ||disfigured-play.pro^
 ||disfiguredcomment.com^
 ||disgagedates.cyou^
@@ -31916,6 +31922,7 @@ vkcdnservice.appspot.com^
 ||localsnaughty.com^
 ||locatejav182.fun^
 ||locatejest.com^
+||lochskymmkabgf.com^
 ||lockdowncautionmentally.com^
 ||lockdownoncomingdistinctly.com^
 ||locked-link.com^
@@ -33324,6 +33331,7 @@ vkcdnservice.appspot.com^
 ||menisongreaser.qpon^
 ||menkindhamauls.cyou^
 ||mensalagapai.qpon^
+||mensedphotic.cfd^
 ||mentallyissue.com^
 ||mentaryrewet.qpon^
 ||mentionbounceclimate.com^
@@ -35090,6 +35098,7 @@ vkcdnservice.appspot.com^
 ||navwmaakbo.com^
 ||navyhalfclinical.com^
 ||nawabdyke.cfd^
+||nawlemaza.cyou^
 ||nawljtngvxrgc.space^
 ||nawpush.com^
 ||naxqnvqgezgkx.site^
@@ -38141,6 +38150,7 @@ vkcdnservice.appspot.com^
 ||oxmxjsslqojgu.online^
 ||oxozonesubnude.help^
 ||oxpeueoq5bwgpqi5hk8wnzxmf8fucg9ft.cfd^
+||oxqtdcbgjovyl.space^
 ||oxqujvrdldl.com^
 ||oxrdktkaktdod.online^
 ||oxrqbdaslqcek.space^
@@ -38157,6 +38167,7 @@ vkcdnservice.appspot.com^
 ||oxwmalckolij.com^
 ||oxwubxdszakdr.website^
 ||oxwytjjqlkoqm.website^
+||oxxcutgngstow.website^
 ||oxxpukgasaqzc.website^
 ||oxygenopposed.com^
 ||oxygensalts.com^
@@ -46538,6 +46549,7 @@ vkcdnservice.appspot.com^
 ||softonicads.com^
 ||softpopads.com^
 ||softresumesuperserver.com^
+||softtemperature.com^
 ||sogeramides.qpon^
 ||soggy-committee.pro^
 ||sogropidy.com^
@@ -47707,6 +47719,7 @@ vkcdnservice.appspot.com^
 ||suduaactnl.com^
 ||sudukrirga.net^
 ||suededfingeryas.cyou^
+||suephabbhx.com^
 ||suerbebotchbefile.cfd^
 ||sufemtpbkrdoe.website^
 ||sufferlatitude.com^
@@ -53793,6 +53806,7 @@ vkcdnservice.appspot.com^
 ||wftobyorotnmx.site^
 ||wftoukfy.net^
 ||wfuagemauidnc.space^
+||wfupgocevbpyy.online^
 ||wfurena.cfd^
 ||wfvuctrttrdwk.global^
 ||wfwnihvjcsddw.website^
@@ -54208,6 +54222,7 @@ vkcdnservice.appspot.com^
 ||wittolstomjon.rest^
 ||wittyquieta.top^
 ||witwayabide.com^
+||wiura.net^
 ||wivesaccelerateyielded.com^
 ||wivesvacancycraft.com^
 ||wivosbiq.com^
@@ -54848,6 +54863,7 @@ vkcdnservice.appspot.com^
 ||wwursxkydydii.site^
 ||wwvqboevylvkr.top^
 ||wwwadcntr.com^
+||wwwdtpbjjlnlm.site^
 ||wwwkiuxvdmglf.online^
 ||wwwpromoter.com^
 ||wwwxmpilsrzij.website^
@@ -55800,6 +55816,7 @@ vkcdnservice.appspot.com^
 ||yamrqukvphsxu.website^
 ||yanadu.click^
 ||yananovertax.help^
+||yanbkkbxjguvf.website^
 ||yanchtukpxojq.space^
 ||yandfartoomanyrel.com^
 ||yangpcasdomgl.site^
@@ -56404,6 +56421,7 @@ vkcdnservice.appspot.com^
 ||yqnqnvpunztoe.space^
 ||yqocbixitiqnc.space^
 ||yqp-oxzxjecq.world^
+||yqpktmyrfacks.website^
 ||yqrpbzgfbkwom.store^
 ||yqseihxuqdzoc.site^
 ||yqtabvyhvroxj.website^
