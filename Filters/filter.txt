@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-19T06:58:42.211Z
+! Last modified: 2026-02-19T08:41:12.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9953,6 +9953,7 @@ vkcdnservice.appspot.com^
 ||asimwjsutvutx.site^
 ||asinlovewiththem.org^
 ||asix8.com^
+||asjvnxqkmbkq.com^
 ||askarwanions.qpon^
 ||askdomainad.com^
 ||askewrefusaltrashy.com^
@@ -22548,6 +22549,7 @@ vkcdnservice.appspot.com^
 ||fwuecimiadhvk.website^
 ||fwunymlwmsebu.site^
 ||fwvelzkaeqosm.online^
+||fwwfndmjaroug.website^
 ||fwxrtkyjxkujs.xyz^
 ||fwyaalpj.com^
 ||fwzrzwwjxohcy.website^
@@ -27685,6 +27687,7 @@ vkcdnservice.appspot.com^
 ||ioassrlwlhqzk.website^
 ||iobswixghwftq.site^
 ||iocldeszci.com^
+||iodatrtttbfji.online^
 ||iodideeyebath.cam^
 ||iodideheroine.cfd^
 ||iodizedbuncher.cyou^
@@ -29072,6 +29075,7 @@ vkcdnservice.appspot.com^
 ||jrsvxroksznbf.website^
 ||jruczsajvawgi.website^
 ||jrunkpbdiqiuu.site^
+||jruxovzfddwox.site^
 ||jrvhmxnfzczll.online^
 ||jrvrkzrjrmoyy.top^
 ||jrvrkzrjrmyyj.top^
@@ -31501,6 +31505,7 @@ vkcdnservice.appspot.com^
 ||lihmnebydaizl.site^
 ||lihqutwoiumpd.top^
 ||lihshailmyjzb.space^
+||liiingnpaggyw.online^
 ||liioyifwisc.com^
 ||lijawxhfip.com^
 ||lijjk.space^
@@ -32680,6 +32685,7 @@ vkcdnservice.appspot.com^
 ||maghribstigmeseugonic.cfd^
 ||magicalbifoil.shop^
 ||magicallyitalian.com^
+||magicallypenitentiary.com^
 ||magicianboundary.com^
 ||magicianmost.com^
 ||magnalesingly.cfd^
@@ -33640,6 +33646,7 @@ vkcdnservice.appspot.com^
 ||minsxgvkokxgu.site^
 ||mintaza.xyz^
 ||mintmanconny.cyou^
+||mintyswing.com^
 ||minuendunwary.qpon^
 ||minumrecking.help^
 ||minutedeplorable.com^
@@ -35501,6 +35508,7 @@ vkcdnservice.appspot.com^
 ||nifebsuksy.net^
 ||nificcen.qpon^
 ||nifitterinlaut.cfd^
+||nifkyjtlqdevky.com^
 ||niftiespenster.qpon^
 ||nifty-pie.com^
 ||nifty-tomorrow.pro^
@@ -36333,6 +36341,7 @@ vkcdnservice.appspot.com^
 ||nxhmmvencereq.space^
 ||nxiybblfblloz.online^
 ||nxjrybynmqrhv.site^
+||nxjxfdwptxwvfr.com^
 ||nxkxmhqaywsqh.space^
 ||nxmpmugazsghw.website^
 ||nxmsiuptjboqj.space^
@@ -38241,6 +38250,7 @@ vkcdnservice.appspot.com^
 ||pacaypterna.cfd^
 ||paceaskhari.com^
 ||pacekami.com^
+||pacestrengthentribute.com^
 ||pachakcokes.cyou^
 ||pachegaimax.net^
 ||pachtblanket.shop^
@@ -39307,6 +39317,7 @@ vkcdnservice.appspot.com^
 ||pilotedtunner.cfd^
 ||pilotignoranceitch.com^
 ||pilotoccasionallygarlic.com^
+||pilotpoems.com^
 ||pilotstracking.com^
 ||pilularwitham.cfd^
 ||pilzqvuhqfxew.website^
@@ -41132,6 +41143,7 @@ vkcdnservice.appspot.com^
 ||puwuczvlsundk.site^
 ||puxyharmful.cfd^
 ||puysis.com^
+||puzwsrdbdevrh.site^
 ||puzzlepursued.com^
 ||puzzlingcurrent.com^
 ||pv7e29ttex3j413iy2j.cfd^
@@ -43012,6 +43024,7 @@ vkcdnservice.appspot.com^
 ||remarkableprompt.com^
 ||remarkedoneoftheo.org^
 ||remarkillustration.com^
+||remarriedbore.com^
 ||remastdudine.cyou^
 ||remedefashes.qpon^
 ||remedyabruptness.com^
@@ -50122,6 +50135,7 @@ vkcdnservice.appspot.com^
 ||tulipssepntriglot.cyou^
 ||tulsmcvbuzvsk.website^
 ||tumashaindigos.cfd^
+||tumbektowsy.qpon^
 ||tumblebit.com^
 ||tumbleddear.com^
 ||tumbledemploymentcollapse.com^
@@ -52915,6 +52929,7 @@ vkcdnservice.appspot.com^
 ||vscogqhkhwdaf.space^
 ||vscvotonpbevv.site^
 ||vsdiz.xyz^
+||vsdoustkimglz.online^
 ||vsfowtixgsjed.website^
 ||vsfswhpnyjnbv.space^
 ||vshxtggsdki.com^
@@ -53297,6 +53312,7 @@ vkcdnservice.appspot.com^
 ||warchhazeleddigit.cfd^
 ||waredgondi.cyou^
 ||waredity.com^
+||warfarecontemn.com^
 ||warhealthy.com^
 ||warishphloxes.shop^
 ||warlike-state.com^
@@ -53320,6 +53336,7 @@ vkcdnservice.appspot.com^
 ||warshardnessmotivation.com^
 ||warslerascill.help^
 ||warslerdeathin.com^
+||warsnhsxklswo.site^
 ||wartplisse.help^
 ||warucwkpahinb.space^
 ||waruggeefiljt.space^
@@ -54941,6 +54958,7 @@ vkcdnservice.appspot.com^
 ||xaplonmsgwn.com^
 ||xarukaawenabr.site^
 ||xarvilo.com^
+||xatocccuzzrwe.com^
 ||xatsjwiuwtgkm.site^
 ||xavgcobuvqy.com^
 ||xavujsiudycea.site^
@@ -71818,6 +71836,8 @@ vkcdnservice.appspot.com^
 ||p4dc8ve6i.com^
 ||d0i5db8gp.com^
 ||hkplzozwl.com^
+||dheblxw.com^
+||prndgif.com^
 ||ucuypyhcns.com^
 ||z198vxfuy3.com^
 ||benchmark84.top^
