@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-21T18:32:26.564Z
+! Last modified: 2026-02-21T20:22:32.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13777,6 +13777,7 @@ vkcdnservice.appspot.com^
 ||ccpdaindrmyyx.online^
 ||ccppiuwqqlkmu.online^
 ||ccpvyfutedboz.site^
+||ccrsbdxgwiblm.site^
 ||ccsyidkuaxqtr.website^
 ||cctpyneuuiuwn.site^
 ||ccttoocxmymh.net^
@@ -16866,6 +16867,7 @@ vkcdnservice.appspot.com^
 ||decencytopmost.com^
 ||decenerevivedangary.cyou^
 ||decenerpasser.help^
+||decent-radio.pro^
 ||decentconcept.pro^
 ||decianspicstuller.cfd^
 ||decide.dev^
@@ -20299,6 +20301,7 @@ vkcdnservice.appspot.com^
 ||eussownwpyxdw.online^
 ||eutecnimzptot.space^
 ||euvj22p2e4ttvo.rest^
+||euvjyahxjdbgt.site^
 ||euwaqndyjyp.xyz^
 ||euwdsqkrxwhwu.online^
 ||euxwrrtbbo.xyz^
@@ -21314,6 +21317,7 @@ vkcdnservice.appspot.com^
 ||fhpsuesupqexi.store^
 ||fhpvfgbstmral.space^
 ||fhpxjbryxqwoak.com^
+||fhqjqafqjfhwv.website^
 ||fhqoiuoceycun.space^
 ||fhrhakpangapt.space^
 ||fhsgntrgjtioc.online^
@@ -23119,6 +23123,7 @@ vkcdnservice.appspot.com^
 ||gdecordingholo.info^
 ||gdeigri.com^
 ||gdfkbvbifnncj.online^
+||gdhgxfxmvejqil.com^
 ||gdiwiabguodgh.site^
 ||gdkduruiukwyn.website^
 ||gdkduwopaseic.online^
@@ -24114,6 +24119,7 @@ vkcdnservice.appspot.com^
 ||gphonuyme.com^
 ||gpiebbxurugod.online^
 ||gpivqupxyvkit.website^
+||gpkaifjhrf.com^
 ||gpkbvwlczebwv.website^
 ||gplansforourc.org^
 ||gplovaumydkv.com^
@@ -26685,6 +26691,7 @@ vkcdnservice.appspot.com^
 ||hylidaestourie.shop^
 ||hyllusanodize.shop^
 ||hyloistramploreulytin.cfd^
+||hylonpkcbfjoh.website^
 ||hylrncjzgdtgi.site^
 ||hymenalmatinee.help^
 ||hymenicjobbing.qpon^
@@ -37332,6 +37339,7 @@ vkcdnservice.appspot.com^
 ||ojonvpuqbtqul.site^
 ||ojprlvavhknyk.site^
 ||ojpvwrudzpojr.site^
+||ojqlwdywcgntc.space^
 ||ojqpnmnatg.com^
 ||ojrkqzpuntzxg.online^
 ||ojscanbrogi.com^
@@ -41246,6 +41254,7 @@ vkcdnservice.appspot.com^
 ||ptuynrwotqzlf.website^
 ||ptveoqlsfzvxd.website^
 ||ptvrnvrefhzvx.space^
+||ptvsshxasjzwc.website^
 ||ptwmcd.com^
 ||ptwmemd.com^
 ||ptwmjmp.com^
@@ -42945,6 +42954,7 @@ vkcdnservice.appspot.com^
 ||rcjqzugspmife.online^
 ||rcjrvsxcsgdpx.site^
 ||rckvklcpibmdz.online^
+||rclmfjkcppkjz.site^
 ||rcnalhvjaxzkw.online^
 ||rcnhgfebinhck.space^
 ||rcnxvdowqmfuo.store^
