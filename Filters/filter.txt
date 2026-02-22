@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-22T04:24:29.813Z
+! Last modified: 2026-02-22T06:44:42.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10560,6 +10560,7 @@ vkcdnservice.appspot.com^
 ||axhwnwviphlyr.space^
 ||axifmuvrrxrvn.online^
 ||axilstonics.help^
+||axineswelled.cfd^
 ||axisdoctrine.com^
 ||axisix.net^
 ||axixvytazguot.space^
@@ -16787,6 +16788,7 @@ vkcdnservice.appspot.com^
 ||dcsakxvzsdiaz.space^
 ||dcslnqezlxyte.website^
 ||dcssptrack.com^
+||dcunkpgzsysvg.website^
 ||dcwnhlzrvnlnj.website^
 ||dcwtsqmmogfua.space^
 ||dcxnjdjvurerw.site^
@@ -21024,6 +21026,7 @@ vkcdnservice.appspot.com^
 ||fc9e63a7c3.com^
 ||fcb6adad17.com^
 ||fccinteractive.com^
+||fcciyjcrcopsw.online^
 ||fcfgnzaozklfp.space^
 ||fcfjtold.com^
 ||fcghrjiduziwb.online^
@@ -25814,6 +25817,7 @@ vkcdnservice.appspot.com^
 ||historicalaudible.com^
 ||historicaldefiniterare.com^
 ||historicalinflate.com^
+||historyiapyges.shop^
 ||hiswingsandmaki.com^
 ||hitbip.com^
 ||hitchednosine.qpon^
@@ -30360,6 +30364,7 @@ vkcdnservice.appspot.com^
 ||klqraoatpzzaf.website^
 ||klqsvxmr.com^
 ||klrtisidtgrgn.website^
+||klsbjqzvalxso.online^
 ||klspkjyub-n.xyz^
 ||kludgecropperjobarbe.cyou^
 ||kluglfneqqbjp.website^
@@ -32916,6 +32921,7 @@ vkcdnservice.appspot.com^
 ||m3fq9t61v5ji8ewtbgt81.cfd^
 ||m3vzfcq9li8mg6.cfd^
 ||m3znyfc1x91hwfwfku5qhoprbogw6r48k27.rest^
+||m4ybjezi9z15421zzozp3t4ixqh4xb.cfd^
 ||m51xbw1ygm73xt.cfd^
 ||m5fmun8rb6ljnwj61n.rest^
 ||m6g8uv8r1m4w9bctrw.cfd^
@@ -35227,6 +35233,7 @@ vkcdnservice.appspot.com^
 ||n4m5x60.com^
 ||n4sredirect.com^
 ||n55nfth8ex9rq5f.cfd^
+||n5hb8i2kzjy6x4li3pwh83xp6vku.rest^
 ||n5tbizkr8f7to4l9bulp2wkft.cfd^
 ||n6in8ytttwelrrv6o.cfd^
 ||n72vtcpjp1g24bjz.rest^
@@ -42113,6 +42120,7 @@ vkcdnservice.appspot.com^
 ||qlcmnszrrzdsp.website^
 ||qldbeprwgizvt.online^
 ||qleclfn236ul3rh32v.cfd^
+||qledwrstokolid.com^
 ||qleszbwkiuztc.site^
 ||qlfqkjluvz.com^
 ||qlfyxty3cipth18v1vfg.cfd^
@@ -42241,6 +42249,7 @@ vkcdnservice.appspot.com^
 ||qpjblxxjdatol.site^
 ||qpjiwtxmjitde.site^
 ||qpknmanfrzxqw.space^
+||qplywkhnlfyfy.online^
 ||qpnoxjbfxvcbc.space^
 ||qppj4qf61ep9y9v.cfd^
 ||qppq166n.de^
@@ -42607,6 +42616,7 @@ vkcdnservice.appspot.com^
 ||qxanfanfhkpxp.space^
 ||qxbkmxojrqwkb.online^
 ||qxbnwjowhzlwz.online^
+||qxcbylbesbwll.xyz^
 ||qxdownload.com^
 ||qxewl7bmn9pup6135hzqmlb3w7hvey1o35g.cfd^
 ||qxhjutyuykewi.store^
@@ -42740,6 +42750,7 @@ vkcdnservice.appspot.com^
 ||radianttank.com^
 ||radiantvalerelieve.com^
 ||radiatortackyhag.com^
+||radiodarn.com^
 ||radishrarity.com^
 ||radiusfellowship.com^
 ||radiusmarketing.com^
@@ -46605,6 +46616,7 @@ vkcdnservice.appspot.com^
 ||slatehystericaltaunt.com^
 ||slavesthy.com^
 ||slavesubmarinebribery.com^
+||slavianrets.qpon^
 ||slavicfarth.qpon^
 ||slawhomager.com^
 ||slayingbugeyes.com^
@@ -49004,6 +49016,7 @@ vkcdnservice.appspot.com^
 ||teawarecoinfer.com^
 ||tebetontgghvv.site^
 ||tebtfljxiwmwj.space^
+||tecaliverbal.shop^
 ||techedglassinephori.cfd^
 ||techfrenal.click^
 ||techiteration.com^
@@ -53309,6 +53322,7 @@ vkcdnservice.appspot.com^
 ||vntupsfjqlsnb.online^
 ||vnueqiwqyt.com^
 ||vnufplcscoctg.online^
+||vnxfggfffjcvp.online^
 ||vnymvlmbgbybu.space^
 ||vnzuedcokblpx.site^
 ||voaganaich.net^
@@ -54274,6 +54288,7 @@ vkcdnservice.appspot.com^
 ||weownthetraffic.com^
 ||wepmanpiute.cyou^
 ||weptnastyturmoil.com^
+||weqeagfolnehx.space^
 ||weqnjiiqjtrup.website^
 ||wererxrzmp.com^
 ||wergeldresins.cfd^
@@ -54826,6 +54841,7 @@ vkcdnservice.appspot.com^
 ||wktyyxtvwthxp.one^
 ||wkuejtwcpvtzm.online^
 ||wkvvzeqwomjmm.top^
+||wkwcghhcwsgvfg.com^
 ||wkwdmllrmscgp.space^
 ||wkxcxnsvdhsese.com^
 ||wkxilowcqbrgg.site^
@@ -55068,6 +55084,7 @@ vkcdnservice.appspot.com^
 ||worrisome-cat.pro^
 ||worrisome-image.pro^
 ||worrisomedifference.com^
+||worrisomeshop.pro^
 ||worrycuriositymafia.com^
 ||worryinginadmissible.com^
 ||worse-type.pro^
@@ -57965,6 +57982,7 @@ vkcdnservice.appspot.com^
 ||zttimylbpeeae.website^
 ||zttsmufvcrvjw.space^
 ||zttwclmcpesce.xyz^
+||ztudfmvgxozex.space^
 ||ztumuvofzbfe.com^
 ||ztvbtdnljmbaa.website^
 ||ztwynkeinevag.website^
