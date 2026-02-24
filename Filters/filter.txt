@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-24T06:58:12.410Z
+! Last modified: 2026-02-24T08:43:56.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14759,6 +14759,7 @@ vkcdnservice.appspot.com^
 ||claimcousins.com^
 ||claimedhawserborty.cfd^
 ||claimexercise.com^
+||claimsthemselves.com^
 ||claireyiddish.qpon^
 ||clambakefreenessunclasp.com^
 ||clamberpkwy.qpon^
@@ -17265,6 +17266,7 @@ vkcdnservice.appspot.com^
 ||departharpglove.com^
 ||departmentannounced.com^
 ||departurealtar.com^
+||departuregovernessbeech.com^
 ||departuresensitivitylengthen.com^
 ||dependable-gear.pro^
 ||dependableanybody.pro^
@@ -17623,6 +17625,7 @@ vkcdnservice.appspot.com^
 ||dinejav11.fun^
 ||dineproteinhamlet.com^
 ||dineticfulfill.cyou^
+||dingbuckle.com^
 ||dingebeek.com^
 ||dingmotoric.com^
 ||dingpantomimehumidity.com^
@@ -17810,6 +17813,7 @@ vkcdnservice.appspot.com^
 ||disrespectpreceding.com^
 ||disrespectsuffer.com^
 ||disrootsegment.cyou^
+||dissatisfactionfloodingdefiant.com^
 ||dissatisfactionpublicity.com^
 ||dissavadipperlairds.cfd^
 ||dissavepreve.cfd^
@@ -17821,6 +17825,7 @@ vkcdnservice.appspot.com^
 ||distaleplanned.rest^
 ||distancedreamboatstoic.com^
 ||distanceinfirmaryresource.com^
+||distancepatch.com^
 ||distancesets.com^
 ||distancevalidopposition.com^
 ||distantschedule.pro^
@@ -19966,6 +19971,7 @@ vkcdnservice.appspot.com^
 ||enrootformyls.help^
 ||enrtx.com^
 ||ensaidhethisi.org^
+||enseelraws.cyou^
 ||ensientoutsay.qpon^
 ||ensignpancreasrun.com^
 ||enskyburton.cyou^
@@ -21340,6 +21346,7 @@ vkcdnservice.appspot.com^
 ||fenixm.com^
 ||fenoofaussut.net^
 ||feodalwalk.qpon^
+||feova.net^
 ||feoveukrnmento.org^
 ||fepbjqnzphdxz.online^
 ||fepixyjtys.com^
@@ -26850,6 +26857,7 @@ vkcdnservice.appspot.com^
 ||hwntbehufghtb.online^
 ||hwocwionv.com^
 ||hwohheta.com^
+||hwoqshyx.com^
 ||hwoqsiyqqina.net^
 ||hwpibmxqcngev.website^
 ||hwpnocpctu.com^
@@ -27961,6 +27969,7 @@ vkcdnservice.appspot.com^
 ||insideofnews.com^
 ||insidescapra.qpon^
 ||insidethegames.live^
+||insidiousdimension.pro^
 ||insightadz.com^
 ||insightexpress.com^
 ||insightexpressai.com^
@@ -34220,6 +34229,7 @@ vkcdnservice.appspot.com^
 ||mindedchalcus.cyou^
 ||mindedenhance.com^
 ||mindedonly.com^
+||mindershrimp.com^
 ||mindlesscancel.pro^
 ||mindlesspop.pro^
 ||mindmeters.biz^
@@ -35256,6 +35266,7 @@ vkcdnservice.appspot.com^
 ||musnudmarlier.rest^
 ||musnuduncased.qpon^
 ||mussedmushaa.cfd^
+||musselmerchant.com^
 ||mussingkashmir.cfd^
 ||mustardbespy.shop^
 ||mustarddutched.qpon^
@@ -40438,6 +40449,7 @@ vkcdnservice.appspot.com^
 ||pmicpgftoo6qc7b19.cfd^
 ||pmisfoohysory.website^
 ||pmiswxkxztebq.xyz^
+||pmivqlskcrqhn.online^
 ||pmjlllngnazvr.online^
 ||pmkez.tech^
 ||pmkhoopoos.cyou^
@@ -40841,6 +40853,7 @@ vkcdnservice.appspot.com^
 ||ppeiutpbqegcj.online^
 ||pperkqewlwdgc.space^
 ||pperkvadtvtxk.online^
+||ppevrgdgeekgi.online^
 ||ppewqikecfxrx.online^
 ||ppfbsqhfqzkxk.website^
 ||ppffqlukok.com^
@@ -41920,6 +41933,7 @@ vkcdnservice.appspot.com^
 ||pvnvptqqztg.com^
 ||pvnwfoxrfezes.space^
 ||pvokaqjpntpin.store^
+||pvqbbwhxqzrvv.website^
 ||pvqbhhtmpzlcv.online^
 ||pvrkvosmou.com^
 ||pvtnlmysbeigh.website^
@@ -43430,6 +43444,7 @@ vkcdnservice.appspot.com^
 ||rdxguxcfmjnrk.website^
 ||rdypsjqhrwzeg.website^
 ||rdzjxlizigryv.online^
+||rdzowfkoykkkq.site^
 ||rdzretjctqkcn.site^
 ||reacheffecti.work^
 ||reachmode.com^
@@ -48970,6 +48985,7 @@ vkcdnservice.appspot.com^
 ||sxneykgtjdmxo.space^
 ||sxnknknfjjupi.online^
 ||sxobqwbiiknjp.website^
+||sxozpjjozfkbe.online^
 ||sxprtoqjwbvuq.website^
 ||sxpuqyltskgxk.website^
 ||sxpxdgtiotoy.com^
@@ -53297,6 +53313,7 @@ vkcdnservice.appspot.com^
 ||vflmgdcmnhcim.com^
 ||vflymqnbbdmaf.online^
 ||vfnxqznmwbcee.store^
+||vfookihg.com^
 ||vfpasudskjdiw.space^
 ||vfpdbwwrvkecy.store^
 ||vfqejeazinwis.site^
@@ -53485,6 +53502,7 @@ vkcdnservice.appspot.com^
 ||villainindiscreetnewsletter.com^
 ||villainous-appointment.com^
 ||villainous-end.com^
+||villainousregister.pro^
 ||vilytaku.com^
 ||vimpokbpdvctc.site^
 ||vimrcluqfmwih.site^
@@ -57824,6 +57842,7 @@ vkcdnservice.appspot.com^
 ||zasvxdxadipze.website^
 ||zatmisfits.help^
 ||zatnoh.com^
+||zatszynqnherh.site^
 ||zattarelinkman.cyou^
 ||zauphozaucou.net^
 ||zaupoogoopelu.net^
@@ -57944,6 +57963,7 @@ vkcdnservice.appspot.com^
 ||zeguklgrjilli.space^
 ||zehdhcjxiugss.online^
 ||zehnercarafon.cyou^
+||zeiqpeypsvxqr.online^
 ||zeisscoequal.cyou^
 ||zeiyazzlblmvj.space^
 ||zejyoelgljenc.site^
@@ -58233,6 +58253,7 @@ vkcdnservice.appspot.com^
 ||zmdesf.cn^
 ||zmebvybqanrfj.website^
 ||zmetgzbibxtpa.site^
+||zmgauvnefckmw.site^
 ||zmgcytqqalkgu.online^
 ||zmhgvuxeohjhl.space^
 ||zmiarjiioqzvm.site^
