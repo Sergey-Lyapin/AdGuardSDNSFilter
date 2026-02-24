@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-24T18:59:21.224Z
+! Last modified: 2026-02-24T20:32:46.084Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10673,6 +10673,7 @@ vkcdnservice.appspot.com^
 ||aycrxa.com^
 ||ayctbhlndyarx.space^
 ||aydtfcrhoifaof.net^
+||ayehrzyrbugay.space^
 ||ayfahctcpwkjt.space^
 ||ayfixvgbijkba.online^
 ||ayfsfqjauuzvm.space^
@@ -11160,6 +11161,7 @@ vkcdnservice.appspot.com^
 ||bbinfpwtwdhpw.website^
 ||bbipawjflxpct.site^
 ||bbjqvwbdozgcf.site^
+||bbkelvwuenqayf.com^
 ||bbldvwnlr.com^
 ||bbmecmsuoamxk.space^
 ||bbmknnomcostx.site^
@@ -11426,6 +11428,7 @@ vkcdnservice.appspot.com^
 ||beloveantipot.shop^
 ||belovedsalesman.com^
 ||belovedset.com^
+||belroryomypaf.website^
 ||belsofaugneenso.net^
 ||beltcological.com^
 ||beltenefloit.com^
@@ -21268,6 +21271,7 @@ vkcdnservice.appspot.com^
 ||fdkox-a.online^
 ||fdlivdwtmju.com^
 ||fdnaylrjswdud.space^
+||fdoccujadxtld.website^
 ||fdoepehritanm.site^
 ||fdpewjpiuxgxp.online^
 ||fdpmvwlxjszfv.space^
@@ -22635,6 +22639,7 @@ vkcdnservice.appspot.com^
 ||fsalfrwdr.com^
 ||fsbbdiymhh.xyz^
 ||fsbimtflichw.net^
+||fsblbqbphbrsr.online^
 ||fscfdqhlnyewixi.com^
 ||fsdzafmzbdyan.store^
 ||fseqznhllvwky.online^
@@ -25008,6 +25013,7 @@ vkcdnservice.appspot.com^
 ||gvwutvrqeojir.com^
 ||gvwzokdttbsnj.online^
 ||gvxijtkkssutj.site^
+||gvxlfynvqhpkhey.com^
 ||gvyrxseoqvugu.online^
 ||gwabduqywxher.website^
 ||gwallet.com^
@@ -26255,6 +26261,7 @@ vkcdnservice.appspot.com^
 ||hoarishcaucho.cyou^
 ||hoarse-dark.pro^
 ||hoarsecelebrityversus.com^
+||hoarseshopping.pro^
 ||hoasoukoush.net^
 ||hoasvvtyavmbn.store^
 ||hoaveehoos.net^
@@ -35955,6 +35962,7 @@ vkcdnservice.appspot.com^
 ||nellbeakerconsistency.com^
 ||nellforgery.com^
 ||nelvyvlfyjksw.space^
+||nemansnlssphf.website^
 ||nemppa.com^
 ||nencfmolpokjt.space^
 ||nentsyshruggl.com^
@@ -36774,6 +36782,7 @@ vkcdnservice.appspot.com^
 ||nqelooikvxcqw.space^
 ||nqfmjdux.com^
 ||nqfwzphqxjbqo.store^
+||nqgcvvbpfxwbn.website^
 ||nqgokpyktbkbm.space^
 ||nqgtyxoirjynz.website^
 ||nqiccievugptys.com^
@@ -55462,6 +55471,7 @@ vkcdnservice.appspot.com^
 ||wlmleoeykzsmm.space^
 ||wlmqngmpsyrgj.website^
 ||wlmyvnqbojjnv.site^
+||wlntdfsviqrxs.website^
 ||wlntzdjktaskn.website^
 ||wlpwqszmuwomc.site^
 ||wlqjoijqnazb.com^
