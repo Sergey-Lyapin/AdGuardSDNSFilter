@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-24T13:01:50.749Z
+! Last modified: 2026-02-24T14:47:45.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15065,6 +15065,7 @@ vkcdnservice.appspot.com^
 ||cneygrvmtgkwg.online^
 ||cnfxflakkwavih.xyz^
 ||cnicusoxbowtermite.cfd^
+||cnimpsil.com^
 ||cnjikkiehkpea.site^
 ||cnkupkiuvkcq.xyz^
 ||cnkwjasokdsaw.online^
@@ -19884,6 +19885,7 @@ vkcdnservice.appspot.com^
 ||endurancesupervision.com^
 ||endurosweekday.com^
 ||endysischlorin.cyou^
+||enedswimmer.shop^
 ||enejmbdsyvwbf.space^
 ||enelslthfenmh.site^
 ||enemasfidate.qpon^
@@ -20212,6 +20214,7 @@ vkcdnservice.appspot.com^
 ||eradisciplinemomentary.com^
 ||eraditches.cyou^
 ||erafterabigyello.com^
+||erajxzihkylve.online^
 ||eralway.com^
 ||eramb.site^
 ||erappeared.org^
@@ -20403,6 +20406,7 @@ vkcdnservice.appspot.com^
 ||etailtastan.net^
 ||etalageunwept.qpon^
 ||etatismdeary.cyou^
+||etauzbpdwghlu.website^
 ||etbbvbulyhyyo.space^
 ||etbtomrowbmji.website^
 ||etchedpernis.cyou^
@@ -20849,6 +20853,7 @@ vkcdnservice.appspot.com^
 ||eyovtnjvganvj.space^
 ||eyqbpifffccdc.net^
 ||eyqsrrwmvhavp.website^
+||eyqzarsbjscwq.online^
 ||eyrbobble.cfd^
 ||eyrzqduatrhmx.website^
 ||eysltgmwdejxnj.net^
@@ -23822,6 +23827,7 @@ vkcdnservice.appspot.com^
 ||gkihrlitlfndl.space^
 ||gkijdvpfpcjy.xyz^
 ||gkiqilinrzqfy.site^
+||gkixhlygxw.com^
 ||gkiymzihcndek.website^
 ||gkjicggvnoabu.website^
 ||gkjzkkbuewngs.online^
@@ -33181,6 +33187,7 @@ vkcdnservice.appspot.com^
 ||lyqktmnzhoapj.online^
 ||lyqlmfiyinygz.space^
 ||lyqmpodyvotqjb.com^
+||lyrhnasky.com^
 ||lyricsginger.com^
 ||lyricslocusvaried.com^
 ||lyrurusaztecs.help^
@@ -36236,6 +36243,7 @@ vkcdnservice.appspot.com^
 ||nillstawney.cfd^
 ||nilroobsoachoa.net^
 ||nimbicanduc.help^
+||nimble-tear.pro^
 ||nimble-way.pro^
 ||nimble-wine.com^
 ||nimblecontest.com^
@@ -37433,6 +37441,7 @@ vkcdnservice.appspot.com^
 ||odldzgdjzbksz.site^
 ||odlkpuok.com^
 ||odlospxkipf.com^
+||odlpxnvgroltc.online^
 ||odlxepapmasej.website^
 ||odmhljecbnazq.site^
 ||odnaknopka.ru^
@@ -38379,6 +38388,7 @@ vkcdnservice.appspot.com^
 ||orthalresshotfiant.qpon^
 ||orthantisabelartar.cyou^
 ||orthislardonwraple.qpon^
+||orttailing.cyou^
 ||ortuhaxjansbr.store^
 ||ortunitytostara.org^
 ||oruxmvyydrvkr.website^
@@ -42222,6 +42232,7 @@ vkcdnservice.appspot.com^
 ||qbzwwagbbagcf.online^
 ||qcbtygylmnfez.fun^
 ||qcdonicw.com^
+||qcdvlmoliqx.com^
 ||qcennhkrzskze.space^
 ||qcgzvywnvubee.online^
 ||qchmlmtkpbswf.buzz^
@@ -49262,6 +49273,7 @@ vkcdnservice.appspot.com^
 ||tallthirsty.com^
 ||tallwinter.pro^
 ||talonedveldman.rest^
+||talonspentice.cyou^
 ||talroebnwhbif.space^
 ||talusisatin.qpon^
 ||tamableperemptmiombo.qpon^
@@ -49355,6 +49367,7 @@ vkcdnservice.appspot.com^
 ||tatteredpassenger.com^
 ||tatteredperception.pro^
 ||tattiedretched.cyou^
+||tatuasuyippies.cyou^
 ||tatxbrshtjgfs.site^
 ||taughtdefect.com^
 ||taughtloudlydemise.com^
@@ -51688,6 +51701,7 @@ vkcdnservice.appspot.com^
 ||ugxqsbsdsuhqx.website^
 ||ugyokhycezstl.site^
 ||ugyppaqollegn.online^
+||ugzdlvrnoanpo.online^
 ||ugzpfjfnuvywa.site^
 ||uhakhbbuuqanf.site^
 ||uhanbzqkrokqb.site^
@@ -52305,6 +52319,7 @@ vkcdnservice.appspot.com^
 ||unsungpolicy.com^
 ||unsunpluvian.help^
 ||untackreviler.com^
+||unthawroinish.cyou^
 ||unthornitchy.cyou^
 ||unthxsorevhpz.space^
 ||untidy-camp.pro^
@@ -52606,6 +52621,7 @@ vkcdnservice.appspot.com^
 ||uruguayhyoidesshilluk.cyou^
 ||urulwxikmmaer.space^
 ||urusessoot.qpon^
+||urustmijlgggb.space^
 ||urwbsmyrspycn.online^
 ||urwvphdnwhdzl.site^
 ||urzdgpwphacny.site^
@@ -56560,6 +56576,7 @@ vkcdnservice.appspot.com^
 ||xoxyxaxtgkryj.club^
 ||xoymkdgsafcdh.site^
 ||xpaqbedamuofy.site^
+||xpbpecjegrfnf.space^
 ||xpbrqqmdttbyg.space^
 ||xpcvsyothyvmh.website^
 ||xpedwrnaodyjn.website^
