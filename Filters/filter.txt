@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-25T07:00:10.187Z
+! Last modified: 2026-02-25T08:46:23.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9743,6 +9743,7 @@ vkcdnservice.appspot.com^
 ||aptitudesupposedlyaccountant.com^
 ||aptlyerring.com^
 ||aptonnerventualke.org^
+||aptqpcaw.xyz^
 ||aptsanabia.cyou^
 ||aptstirrup.qpon^
 ||aptwcewxlhufh.website^
@@ -26478,6 +26479,7 @@ vkcdnservice.appspot.com^
 ||hospicaladapto.org^
 ||hospitable-effort.pro^
 ||hospitabledues.com^
+||hosrkaejczqfig.com^
 ||hostadsmarkets.com^
 ||hostave.net^
 ||hostave4.net^
@@ -29405,6 +29407,7 @@ vkcdnservice.appspot.com^
 ||jnacpgkcophpn.site^
 ||jnbarehsnnbgg.online^
 ||jnbhi.com^
+||jncfvnoerwgw.com^
 ||jncqlqqy.xyz^
 ||jndcdxcoqjroj.store^
 ||jndgnfrypjtsy.site^
@@ -34376,6 +34379,7 @@ vkcdnservice.appspot.com^
 ||miphztgppumea.site^
 ||miplcxolehjqk.online^
 ||miptj.space^
+||miqblmlfwd.com^
 ||miraclethisaddicted.com^
 ||mirandabodkin.cyou^
 ||mirazu-denhaag.nl^
@@ -48141,6 +48145,7 @@ vkcdnservice.appspot.com^
 ||sservs.com^
 ||sshavrlwelaqk.space^
 ||sshnthcuddmcuhb.com^
+||ssiagxkdsf.com^
 ||ssihovwmbfikv.online^
 ||ssindserving.com^
 ||ssjskbenyzmha.online^
@@ -55028,6 +55033,7 @@ vkcdnservice.appspot.com^
 ||wfxxjwzu.com^
 ||wfzoskvfbdwot.site^
 ||wg-aff.com^
+||wgamaokmdqwfij.com^
 ||wgbjshoxpgwgu.online^
 ||wgbqzjarapkbi.website^
 ||wgbslhcemsixx.website^
@@ -55158,6 +55164,7 @@ vkcdnservice.appspot.com^
 ||whimsical-section.com^
 ||whimsicaladvice.com^
 ||whimsicalcoat.com^
+||whimsicalhit.com^
 ||whimsicskiings.cyou^
 ||whinedeity.com^
 ||whinedlibertytriers.cfd^
