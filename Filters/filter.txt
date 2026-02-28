@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-28T12:41:36.117Z
+! Last modified: 2026-02-28T14:20:27.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11320,6 +11320,7 @@ vkcdnservice.appspot.com^
 ||bdtarreitxmbb.website^
 ||bdthimglwawkb.site^
 ||bducfhglyadgr.website^
+||bduwesnxbmmjq.site^
 ||bdxhujrned.buzz^
 ||bdxiunxmokfdt.site^
 ||bdyfvkssumupj.website^
@@ -13780,6 +13781,7 @@ vkcdnservice.appspot.com^
 ||caresseashoreunrest.com^
 ||caressfinancialdodge.com^
 ||carfaremissit.cfd^
+||carfaxstopped.cyou^
 ||carfourcoff.qpon^
 ||carfulsalem.shop^
 ||cargoattachment.com^
@@ -21326,6 +21328,7 @@ vkcdnservice.appspot.com^
 ||fartsoat.shop^
 ||fascespro.com^
 ||fascialbel.shop^
+||fascinegrudges.cfd^
 ||fascistcleomes.qpon^
 ||fasfsv-sli.love^
 ||fashercartop.cfd^
@@ -23019,6 +23022,7 @@ vkcdnservice.appspot.com^
 ||fullmworkhovdi.org^
 ||fulltraffic.net^
 ||fullyslape.shop^
+||fulohsdudxyhc.site^
 ||fulorrbzok.com^
 ||fulrrlddcjqlk.fun^
 ||fuluprhymes.cfd^
@@ -23860,6 +23864,7 @@ vkcdnservice.appspot.com^
 ||gffprwnkrpamw.online^
 ||gfglsjrfdxvte.website^
 ||gfhgxmczmrcda.site^
+||gfhhghnduzqiq.site^
 ||gfkfqilsulylx.website^
 ||gfmoyucbasr.com^
 ||gfnpfbalgsfgw.space^
@@ -24660,6 +24665,7 @@ vkcdnservice.appspot.com^
 ||gplovaumydkv.com^
 ||gplywfirosiwd.one^
 ||gpmodmpdrwbrx.space^
+||gpprmgtpyzdlh.com^
 ||gppslmcuwg.net^
 ||gppxchiueswud.online^
 ||gpsecureads.com^
@@ -24933,6 +24939,7 @@ vkcdnservice.appspot.com^
 ||grmciysmhnyaj.site^
 ||grmtas.com^
 ||grnddeqgxnmyoa.net^
+||grnezkzjgcwvs.space^
 ||grnfwylvabmbb.website^
 ||grnvvxcjpbokg.site^
 ||groajodsaursie.net^
@@ -28702,6 +28709,7 @@ vkcdnservice.appspot.com^
 ||irymountain.org^
 ||irymqsskczira.website^
 ||irz6b9u5uux67jpgg9qj51j5878if1.rest^
+||irzebpsbojrbp.space^
 ||isabellaentire.com^
 ||isabellalive.cfd^
 ||isagogeidyler.cyou^
@@ -32924,6 +32932,7 @@ vkcdnservice.appspot.com^
 ||loaptaijuw.com^
 ||loastees.net^
 ||loathesparkledisperse.com^
+||loathsome-world.pro^
 ||loathsomeboy.com^
 ||loathsomechart.pro^
 ||loathsomecrack.com^
@@ -35131,6 +35140,7 @@ vkcdnservice.appspot.com^
 ||modificationdesignate.com^
 ||modificationdispatch.com^
 ||modifiedfloatvest.com^
+||modifyqts.shop^
 ||modoro360.com^
 ||modularwough.qpon^
 ||modulecooper.com^
@@ -44856,6 +44866,7 @@ vkcdnservice.appspot.com^
 ||rgcgjmruqf.com^
 ||rgemgnxejsmrt.online^
 ||rgezwfnbpigkd.site^
+||rgfxpnsqnrmeq.com^
 ||rggbgduyvylx.com^
 ||rggbguxuonpaqu.xyz^
 ||rggeolibxevzn.website^
@@ -50835,6 +50846,7 @@ vkcdnservice.appspot.com^
 ||tirmebbyynmip.website^
 ||tirrdoucker.qpon^
 ||tirtoukricmaje.net^
+||tirveintrap.qpon^
 ||tirwitrelents.cfd^
 ||tisaneata.com^
 ||tissoukrookrag.net^
@@ -55430,6 +55442,7 @@ vkcdnservice.appspot.com^
 ||wdkmoxkhtnkss.space^
 ||wdlltvftsokwy.space^
 ||wdlrdefkhzwkw.online^
+||wdncsrxnpcmijxb.com^
 ||wdnqfnniorfbx.store^
 ||wdnzwjgvutspu.site^
 ||wdourqnli.com^
@@ -57035,6 +57048,7 @@ vkcdnservice.appspot.com^
 ||xdlechibkgb.xyz^
 ||xdmamkqxatzrh.website^
 ||xdmanage.com^
+||xdmwyecqmbykn.website^
 ||xdmycvwgynylh.store^
 ||xdnfqnqucotpm.site^
 ||xdnklhggcsyll.online^
@@ -57044,6 +57058,7 @@ vkcdnservice.appspot.com^
 ||xdpnhlwixwdop.site^
 ||xdpnnqurquvuc.online^
 ||xdrelbgbndfnl.site^
+||xdspoexdjeaab.site^
 ||xdwstcvtdyyfg.website^
 ||xdyxzdkconsev.site^
 ||xebfomhenqxin.online^
@@ -58082,6 +58097,7 @@ vkcdnservice.appspot.com^
 ||yhqebnyrxckhp.online^
 ||yhsegbkmhvrgx.space^
 ||yhthfwhuecsil.website^
+||yhthngwzlwyot.online^
 ||yhtqjsomvhod.com^
 ||yhumgukqhfplw.site^
 ||yhveurptdou.com^
@@ -58234,6 +58250,7 @@ vkcdnservice.appspot.com^
 ||ymcflloytltvc.online^
 ||ymdqjgiecsdds.website^
 ||ymehnthakutyfor.com^
+||ymesagmvlgiuo.website^
 ||ymesowpfpcyao.site^
 ||ymfhftcrt.com^
 ||ymghkfnajwmpk.space^
@@ -58499,6 +58516,7 @@ vkcdnservice.appspot.com^
 ||ytccvtdtsfocf.online^
 ||ytdut.online^
 ||yteinseetlxto.website^
+||ytekaafvvgkji.online^
 ||yterxv.com^
 ||ytfzbogyvxjdd.online^
 ||ytgqjqpymyjvp.online^
