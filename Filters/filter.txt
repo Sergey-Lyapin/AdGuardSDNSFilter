@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-01T05:16:26.756Z
+! Last modified: 2026-03-01T06:43:05.424Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6835,6 +6835,7 @@ vkcdnservice.appspot.com^
 ||4rabettraff.com^
 ||4rnqoqt1b17w4qy.cfd^
 ||4t48vvloghxb888onibwopix8g3foi3eiz68.rest^
+||4uchu1k1birwz14.rest^
 ||4uipybjyqp6xe4lkr.cfd^
 ||4umuuxmnnj5y3tlo.cfd^
 ||4uol7t4f8cb8cu4yxhwex438kbi6gq.cfd^
@@ -9434,11 +9435,13 @@ vkcdnservice.appspot.com^
 ||ancienshalite.qpon^
 ||ancient-pipe.com^
 ||ancientindependence.pro^
+||ancientmurine.com^
 ||ancievtj.xyz^
 ||anciliaoat.com^
 ||ancillalactic.help^
 ||anclimnexperts.cfd^
 ||ancznewozw.com^
+||andanteinfaust.cyou^
 ||andaspued.cyou^
 ||andcomemunicateth.com^
 ||andddhppxsagu.online^
@@ -10106,6 +10109,7 @@ vkcdnservice.appspot.com^
 ||asimwjsutvutx.site^
 ||asinlovewiththem.org^
 ||asix8.com^
+||asjitqwjvodhr.site^
 ||asjvnxqkmbkq.com^
 ||askarwanions.qpon^
 ||askdomainad.com^
@@ -12056,6 +12060,7 @@ vkcdnservice.appspot.com^
 ||bjjgpmqyvpr.xyz^
 ||bjjky.cfd^
 ||bjlsvzikxpjxq.space^
+||bjpaeonp.xyz^
 ||bjpnhroqdkexx.website^
 ||bjqhjoetbdaj.xyz^
 ||bjquhxvicujcc.online^
@@ -21180,6 +21185,7 @@ vkcdnservice.appspot.com^
 ||f65e53278b.com^
 ||f680e0bdca.com^
 ||f6ihihez21gow4x.cfd^
+||f6xxn9717b1z41ipq7whw4ee.cfd^
 ||f7170e601a.com^
 ||f761efe176.com^
 ||f7dcc97ce6.com^
@@ -21784,6 +21790,7 @@ vkcdnservice.appspot.com^
 ||fh6w1mtv93vtkmmg7otcxh.rest^
 ||fhbmwsdlp.com^
 ||fhcdsxgicx.com^
+||fhcggnfqejjji.com^
 ||fhgalvgaycyqw.website^
 ||fhgh9sd.com^
 ||fhgvvrpqkxafv.website^
@@ -22809,6 +22816,7 @@ vkcdnservice.appspot.com^
 ||friendlyraise.com^
 ||friendsfrozen.com^
 ||friendshipclumsy.com^
+||friendskoft.qpon^
 ||friepoejbobh.com^
 ||friergalootcajang.cfd^
 ||frieseleks.cyou^
@@ -27952,6 +27960,7 @@ vkcdnservice.appspot.com^
 ||ilyf4amifh.com^
 ||ilymynihnpcdd.site^
 ||ilzaixiufnyul.site^
+||ilzualntjfjjd.online^
 ||im9rymw51hi4x2g7b8vty928.cfd^
 ||imageadvantage.net^
 ||imagenest.site^
@@ -29004,6 +29013,7 @@ vkcdnservice.appspot.com^
 ||iwklxkwqfiphw.website^
 ||iwlhxgnimre.com^
 ||iwmxvgvhxps.xyz^
+||iwnjfdbnejbah.site^
 ||iwnmzkpzalkbo.online^
 ||iwnslufpzhikp.online^
 ||iwoofaipie.net^
@@ -35564,6 +35574,7 @@ vkcdnservice.appspot.com^
 ||mpzqirfeaqene.website^
 ||mqabjtgli.xyz^
 ||mqaltftzmrezi.space^
+||mqblrvvnppqxw.online^
 ||mqbwqsvxfwzos.site^
 ||mqdownload.com^
 ||mqedledjjjdad.website^
@@ -48283,6 +48294,7 @@ vkcdnservice.appspot.com^
 ||soloistneatly.com^
 ||soloistrottenfountain.com^
 ||solonicprimly.shop^
+||solonicstaia.qpon^
 ||solublychug.qpon^
 ||solujav.my^
 ||solutionassassincatering.com^
@@ -53712,6 +53724,7 @@ vkcdnservice.appspot.com^
 ||uxibgyftvdzyr.site^
 ||uxihlrtlkmdow.website^
 ||uxiktllbqrryj.online^
+||uxjbffdmqinye.site^
 ||uxjrggiwlqokm.xyz^
 ||uxkrauhjb.net^
 ||uxktflcscvkja.site^
@@ -57338,6 +57351,7 @@ vkcdnservice.appspot.com^
 ||xipteq.com^
 ||xiqhsgtnqcbzy.online^
 ||xiqrciamgw.com^
+||xiqtuegppgjra.website^
 ||xiqxrsagbctpm.website^
 ||xirmhojmjyldx.site^
 ||xirnollcwexvz.website^
@@ -58310,6 +58324,7 @@ vkcdnservice.appspot.com^
 ||yjotqzesimahl.online^
 ||yjpqcnhnpaghu.site^
 ||yjrohhkqfddlx.store^
+||yjsmoafrwbmvd.online^
 ||yjtrcuqfxbvhz.space^
 ||yjwajohilqxia.online^
 ||yjwojvccdukua.site^
@@ -59111,6 +59126,7 @@ vkcdnservice.appspot.com^
 ||zfenhpijjexpd.online^
 ||zferral.com^
 ||zfgvoltwlszda.site^
+||zfgvxstfdxdlj.website^
 ||zfhyqirpshfmb.site^
 ||zfjhmufunivir.space^
 ||zfjoyeuwymeqj.online^
