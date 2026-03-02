@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-02T06:55:46.596Z
+! Last modified: 2026-03-02T08:41:52.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6011,6 +6011,7 @@
 ||llog.pl^
 !
 ||bsxmuny.wp.pl^
+||profitshare.ro^
 ||fusion.sydsvenskan.se^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/200270
 ||adsok.co^
@@ -6288,6 +6289,7 @@ vkcdnservice.appspot.com^
 ||1betandgonow.com^
 ||1bfhg5fye4i24ct2w8x.cfd^
 ||1bm3n8sld.de^
+||1bots.top^
 ||1c0c3fde9d.com^
 ||1c6fd11ca2.com^
 ||1ccbt.com^
@@ -7715,6 +7717,7 @@ vkcdnservice.appspot.com^
 ||acam-2.com^
 ||acanthasemmit.help^
 ||acapniadimer.qpon^
+||acararithetic.com^
 ||acaribleep.com^
 ||acaridflyings.qpon^
 ||acarioutweed.shop^
@@ -10772,6 +10775,7 @@ vkcdnservice.appspot.com^
 ||aymoabxgahihu.world^
 ||aymomaxssspsr.site^
 ||ayoaxysrxwo.xyz^
+||ayogexnyfwcql.space^
 ||ayokosyyagpf.xyz^
 ||ayoovmhwq.xyz^
 ||ayoptsvjrkmgt.space^
@@ -23502,6 +23506,7 @@ vkcdnservice.appspot.com^
 ||gafioraqw.xyz^
 ||gaflphlwqqhch.site^
 ||gafteeshoaxoucm.net^
+||gaftvjzjcfxez.site^
 ||gagaterrar.help^
 ||gagedependable.com^
 ||gagescenesclothes.com^
@@ -24583,6 +24588,7 @@ vkcdnservice.appspot.com^
 ||go-static.info^
 ||go.errpgrt.com^
 ||go.syndcloud.com^
+||go1go.sbs^
 ||go2.global^
 ||go2affise.com^
 ||go2app.org^
@@ -26074,6 +26080,7 @@ vkcdnservice.appspot.com^
 ||headlongrelic.com^
 ||headphonedilution.com^
 ||headphonesshout.com^
+||headquartersfallclassify.com^
 ||heaffreq.cfd^
 ||healingchoroti.qpon^
 ||healsbedusk.qpon^
@@ -32575,6 +32582,7 @@ vkcdnservice.appspot.com^
 ||lfmeyarlqcl.com^
 ||lfmkreaekafry.space^
 ||lfnwxpcbfpkcx.website^
+||lfnxktizblbbc.space^
 ||lfowbhzhqjhxb.online^
 ||lfpqkywymtxtb.online^
 ||lfrehkm3i363vt4eq8r.cfd^
@@ -36127,6 +36135,7 @@ vkcdnservice.appspot.com^
 ||mvuzjyfunvkzw.store^
 ||mvvbumtxvjnjo.site^
 ||mvvlsvwtgoxlj.space^
+||mvvmkmkgfsvfa.website^
 ||mvvzqoftininu.website^
 ||mvwdkjadutmcv.site^
 ||mvxrsxfzhccyb.space^
@@ -38168,6 +38177,7 @@ vkcdnservice.appspot.com^
 ||ochdbjgbkommn.website^
 ||ochoogroufuci.com^
 ||ochromascrogs.cyou^
+||ocinzfdyslxja.online^
 ||ociurwibnklqw.online^
 ||ocivocakufslc.site^
 ||ockapejqmvdm.com^
@@ -38203,6 +38213,7 @@ vkcdnservice.appspot.com^
 ||octopedentr.help^
 ||octopuscreedpincers.com^
 ||octopuspop.com^
+||octotraf.xyz^
 ||octroizombis.cfd^
 ||octuortogaed.cyou^
 ||ocularsfourble.shop^
@@ -43259,6 +43270,7 @@ vkcdnservice.appspot.com^
 ||qgcdlmntrgooa.space^
 ||qgcdxnoehcpvu.website^
 ||qgdgcbtfuxgra.store^
+||qgdjeksgbbiyc.website^
 ||qgerr.com^
 ||qgevavwyafjf.com^
 ||qgfdmuyzgrosw.online^
@@ -43541,6 +43553,7 @@ vkcdnservice.appspot.com^
 ||qonxczumyxnmw.website^
 ||qottubusyheqj.store^
 ||qotuprmsjnjbn.site^
+||qoueiynhbejehx.com^
 ||qouwtyxfglrunq.net^
 ||qovdtdoiazazm.site^
 ||qovmllbgjink.com^
@@ -46736,6 +46749,7 @@ vkcdnservice.appspot.com^
 ||sbtiulwkstzpt.space^
 ||sbttrnsdtmg.com^
 ||sbuobpzymktwt.online^
+||sbvbikvfulafa.site^
 ||sbwrwbevfoykx.website^
 ||sbwwjnlkxmlrto.xyz^
 ||sbxlwnacdqvxksc.xyz^
@@ -50685,6 +50699,7 @@ vkcdnservice.appspot.com^
 ||tentorykolobia.cfd^
 ||tenuredwese.shop^
 ||tenzonebrazed.shop^
+||teoaxzazksyuo.site^
 ||teoeqzeceibxd.space^
 ||teotnajhxmwts.site^
 ||tepacheunrobes.cyou^
@@ -52481,6 +52496,7 @@ vkcdnservice.appspot.com^
 ||tyddenproleg.cyou^
 ||tydrumgmari.org^
 ||tyeribobywtmo.space^
+||tyilygslda.com^
 ||tyingtastevolleyball.com^
 ||tyjhppeycigsm.space^
 ||tykhcihsletwx.space^
@@ -54023,6 +54039,7 @@ vkcdnservice.appspot.com^
 ||uyxkpkvungun.xyz^
 ||uyyqsqxhslisuow.com^
 ||uyzbhxhzgpsyw.website^
+||uyzosjiuslcop.online^
 ||uz-kqtecqs.space^
 ||uzaiowvlhtxbh.today^
 ||uzbiajlzdylja.icu^
@@ -56287,6 +56304,7 @@ vkcdnservice.appspot.com^
 ||whkbqnkscmnwo.global^
 ||whktyaohgkycz.website^
 ||whldthsafmpam.online^
+||whngwfskm.com^
 ||whoadhoxtojg.com^
 ||whoaksoopoordo.net^
 ||whoalinseed.shop^
@@ -56352,6 +56370,7 @@ vkcdnservice.appspot.com^
 ||whynessspriggy.cyou^
 ||whyprcmtlxwhe.com^
 ||whywolveshowl.com^
+||wi0z.com^
 ||wi8gfl5my7nwfz9wqcnezlqw1.cfd^
 ||wiampgqpfdxyz.website^
 ||wibksulpblipjkb.com^
