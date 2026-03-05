@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-05T04:14:31.041Z
+! Last modified: 2026-03-05T06:50:14.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11615,6 +11615,7 @@ vkcdnservice.appspot.com^
 ||biblosdiver.cfd^
 ||bibnnqovwuqma.com^
 ||bicescalashunwedge.cyou^
+||bicpupog.in^
 ||bid.glass^
 ||bidarblam.com^
 ||bidberry.net^
@@ -13561,6 +13562,7 @@ vkcdnservice.appspot.com^
 ||caulisbacile.qpon^
 ||caulishanker.qpon^
 ||caulisknittle.cyou^
+||caulomechookie.cyou^
 ||cauloterefutes.cyou^
 ||cauloupsamiki.net^
 ||caunchbubby.qpon^
@@ -20839,6 +20841,7 @@ vkcdnservice.appspot.com^
 ||feilbeclaw.com^
 ||feintedaircrew.com^
 ||feistsshalier.cyou^
+||feisty-strength.pro^
 ||fejwweqjtndwz.site^
 ||felafelcypsela.cyou^
 ||felidturusledges.cyou^
@@ -22536,6 +22539,7 @@ vkcdnservice.appspot.com^
 ||gaisteem.net^
 ||gaitcubicle.com^
 ||gaixmgkhmdlbw.website^
+||gajseglfqalrl.online^
 ||gakaoxulxuheu.store^
 ||galaksion.com^
 ||galaxyearningsfly.com^
@@ -26457,6 +26461,7 @@ vkcdnservice.appspot.com^
 ||icyporno.com^
 ||icyroad.pro^
 ||iczhjrshqzong.site^
+||icznvrmvgiaes.site^
 ||id5-sync.com^
 ||idaaypeljhbyrwu.net^
 ||idbagqaerpifx.icu^
@@ -28935,6 +28940,7 @@ vkcdnservice.appspot.com^
 ||jullyambery.net^
 ||julolecalve.website^
 ||julrdr.com^
+||julvpwohwlmgb.online^
 ||julyclassesstature.com^
 ||julyfellowslaxly.cyou^
 ||jumbo-insurance.pro^
@@ -33179,6 +33185,7 @@ vkcdnservice.appspot.com^
 ||mhusnegshd.xyz^
 ||mhvcffxkgupph.online^
 ||mhvjdaairdghp.online^
+||mhvjfdcvakx.com^
 ||mhwmplcx.net^
 ||mhyacjinulgvu.store^
 ||mhydndfvgzvwu.site^
@@ -34136,6 +34143,7 @@ vkcdnservice.appspot.com^
 ||mtmzlljrzzazn.site^
 ||mtnhkohxtznmr.site^
 ||mtnkeext.xyz^
+||mtnklans.cyou^
 ||mtntnypasahgr.online^
 ||mtnubxvkutteu.website^
 ||mtnukovxnnwjc.website^
@@ -35083,6 +35091,7 @@ vkcdnservice.appspot.com^
 ||nhkfykfkscynfu.com^
 ||nhkngcedmtjhd.website^
 ||nhkstivqaqwvz.store^
+||nhldzfyhzsgcx.site^
 ||nhlrspxvdmuea.site^
 ||nhonnlvjebaid.site^
 ||nhpirzpjwmsgh.online^
@@ -35353,6 +35362,7 @@ vkcdnservice.appspot.com^
 ||nmajjhzqyckro.icu^
 ||nmbmhwfexmjyk.online^
 ||nmcdn.us^
+||nmcjossjblbhx.space^
 ||nmfbpkejqebcu.online^
 ||nmgbfmkipdhps.site^
 ||nmgneqqnnbtac.site^
@@ -35752,6 +35762,7 @@ vkcdnservice.appspot.com^
 ||ntcfrzpzmeite.site^
 ||ntdieiitsgysb.space^
 ||ntejdiphkkfpx.website^
+||nteukwvyegggr.website^
 ||ntgdwjrbgmocn.website^
 ||nthkmosujmuo.net^
 ||ntiljustetyerec.org^
@@ -37217,6 +37228,7 @@ vkcdnservice.appspot.com^
 ||orqrdm.com^
 ||orquideassp.com^
 ||orrhoidlila.qpon^
+||orrnaqnsjwkji.com^
 ||orscrdthvbser.online^
 ||orsedestummermob.cyou^
 ||orsqgxiuhkitm.website^
@@ -38960,6 +38972,7 @@ vkcdnservice.appspot.com^
 ||pitchcustomaryoz.com^
 ||pitchedfurs.com^
 ||piteousprinciple.com^
+||pitfoldmolding.qpon^
 ||pitofficialfollower.com^
 ||pitomiecable.qpon^
 ||pitpitdeal.cfd^
@@ -41366,6 +41379,7 @@ vkcdnservice.appspot.com^
 ||qqgjvgudcntvw.online^
 ||qqgspelswxiok.website^
 ||qqhjdsbubacon.online^
+||qqhyzncfsiqvt.website^
 ||qqifefphpoord.site^
 ||qqjtldyoobxpo.online^
 ||qqjzxgaqpvrdr.website^
@@ -42199,6 +42213,7 @@ vkcdnservice.appspot.com^
 ||reasonable-track.pro^
 ||reasonableabroad.pro^
 ||reasoningcarry.com^
+||reasoningcoefficient.com^
 ||reasoningdreary.com^
 ||reasoningfashionbrood.com^
 ||reasoningiconcealment.com^
@@ -43147,6 +43162,7 @@ vkcdnservice.appspot.com^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
 ||rkjtlnfhsocoz.store^
+||rklghovcdg.com^
 ||rkndaxwnmlcwn.space^
 ||rkocuezkhfizy.site^
 ||rkomf.com^
@@ -44075,6 +44091,7 @@ vkcdnservice.appspot.com^
 ||safsdvc.com^
 ||sagaciousexceptingrate.com^
 ||sagaiestases.cfd^
+||sagaivamure.cyou^
 ||sagapenforhale.cfd^
 ||sagbutsmonaul.cfd^
 ||sagcelebration.com^
@@ -44175,6 +44192,7 @@ vkcdnservice.appspot.com^
 ||sangahfrazingkelpy.cfd^
 ||sangarrigbane.qpon^
 ||sanghissed.com^
+||sangopportunity.com^
 ||sanguinecocky.com^
 ||sanguineslang.com^
 ||saningblazy.cfd^
@@ -45503,6 +45521,7 @@ vkcdnservice.appspot.com^
 ||skfbcbwmxrxli.site^
 ||skfwtmpglmkhs.site^
 ||skgburylwylrv.online^
+||skgjnitfsnknnl.com^
 ||skgpczjykhobz.site^
 ||skgpzivadwdte.buzz^
 ||skhfsybsmxnvj.website^
@@ -45573,6 +45592,7 @@ vkcdnservice.appspot.com^
 ||slabgypsiesredaub.cfd^
 ||slabjav12.fun^
 ||slabshookwasted.com^
+||slackenkebars.cfd^
 ||slackensuddeneat.com^
 ||slackentheatres.com^
 ||slacklykeying.qpon^
@@ -48002,6 +48022,7 @@ vkcdnservice.appspot.com^
 ||temporaryallusion.com^
 ||temprowboat.cyou^
 ||tenadfpgwocuw.website^
+||tenammith.com^
 ||tenantbororo.help^
 ||tenantrip.com^
 ||tend-new.com^
@@ -48032,6 +48053,7 @@ vkcdnservice.appspot.com^
 ||teoeqzeceibxd.space^
 ||teotnajhxmwts.site^
 ||tepacheunrobes.cyou^
+||teparytympan.qpon^
 ||tepid-permission.com^
 ||tepidpolicy.com^
 ||tepinursh.com^
@@ -49994,6 +50016,7 @@ vkcdnservice.appspot.com^
 ||uggwouhzwuhcb.website^
 ||uggykkmldmzkp.site^
 ||ughesterurelanderp.org^
+||ughqufpzkgwen.online^
 ||ugkaetzjnmarl.online^
 ||ugkholrbztybq.space^
 ||ugkzxcmszlpdf.online^
@@ -50337,6 +50360,7 @@ vkcdnservice.appspot.com^
 ||unconscious-long.com^
 ||unconsciousfluent.com^
 ||unconsciousliteracynameless.com^
+||uncotorture.com^
 ||uncouchsawyers.qpon^
 ||uncqrapguooya.space^
 ||uncterilitasory.com^
@@ -58323,6 +58347,7 @@ vkcdnservice.appspot.com^
 ||heavilyhelp.com^
 ||hmphmehfailing.com^
 ||housebutsoon.com^
+||hurtfulonly.com^
 ||huzzahwhatintently.com^
 ||ickfinallyonly.com^
 ||impanelsnarling.com^
@@ -71289,6 +71314,7 @@ vkcdnservice.appspot.com^
 ||dbqhingien.com^
 ||bkhpdrblv.com^
 ||llmb.cn^
+||e2us4880k.com^
 ||hnlghkmp.icu^
 ||mhmciof8ef.com^
 ||fp9gvw5ber.com^
