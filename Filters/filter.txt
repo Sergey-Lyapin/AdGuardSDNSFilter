@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-05T06:50:14.919Z
+! Last modified: 2026-03-05T08:39:03.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7048,6 +7048,7 @@ vkcdnservice.appspot.com^
 ||61d7a302a1.com^
 ||61e564cc00.com^
 ||61fe2d132b.com^
+||61v17rij.xyz^
 ||62a53367c9.com^
 ||62ad.com^
 ||634263882b.com^
@@ -7728,6 +7729,7 @@ vkcdnservice.appspot.com^
 ||abuttedfast.com^
 ||abvbclaoycooz.website^
 ||abvdzbbnquhoa.space^
+||abvfupqkyaj.in^
 ||abwdixodecuxf.site^
 ||abwkkxygcop.net^
 ||abxokzmu.com^
@@ -8578,6 +8580,7 @@ vkcdnservice.appspot.com^
 ||africawin.com^
 ||afritreeject.help^
 ||afrosinserts.qpon^
+||afrxixlnj.com^
 ||afsohptiq.in^
 ||afspkvlrkvzwy.space^
 ||afterdownload.com^
@@ -19149,6 +19152,7 @@ vkcdnservice.appspot.com^
 ||ekyngoyzuutls.website^
 ||ekzjdctkzlsvo.online^
 ||ekzrpjskeowcf.online^
+||el7jm4u3vxzotune4.cfd^
 ||elaborate-fan.pro^
 ||elaboratebasis.com^
 ||eladove.com^
@@ -26845,6 +26849,7 @@ vkcdnservice.appspot.com^
 ||imbuteresaws.cyou^
 ||imbutewigtail.cyou^
 ||imcdn.pro^
+||imchejtcoprled.com^
 ||imcyeedndbnfy.space^
 ||imdnghcr.com^
 ||imdoacybrkmyx.online^
@@ -30348,6 +30353,7 @@ vkcdnservice.appspot.com^
 ||kyglutumyqyoq.online^
 ||kygwbcvevmaoz.store^
 ||kyhiabfjyopdq.com^
+||kyhloeleolvel.site^
 ||kylgonjyyhk.net^
 ||kyloiutnlamqn.website^
 ||kyloyeelin.help^
@@ -30403,6 +30409,7 @@ vkcdnservice.appspot.com^
 ||l2mfle649s080425l.cfd^
 ||l34muby3gzqxtju6mtf1bq4efp8x2rqetnpv.cfd^
 ||l3qv7u9ju6b9exevk8hu2564zhieut.rest^
+||l3uyyhufkygwli6ycmyjphrfe.rest^
 ||l4c49w21lzpct4c15vr4jnq.cfd^
 ||l4gzf1c3obom3zgfj.cfd^
 ||l5pfirggv1torvcqq8v.cfd^
@@ -31340,6 +31347,7 @@ vkcdnservice.appspot.com^
 ||liviermutt.cyou^
 ||livvbkx-vejj.xyz^
 ||liwelsosoocaich.net^
+||liwfpfbd.com^
 ||liwmwijpufa.com^
 ||lixstownrusisedpriv.org^
 ||liyzeqeyezorg.online^
@@ -35363,6 +35371,7 @@ vkcdnservice.appspot.com^
 ||nmbmhwfexmjyk.online^
 ||nmcdn.us^
 ||nmcjossjblbhx.space^
+||nmcvlehtzatkn.space^
 ||nmfbpkejqebcu.online^
 ||nmgbfmkipdhps.site^
 ||nmgneqqnnbtac.site^
@@ -36582,6 +36591,7 @@ vkcdnservice.appspot.com^
 ||ohvzbhmjwpvrh.site^
 ||ohwcfznerxhjk.website^
 ||ohwimdplf.xyz^
+||ohxwdebvztdnf.site^
 ||ohyqrurmhguhy.store^
 ||ohzymacguuuse.website^
 ||oicfkmbppdusr.website^
@@ -41079,6 +41089,7 @@ vkcdnservice.appspot.com^
 ||qgkbveukreear.site^
 ||qgkwnmyiwalgh.site^
 ||qgmoslspensxh.buzz^
+||qgmsqysuzocem.website^
 ||qgmwyffvrtflx.space^
 ||qgnjagnvbajux.online^
 ||qgpiphehhrcvl.space^
@@ -42031,6 +42042,7 @@ vkcdnservice.appspot.com^
 ||raxxkxvipsusz.site^
 ||raymondtoaster.com^
 ||rayoncarvist.cfd^
+||raytfowcnlrf.xyz^
 ||rayvirtual.com^
 ||razeantlikekvass.qpon^
 ||razeebisons.com^
@@ -43233,6 +43245,7 @@ vkcdnservice.appspot.com^
 ||rmpywaamvfwfa.store^
 ||rmqgscbitoadp.site^
 ||rmqtqrtxhwilx.store^
+||rmrzeaafyxwsq.space^
 ||rmshqa.com^
 ||rmtagvivdrbwd.icu^
 ||rmtltkhgxeljc.site^
@@ -43319,6 +43332,7 @@ vkcdnservice.appspot.com^
 ||rockeryunthaw.qpon^
 ||rocketme.top^
 ||rockhassar.cyou^
+||rockiertalcous.cfd^
 ||rockiesamianth.qpon^
 ||rockingfolders.com^
 ||rockintentiondealing.com^
@@ -49014,6 +49028,7 @@ vkcdnservice.appspot.com^
 ||tqlqfhmvainmn.one^
 ||tqnogxuqgwlmj.space^
 ||tqofiyedqqxwq.online^
+||tqohvjbzxbgti.website^
 ||tqpgvduudixlm.online^
 ||tqptpnliwnkcy.space^
 ||tqpuvxhsrcoon.store^
@@ -51748,6 +51763,7 @@ vkcdnservice.appspot.com^
 ||vhwmscbmuopmm.space^
 ||vhwsycdjmiycy.website^
 ||vhwvsmdvsbt.com^
+||vhyeymvgvjulz.site^
 ||vhyitulhaiyjpby.xyz^
 ||vhzcewosjxcxe.website^
 ||vhzmfpxqjhsah.website^
@@ -53416,6 +53432,7 @@ vkcdnservice.appspot.com^
 ||wildhookups.com^
 ||wildmatch.com^
 ||wildxxxparties.com^
+||wilkicja.in^
 ||willingcloud.pro^
 ||willinglybasketball.com^
 ||willinglybytedelusion.com^
@@ -63327,6 +63344,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||rtb-stack.com^
 ||viiukuhe.com^
 ||keskin-pop.vip^
 ||opgg.beer^
@@ -71315,6 +71333,9 @@ vkcdnservice.appspot.com^
 ||bkhpdrblv.com^
 ||llmb.cn^
 ||e2us4880k.com^
+||g64njjhyh.com^
+||nahg4lhbr.com^
+||xdyn03051jy.com^
 ||hnlghkmp.icu^
 ||mhmciof8ef.com^
 ||fp9gvw5ber.com^
