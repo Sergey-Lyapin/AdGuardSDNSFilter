@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-07T03:59:13.034Z
+! Last modified: 2026-03-07T05:04:05.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -35139,6 +35139,7 @@ vkcdnservice.appspot.com^
 ||ndroip.com^
 ||ndroundhertouc.com^
 ||ndtheyeiedm.info^
+||ndtlhvhfeokmc.website^
 ||ndtvbcxhvmtde.site^
 ||ndvqhobnheivh.club^
 ||ndvyaowfbmveek.xyz^
@@ -40015,6 +40016,7 @@ vkcdnservice.appspot.com^
 ||ppaamxfm.com^
 ||ppaymnknqzvqw.tech^
 ||ppbapwgwuhxtw.site^
+||ppbbhvizrkryo.website^
 ||ppbqkiborhoje.online^
 ||ppbstruvpegasus.qpon^
 ||ppcmate.com^
@@ -43309,6 +43311,7 @@ vkcdnservice.appspot.com^
 ||rgtiwzsncqfyd.space^
 ||rgtteakmumqha.website^
 ||rgubidzwowcpf.space^
+||rgvjwqxmpalb.com^
 ||rgvptabzpwsou.website^
 ||rgvxfkrhnovqp.store^
 ||rgxqdzkajysfj.website^
@@ -43394,6 +43397,7 @@ vkcdnservice.appspot.com^
 ||richeseventsphysics.com^
 ||richinfo.co^
 ||richwebmedia.com^
+||riciniclatrobe.cyou^
 ||ricinicquinate.help^
 ||rickeyuninn.help^
 ||ricx6k7o24hfpit.cfd^
@@ -44298,6 +44302,7 @@ vkcdnservice.appspot.com^
 ||rwjbdrzrqgsrf.space^
 ||rwldfopjypomy.space^
 ||rwlkmstaerhrt.site^
+||rwlqbrfsmtvyd.online^
 ||rwmswevrmftrr.website^
 ||rwofesciqvzgr.site^
 ||rwohwaeyupzjp.website^
@@ -44903,6 +44908,7 @@ vkcdnservice.appspot.com^
 ||scratchy-map.com^
 ||scratchyhook.com^
 ||scrayebummest.cyou^
+||scrddlfvolmta.site^
 ||screedlocket.help^
 ||screekshriek.cfd^
 ||screenhurtfuldelicatessen.com^
@@ -46024,6 +46030,7 @@ vkcdnservice.appspot.com^
 ||slamydwapobh.net^
 ||slanderchristian.com^
 ||slanderpeaceful.com^
+||slangshavanabesant.cfd^
 ||slapbutler.com^
 ||slaqandsan.xyz^
 ||slarthbeltian.qpon^
@@ -49084,6 +49091,7 @@ vkcdnservice.appspot.com^
 ||tl2go.com^
 ||tlbgdhzvvuasf.website^
 ||tlcfhttbxdbhc.site^
+||tlcpkidysoqqf.space^
 ||tlcpvkkboxamm.website^
 ||tldiozcisbbbu.site^
 ||tlfeivdeybass.store^
@@ -50696,6 +50704,7 @@ vkcdnservice.appspot.com^
 ||uloathoagna.net^
 ||ulonatadoto.cfd^
 ||ulpanimarcos.com^
+||ulpddqlmrpnuf.space^
 ||ulpradvpeaiqs.store^
 ||ulqaxfzytnnpp.site^
 ||ulqhhlhpevvif.space^
@@ -53768,6 +53777,7 @@ vkcdnservice.appspot.com^
 ||whimsical-section.com^
 ||whimsicalcoat.com^
 ||whimsicalhit.com^
+||whimsicalstate.pro^
 ||whimsicskiings.cyou^
 ||whinedeity.com^
 ||whinedlibertytriers.cfd^
@@ -71872,6 +71882,8 @@ vkcdnservice.appspot.com^
 ||hrxwfp.icu^
 ||s2dln6sdu.com^
 ||jdpbpd.icu^
+||jkpzthxjt.com^
+||wlemdl1yx.com^
 ||0fs6pe6w0j.com^
 ||brb3mb25zg.com^
 ||89ga0evbha.com^
