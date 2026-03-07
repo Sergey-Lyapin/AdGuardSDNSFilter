@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-07T10:21:29.661Z
+! Last modified: 2026-03-07T12:42:48.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||navxixxz.in^
 ||ktinalzpiak.in^
 ||host69k.cfd^
 ||t.easywebland.my^
@@ -7133,6 +7134,7 @@ vkcdnservice.appspot.com^
 ||6lf6elqq8pxvhwlih.cyou^
 ||6lioz2j44t7br7c5.cyou^
 ||6lkfy9ng3hcp4jl.cfd^
+||6ngypwhbwqh9c3nk.rest^
 ||6nwqcg3lvv9too5ygwehbzz5e.cfd^
 ||6om2zv1kbtbpker4ofl9xt64jib8.cfd^
 ||6opo.com^
@@ -10909,6 +10911,7 @@ vkcdnservice.appspot.com^
 ||bantamsonefold.com^
 ||baoabplcyspdf.website^
 ||baohkgpwemaur.store^
+||baopknfqah.com^
 ||baovfrleppybg.space^
 ||bapoomsupurooph.net^
 ||bapouwoakoa.net^
@@ -11143,6 +11146,7 @@ vkcdnservice.appspot.com^
 ||bdcuudklnavrn.net^
 ||bdd549304d.com^
 ||bddhprzriicus.world^
+||bddujehaeaubs.space^
 ||bdelkjdmtfkjy.website^
 ||bdesankeyqfi.net^
 ||bdesankeyqfi.xyz^
@@ -17672,6 +17676,7 @@ vkcdnservice.appspot.com^
 ||dkgsdarwbwi.xyz^
 ||dkijnrhdtlvdm.fun^
 ||dkipfdjvrlird.love^
+||dkjpozfpehc.com^
 ||dkpbuedvjpros.site^
 ||dkpvbyvscxraq.space^
 ||dkqmltboagmona.xyz^
@@ -18538,6 +18543,7 @@ vkcdnservice.appspot.com^
 ||dxelsudieastk.store^
 ||dxenmweujarfm.store^
 ||dxewphcplowwk.site^
+||dxhvgevhrceia.com^
 ||dxiilazmsqprw.online^
 ||dxjkpofscuzmb.online^
 ||dxkmeispvbfsx.website^
@@ -18598,6 +18604,7 @@ vkcdnservice.appspot.com^
 ||dywuhp-unbnf.love^
 ||dyxuxwsx.com^
 ||dyyptiqcfnedr.site^
+||dyzaxqldzrxbw.space^
 ||dyzmo.com^
 ||dz4ad.com^
 ||dzbyeexbzstou.space^
@@ -18907,6 +18914,7 @@ vkcdnservice.appspot.com^
 ||editorviolentlick.com^
 ||edjqdoabyvyvc.site^
 ||edktdzgduapfb.online^
+||edkvaxpckmmn.xyz^
 ||edlilu.com^
 ||edlllddsgkelx.space^
 ||ednajenson.cyou^
@@ -21508,6 +21516,7 @@ vkcdnservice.appspot.com^
 ||flawyapio.help^
 ||flayerrecross.help^
 ||flbem38kbc34zupx8en899yu6rl5n5y4vlm.cfd^
+||flbgjqtmvlbvq.site^
 ||flbhwgoibnoku.space^
 ||flbrabot.cfd^
 ||flcspboszvfym.space^
@@ -24544,6 +24553,7 @@ vkcdnservice.appspot.com^
 ||gvwzokdttbsnj.online^
 ||gvxijtkkssutj.site^
 ||gvxlfynvqhpkhey.com^
+||gvxyyvdveimgk.space^
 ||gvyrxseoqvugu.online^
 ||gwabduqywxher.website^
 ||gwallet.com^
@@ -25503,6 +25513,7 @@ vkcdnservice.appspot.com^
 ||hilarfrits.shop^
 ||hilariousdeposit.pro^
 ||hilariouseconomics.com^
+||hilarioustonight.pro^
 ||hileferidgi.cfd^
 ||hilerant.site^
 ||hillersoxalite.cfd^
@@ -26823,6 +26834,7 @@ vkcdnservice.appspot.com^
 ||ifwnukimkgocb.site^
 ||ifwtkyfcizwlj.space^
 ||ifzogqpmdmzup.online^
+||igagrrkyfmty.com^
 ||igaming-warp-service.io^
 ||igcvczotebzhr.space^
 ||igdianwrweqsz.online^
@@ -26974,6 +26986,7 @@ vkcdnservice.appspot.com^
 ||ikimdcomuxawh.online^
 ||ikjwrhsktdtye.space^
 ||ikkakvnicwguw.store^
+||ikl7fmcz9bzr2ixhpmk.cfd^
 ||iklzkvvbogjsi.space^
 ||ikppduisfudho.online^
 ||ikqgzcculojvu.space^
@@ -27462,6 +27475,7 @@ vkcdnservice.appspot.com^
 ||inquiredmystic.com^
 ||inquiredw.com^
 ||inquirycucumbersemployed.com^
+||inquisitivewarehouseinsulting.com^
 ||inrdmndovxzmw.space^
 ||inrhyhorntor.com^
 ||inrotomr.com^
@@ -27828,6 +27842,7 @@ vkcdnservice.appspot.com^
 ||irymountain.org^
 ||irymqsskczira.website^
 ||irz6b9u5uux67jpgg9qj51j5878if1.rest^
+||irzdkfmbzbhcm.site^
 ||irzebpsbojrbp.space^
 ||isabellaentire.com^
 ||isabellalive.cfd^
@@ -27969,6 +27984,7 @@ vkcdnservice.appspot.com^
 ||itwboqvnouvcn.store^
 ||itweepinbelltor.com^
 ||itxbyjztilkas.site^
+||itxkepoxyqgfx.site^
 ||ityaeaavryphn.website^
 ||itychildrenast.org^
 ||ityonatallco.info^
@@ -28828,6 +28844,7 @@ vkcdnservice.appspot.com^
 ||jnjvwurhi.net^
 ||jnlevhmebqcxc.website^
 ||jnmkqnwqlip.xyz^
+||jnmqhpecyjrnf.online^
 ||jnnbhevfnojje.online^
 ||jnougbifoeyad.website^
 ||jntbtoyqzjwpni.com^
@@ -29050,6 +29067,7 @@ vkcdnservice.appspot.com^
 ||jrnefbrogdppa.online^
 ||jrnjcrgmiyzty.website^
 ||jrnoskvqntwhk.site^
+||jroamxffa.in^
 ||jrpkizae.com^
 ||jrpsohjquh.com^
 ||jrqksxcngkjhw.site^
@@ -29579,6 +29597,7 @@ vkcdnservice.appspot.com^
 ||kbmbilwqnopcz.site^
 ||kbmetcacunqgq.store^
 ||kbnmnl.com^
+||kbnrggzpesxxv.online^
 ||kbnsnwgeldtti.website^
 ||kbojzkrkqwskx.site^
 ||kbopnpiyhomtd.space^
@@ -30730,6 +30749,7 @@ vkcdnservice.appspot.com^
 ||lacerateclimaxthrow.com^
 ||lacersmuddled.cyou^
 ||lacessateens.com^
+||lachesbegnawairway.qpon^
 ||lacilypelterscoagel.cyou^
 ||lackedresaws.cyou^
 ||lackersmank.help^
@@ -39294,6 +39314,7 @@ vkcdnservice.appspot.com^
 ||pilotoccasionallygarlic.com^
 ||pilotpoems.com^
 ||pilotstracking.com^
+||pilrskqnworjg.online^
 ||pilularwitham.cfd^
 ||pilzqvuhqfxew.website^
 ||pimkctwcvfhvn.space^
@@ -42016,6 +42037,7 @@ vkcdnservice.appspot.com^
 ||quietleaffield.com^
 ||quietleafgarden.com^
 ||quietstonewalk.com^
+||quietwindpath.com^
 ||quihrnucr.xyz^
 ||quilarems.qpon^
 ||quilblb545nxqho8ku2bukuu3bh4i2.cfd^
@@ -42956,6 +42978,7 @@ vkcdnservice.appspot.com^
 ||reliableguardianindifference.com^
 ||reliablemore.com^
 ||relicremote.com^
+||relievebastafellest.qpon^
 ||relieved-conflict.pro^
 ||relieved-potential.pro^
 ||relievedjoke.com^
@@ -48243,6 +48266,7 @@ vkcdnservice.appspot.com^
 ||tankfangspain.com^
 ||tankroyaldivide.com^
 ||tanygkdowyekf.online^
+||taobwwjmaps.com^
 ||taoiyazoarite.cfd^
 ||taoyinbiacid.com^
 ||tapasidlinslicking.cfd^
@@ -50640,6 +50664,7 @@ vkcdnservice.appspot.com^
 ||uildfordgovery.com^
 ||uilts.com^
 ||uilxpfkcxgjoi.site^
+||uimrynxkuybmb.website^
 ||uimserv.net^
 ||uinalhoey.cyou^
 ||uingroundhe.com^
@@ -54227,6 +54252,7 @@ vkcdnservice.appspot.com^
 ||wmdmkdbhowqgr.space^
 ||wmedps.com^
 ||wmeqoborqbkjw.top^
+||wmgikspuyjxwm.online^
 ||wmgtr.com^
 ||wmjmvrmfdvfvq.site^
 ||wmjphurnjepmr.site^
@@ -54412,6 +54438,7 @@ vkcdnservice.appspot.com^
 ||worralkyanite.cfd^
 ||worrelsottie.qpon^
 ||worried-advantage.com^
+||worried-dependent.pro^
 ||worried-difference.pro^
 ||worried-part.com^
 ||worried-sample.com^
@@ -55918,6 +55945,7 @@ vkcdnservice.appspot.com^
 ||yflksvxeqncep.online^
 ||yfmcrkrhvmdij.website^
 ||yfqrdeewqnwvy.net^
+||yfqtpyfxcfbyq.online^
 ||yfqwiktzzrcrq.site^
 ||yfqypgbntnxmc.online^
 ||yfrfldynakfwh.space^
