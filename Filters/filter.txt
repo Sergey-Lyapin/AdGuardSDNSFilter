@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-10T06:45:31.922Z
+! Last modified: 2026-03-10T08:39:22.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12979,6 +12979,7 @@ vkcdnservice.appspot.com^
 ||budekxqreokot.space^
 ||budfduwa.xyz^
 ||budgeencodeunions.com^
+||budhoes.cfd^
 ||budsminepatent.com^
 ||buenocleach.cyou^
 ||buentos.xyz^
@@ -18738,6 +18739,7 @@ vkcdnservice.appspot.com^
 ||dxlyladmlitox.store^
 ||dxngfyrtftpay.site^
 ||dxnhpimrh.xyz^
+||dxohqmjdcdmm.com^
 ||dxoiomfjfvvub.space^
 ||dxouwbn7o.com^
 ||dxozhspzbfkwk.online^
@@ -19522,6 +19524,7 @@ vkcdnservice.appspot.com^
 ||electricruin.pro^
 ||electsauna.com^
 ||electthirteenth.com^
+||eledonemolucheghazi.qpon^
 ||elegancecharacter.com^
 ||elegant-plate.pro^
 ||elegant-twist.pro^
@@ -24337,6 +24340,7 @@ vkcdnservice.appspot.com^
 ||granularconsideration.pro^
 ||granulargame.com^
 ||grapefruitstarchbeep.com^
+||graphicspikedisaster.com^
 ||grappayeshiva.qpon^
 ||graptaupsi.net^
 ||graqtcdjzqmib.store^
@@ -42544,6 +42548,7 @@ vkcdnservice.appspot.com^
 ||quangosglauber.qpon^
 ||quangospina.cfd^
 ||quanta-wave.com^
+||quanticmucinyameo.qpon^
 ||quantoz.xyz^
 ||quaocns.xyz^
 ||quarredirride.help^
@@ -48611,6 +48616,7 @@ vkcdnservice.appspot.com^
 ||swidgeromper.help^
 ||swidprxaafwha.store^
 ||swift-vacation.pro^
+||swift-weird.com^
 ||swiftenhuffing.cfd^
 ||swiftladle.com^
 ||swiftlymonumentcheating.com^
@@ -51597,6 +51603,7 @@ vkcdnservice.appspot.com^
 ||umyyjgqyajxzu.online^
 ||umzkjponcxpvn.online^
 ||umzwmufdxrcrf.site^
+||unablewhollyold.com^
 ||unactkiosk.com^
 ||unagedsarcous.com^
 ||unaisscreams.qpon^
@@ -51690,6 +51697,7 @@ vkcdnservice.appspot.com^
 ||undergroundportugueseheadache.com^
 ||underlinestylevote.com^
 ||underminesprout.com^
+||undernautical.com^
 ||underneathfinancial.com^
 ||underneathpimpletalk.com^
 ||underpantscostsdirection.com^
@@ -53713,6 +53721,7 @@ vkcdnservice.appspot.com^
 ||vtdmdcqfhsrnz.online^
 ||vtdtv.com^
 ||vtdwverkopbve.website^
+||vtekvway.com^
 ||vtemlrnsqozri.site^
 ||vtfjzqzivtvrf.space^
 ||vtfktvqx.net^
@@ -53827,6 +53836,7 @@ vkcdnservice.appspot.com^
 ||vwfxuhjgwwent.online^
 ||vwghrazcfimuh.website^
 ||vwgnmcwmbolok.online^
+||vwhevkaggajo.com^
 ||vwhhkanqimp.xyz^
 ||vwjdosviijhit.website^
 ||vwjsiywwgynud.online^
@@ -64841,6 +64851,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||adcluster.com.tr^
 ||rtb-stack.com^
 ||viiukuhe.com^
 ||keskin-pop.vip^
@@ -72832,6 +72843,8 @@ vkcdnservice.appspot.com^
 ||jnlenb.icu^
 ||xscp03101xq.com^
 ||o2x4h2txrc.com^
+||57l2ng6r91.com^
+||xdyn03101jy.com^
 ||3hg6yh6h0.com^
 ||nb5a7g5r1.com^
 ||pztnzqwz.icu^
