@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-13T10:34:53.913Z
+! Last modified: 2026-03-13T12:54:52.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7590,6 +7590,7 @@ vkcdnservice.appspot.com^
 ||9tumza4dp4o9.com^
 ||9ukton67nkmo5iepl.rest^
 ||9v9ypmmf578onvt.cfd^
+||9whl7qrqjnkyvli.rest^
 ||9x7ki1mf7jem1l6iexqi.cfd^
 ||9xeqynu3gt7c.com^
 ||9xob25oszs.com^
@@ -13337,6 +13338,7 @@ vkcdnservice.appspot.com^
 ||bvczfysynljyd.store^
 ||bvewsgtwrbnaw.space^
 ||bvhxiysrndwbg.site^
+||bvjtlavxjzbwe.site^
 ||bvkermilcm.xyz^
 ||bvmcdn.com^
 ||bvmcdn.net^
@@ -15944,6 +15946,7 @@ vkcdnservice.appspot.com^
 ||cqeorasldxsbw.store^
 ||cqhtxycoxspn.com^
 ||cqhyxdogocwaq.com^
+||cqibwlthohukl.website^
 ||cqjgztejpzvkd.space^
 ||cqjt6ri4gjci796tg69gumrx267j.cfd^
 ||cqkikfffmcqbl.online^
@@ -20878,6 +20881,7 @@ vkcdnservice.appspot.com^
 ||executors456.com^
 ||executorsfrom570.com^
 ||exejfbqkavbst.rocks^
+||exemplarfederallithe.com^
 ||exemplary-scratch.pro^
 ||exemptgovernorinterdependent.com^
 ||exemptjav128.fun^
@@ -21714,6 +21718,7 @@ vkcdnservice.appspot.com^
 ||fgzczmbjzeqfi.space^
 ||fgzjcspcnzrhf.store^
 ||fh-wgt.com^
+||fh1f6i5hzht53zvwq7q7.cfd^
 ||fh259by01r25.com^
 ||fhcggnfqejjji.com^
 ||fhgalvgaycyqw.website^
@@ -23572,6 +23577,7 @@ vkcdnservice.appspot.com^
 ||gdeigri.com^
 ||gdfkbvbifnncj.online^
 ||gdhgxfxmvejqil.com^
+||gdhqnpzbzttxz.website^
 ||gdiwiabguodgh.site^
 ||gdjzrobyzulpx.site^
 ||gdkduruiukwyn.website^
@@ -24496,6 +24502,7 @@ vkcdnservice.appspot.com^
 ||goomaphy.com^
 ||goombayitala.com^
 ||goondiebitypic.cyou^
+||goonunjudgeoverbet.cyou^
 ||goonutteredconfessed.com^
 ||goosebomb.com^
 ||gooseericamagh.cfd^
@@ -36798,6 +36805,7 @@ vkcdnservice.appspot.com^
 ||nmgwoawuwbnsj.space^
 ||nmhcxlyyjginl.online^
 ||nmhtwujmecgzi.store^
+||nmimcotzoz.in^
 ||nmkli.com^
 ||nmluwlxnolamc.website^
 ||nmnhrpvdbvmed.website^
@@ -43295,6 +43303,7 @@ vkcdnservice.appspot.com^
 ||quickssmouch.cyou^
 ||quickwittedclick.com^
 ||quickwittedmany.com^
+||quietbrookhill.com^
 ||quieteddukedom.qpon^
 ||quietleaffield.com^
 ||quietleafgarden.com^
@@ -45937,6 +45946,7 @@ vkcdnservice.appspot.com^
 ||safewarriorsinfected.com^
 ||safiniinside.cyou^
 ||saflcoofffi.com^
+||safmuzwte.in^
 ||safroleboldin.shop^
 ||safsdvc.com^
 ||sagaciousexceptingrate.com^
@@ -53269,6 +53279,7 @@ vkcdnservice.appspot.com^
 ||uuuwxykgcvcgp.website^
 ||uuwktaijthizo.space^
 ||uuwqagukgxy.net^
+||uuwukpef.com^
 ||uuwxffprpaaas.website^
 ||uuxgtmgrxflig.store^
 ||uuxwydleeeqdg.online^
@@ -53630,6 +53641,7 @@ vkcdnservice.appspot.com^
 ||vblwixpwrrrjh.site^
 ||vbm19x5k96zjjzqwg6xribef.cfd^
 ||vbmbdobyxmkgv.online^
+||vbnhrmbifhptp.com^
 ||vboqftdyp.com^
 ||vbppomvs.com^
 ||vbptgoyketwhv.global^
@@ -55241,6 +55253,7 @@ vkcdnservice.appspot.com^
 ||weavekidnapfreaky.com^
 ||weaveradrenaline.com^
 ||weaverswince.cyou^
+||weavesprefixamianth.qpon^
 ||weaveworkingheaviness.com^
 ||weazenygundy.help^
 ||web-guardian.xyz^
@@ -55456,6 +55469,7 @@ vkcdnservice.appspot.com^
 ||wgovzfxfccdpd.site^
 ||wgpnkfvdbiq.com^
 ||wgptspxgngbhf.space^
+||wgqpzsxx.com^
 ||wgqwyjttpi.com^
 ||wgsaralfncvvb.online^
 ||wgsndjdiiofac.space^
@@ -56017,6 +56031,7 @@ vkcdnservice.appspot.com^
 ||wnmejreldlzcu.online^
 ||wnnatyfziksqt.website^
 ||wnndiuhirl.net^
+||wnnrwpvzxious.online^
 ||wnoeyhmmzfmlt.online^
 ||wnouedleuwvj.com^
 ||wnouncrrippleshiswa.org^
@@ -57709,6 +57724,7 @@ vkcdnservice.appspot.com^
 ||yespbkpharqoo.site^
 ||yespetor.com^
 ||yesterdaydefinitelycorrespondence.com^
+||yeszrgtanxjup.website^
 ||yetiguynpwnep.online^
 ||yetlotmiracle.com^
 ||yetterslave.com^
@@ -58279,6 +58295,7 @@ vkcdnservice.appspot.com^
 ||yucvgdirvufyw.space^
 ||yudrrrrerqovu.site^
 ||yudvl.org^
+||yuelmztuoogrt.online^
 ||yueuglhxblrkp.xyz^
 ||yufptprspnabh.site^
 ||yufreti4i54le5oyk66n1xgcw4g.cfd^
@@ -73822,6 +73839,8 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||binaqathh.com^
+||kgaviuu42.com^
 ||g2w9awdq0.com^
 ||pl53l7tyw.com^
 ||nvbrfj.icu^
