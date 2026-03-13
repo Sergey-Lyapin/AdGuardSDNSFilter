@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-13T14:40:34.261Z
+! Last modified: 2026-03-13T16:37:59.657Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||aizhantj.com^
 ||freelygreatestscammer.com^
 ||apitiny.net^
 ||abdalminhag.com^
@@ -6960,6 +6961,7 @@ vkcdnservice.appspot.com^
 ||4bc588417b.com^
 ||4bcc6h75ic9yu5h9nhwnv.cyou^
 ||4bfwvlvilfxvr6kv91.cfd^
+||4bv74cep2m4qute4oynx2ebnx6g.cfd^
 ||4bxltp73ccn4zwb.cfd^
 ||4c32ecfead.com^
 ||4c35d6c7f6.com^
@@ -8880,6 +8882,7 @@ vkcdnservice.appspot.com^
 ||ahfxdqlnlwpyz.site^
 ||ahgjbiqqwcmfo.website^
 ||ahgpiumykrvtj.site^
+||ahihyuussnpqv.space^
 ||ahiwvmjktstlw.site^
 ||ahkjuekgpccmj.world^
 ||ahkxzxhebjjcn.website^
@@ -11135,6 +11138,7 @@ vkcdnservice.appspot.com^
 ||barflyevolver.com^
 ||barhopsoutlaw.cfd^
 ||baringskyways.cfd^
+||barinvent.net^
 ||bariumephetic.cyou^
 ||barjcsvnpzvxa.site^
 ||barkeephayey.cfd^
@@ -18359,6 +18363,7 @@ vkcdnservice.appspot.com^
 ||domnlk.com^
 ||dompeterapp.com^
 ||domslc.com^
+||domxwabsxuxws.space^
 ||domyxpsdoowyg.website^
 ||donaldapeek.cfd^
 ||donaterefuel.com^
@@ -26016,6 +26021,7 @@ vkcdnservice.appspot.com^
 ||hexoymwhchabk.site^
 ||hexrappers.qpon^
 ||hexylcoopt.cyou^
+||hexylsagrised.shop^
 ||heycwyreohfaxdo.com^
 ||heydthsrglcrk.online^
 ||heyjjbkuipsoz.space^
@@ -26879,6 +26885,7 @@ vkcdnservice.appspot.com^
 ||hsfefxyzfztdt.space^
 ||hsgvszgdifsoe.site^
 ||hshehjltgrrwi.space^
+||hshqsumqqrhgd.space^
 ||hsjjoaotgdfzw.online^
 ||hsjpqusfppyjf.site^
 ||hslcbuqmmucmh.space^
@@ -28736,6 +28743,7 @@ vkcdnservice.appspot.com^
 ||itktymvfvnjps.website^
 ||itlgwhjbpojiv.store^
 ||itmamoswineer.com^
+||itmbchrqf.com^
 ||itmqcxwdiascjat.xyz^
 ||itmqnntxqufzg.website^
 ||itngxpuvgcbpe.space^
@@ -28968,6 +28976,7 @@ vkcdnservice.appspot.com^
 ||izekxwljsjboe.online^
 ||izeumxgynohpd.site^
 ||izfbtqfedzzob.online^
+||izfogaydloceo.site^
 ||izhbcqubhsaos.online^
 ||izhukvhcxfcon.vip^
 ||izigx3phh1i95p4cpkzix69wrp.cfd^
@@ -28986,6 +28995,7 @@ vkcdnservice.appspot.com^
 ||izqhkvwbmsfns.website^
 ||izrnvo.com^
 ||izsbrnugzqrqq.online^
+||izsiovszxzhqk.space^
 ||izt7j7594m8emuypvhjkoo42p8.cfd^
 ||izwhgqdebwqmq.site^
 ||izwypazcocjxj.store^
@@ -31817,6 +31827,7 @@ vkcdnservice.appspot.com^
 ||lastingquiver.com^
 ||lastingresown.cyou^
 ||lastlyseaweedgoose.com^
+||lataniathegnmacabi.cfd^
 ||latchfateverybody.com^
 ||late-anxiety.com^
 ||late-luck.pro^
@@ -32279,6 +32290,7 @@ vkcdnservice.appspot.com^
 ||lglxxxadsjocm.website^
 ||lglykwrasnfzn.site^
 ||lgmdqqabseoib.website^
+||lgojugcksyjer.website^
 ||lgqzpmgtzvmij.website^
 ||lgrtvndwvyxqtkk.com^
 ||lgrxgaulgvgxy.website^
@@ -37169,6 +37181,7 @@ vkcdnservice.appspot.com^
 ||nrfkdtepyfkay.website^
 ||nrgdsbuviocit.store^
 ||nrgefbqyzsxid.space^
+||nrgwkarwmgnih.com^
 ||nrgybhz3bl8qozuot2.rest^
 ||nrhxvuvbthck.net^
 ||nriceukwater.org^
@@ -39250,6 +39263,7 @@ vkcdnservice.appspot.com^
 ||owxpzlhikjoyj.store^
 ||owxsolpqxqyiy.space^
 ||owxyadmgwqeqz.website^
+||owywlwjvvkcjc.site^
 ||owzkvjjdnyjti.space^
 ||owzppkkbfzkmu.site^
 ||ox133qqrz8v9oj.cfd^
@@ -46264,6 +46278,7 @@ vkcdnservice.appspot.com^
 ||scared-piece.pro^
 ||scareshortnovel.com^
 ||scarfebual.cyou^
+||scarfjeeingglub.cyou^
 ||scaridcheths.cfd^
 ||scarierbairnie.cyou^
 ||scarletmares.com^
@@ -51582,6 +51597,7 @@ vkcdnservice.appspot.com^
 ||tswzrqpkvltnx.website^
 ||tsxccsxbdloxt.online^
 ||tsxnrhtbsnjoy.online^
+||tsxnvkumlyzbb.online^
 ||tsxpmphbmerya.website^
 ||tsy-jnugwavj.love^
 ||tsyhhrvnqtfvx.website^
@@ -59474,6 +59490,7 @@ vkcdnservice.appspot.com^
 ||zzyxhvqjjtgxj.online^
 ||zzzjhkyprpsvl.store^
 ||zzzmjfixezere.site^
+||zzzn1j9m4evqno.rest^
 ! Anti-drainer eth phishing
 ||cdnweb3.pages.dev^
 ||certona.net^
@@ -66634,7 +66651,6 @@ vkcdnservice.appspot.com^
 ||u40pdqw.com^
 ||theweeklydonut.org^
 ||telecome.cn^
-||aizhantj.com^
 ||sm-cloud.yunsafe.top^
 ||dwyeuy.com^
 ||ziweuu.com^
