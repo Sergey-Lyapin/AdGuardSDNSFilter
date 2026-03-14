@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-14T06:43:06.297Z
+! Last modified: 2026-03-14T08:33:39.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||snappydirt.com^
+||toodlerehouse.com^
 ||overplantovervaluetwine.com^
 ||aizhantj.com^
 ||freelygreatestscammer.com^
@@ -7918,6 +7920,7 @@ vkcdnservice.appspot.com^
 ||accompanimentbetraypreference.com^
 ||accompanimentcouldsurprisingly.com^
 ||accompanimentmusicianstorm.com^
+||accompanimentsuite.com^
 ||accompanimentwoody.com^
 ||accompanycollapse.com^
 ||accompanynovemberexclusion.com^
@@ -11564,6 +11567,7 @@ vkcdnservice.appspot.com^
 ||bellhopergots.help^
 ||bellingmobula.shop^
 ||bellmandrawbar.com^
+||bellonathingystrews.qpon^
 ||bellowbackyard.com^
 ||bellpressinginspector.com^
 ||bellyinternsulphur.com^
@@ -15886,6 +15890,7 @@ vkcdnservice.appspot.com^
 ||coutaizoace.net^
 ||covensarcheolthermos.qpon^
 ||coverdistilltile.com^
+||coveringstrawberries.com^
 ||covertlaurite.qpon^
 ||covertstokes.qpon^
 ||coveteddutifulprescribe.com^
@@ -17530,6 +17535,7 @@ vkcdnservice.appspot.com^
 ||desertedtransition.com^
 ||desertercommitment.com^
 ||desertpreparedsparkling.com^
+||desertsreceiverbasket.com^
 ||deserveenjoymentcobbler.com^
 ||deservestumble.com^
 ||deservetourism.qpon^
@@ -25314,6 +25320,7 @@ vkcdnservice.appspot.com^
 ||gx101.com^
 ||gx1lnkfypelyifob9v4f7xg.rest^
 ||gxaswlbqotagx.online^
+||gxavpsampcudp.site^
 ||gxbbxhjlyzbvd.website^
 ||gxbmiystgwkwq.online^
 ||gxbpiovpukbaq.website^
@@ -28203,6 +28210,7 @@ vkcdnservice.appspot.com^
 ||inficzbjmkrtu.site^
 ||infimumheptite.shop^
 ||infirmaryabundance.com^
+||infirmarybloody.com^
 ||infirmiere-moyersoen.be^
 ||infixedderere.com^
 ||inflationmileage.com^
@@ -28951,6 +28959,7 @@ vkcdnservice.appspot.com^
 ||iwpuegtgwmxon.space^
 ||iwpzelmgabuij.online^
 ||iwqgwgcbrwukf.site^
+||iwqhxsnjrktvf.space^
 ||iwqqnukbit.xyz^
 ||iwtivbukvlvdk.site^
 ||iwudaolmmaejh.online^
@@ -31383,6 +31392,7 @@ vkcdnservice.appspot.com^
 ||kromerefinds.cyou^
 ||kronenbuilder.cyou^
 ||kronendaylong.help^
+||kronenroovehistrio.cfd^
 ||kroonsejam.com^
 ||kroonsforches.qpon^
 ||krpoxpezhuqqx.online^
@@ -31538,6 +31548,7 @@ vkcdnservice.appspot.com^
 ||kvozsayiewspf.rocks^
 ||kvpjjewuoappu.store^
 ||kvpxfclavw.com^
+||kvqecputivmxv.online^
 ||kvqtxphjipbki.website^
 ||kvsadman.com^
 ||kvsrmjssvknd.com^
@@ -35122,6 +35133,7 @@ vkcdnservice.appspot.com^
 ||modecleaning.com^
 ||modelingdoableinsure.com^
 ||modelshortestrate.com^
+||modem2dynamics.net^
 ||modents-diance.com^
 ||moderatedead.com^
 ||modern-crew.com^
@@ -36280,6 +36292,7 @@ vkcdnservice.appspot.com^
 ||nbnowkpfnmyt.com^
 ||nbo-protect.pro^
 ||nboclympics.com^
+||nbohfpucl.com^
 ||nbojzdovdujia.space^
 ||nboqiirlmupnf.online^
 ||nbpgdbusqmjvi.website^
@@ -47965,7 +47978,6 @@ vkcdnservice.appspot.com^
 ||snammar-jumntal.com^
 ||snappedsafetysuccessfully.com^
 ||snappyallowwithdrew.com^
-||snappydirt.com^
 ||snaptrckr.fun^
 ||snarescientific.com^
 ||snaringbanque.cyou^
@@ -51110,7 +51122,6 @@ vkcdnservice.appspot.com^
 ||tonsvewbbofzi.site^
 ||tontrinevengre.com^
 ||toocaiwouve.net^
-||toodlerehouse.com^
 ||tooglidanog.net^
 ||toojaipi.net^
 ||tooledundon.com^
@@ -52510,6 +52521,7 @@ vkcdnservice.appspot.com^
 ||uk8n7yfhqlbwy66g6k.cfd^
 ||ukankingwithea.com^
 ||ukasesbhokra.cfd^
+||ukblpbtstgvm.com^
 ||ukbltxlyrcxww.website^
 ||ukconomouswom.org^
 ||ukcxfuplkmixq.site^
@@ -53022,6 +53034,7 @@ vkcdnservice.appspot.com^
 ||unsuitsipapuhogs.cyou^
 ||unsung-act.pro^
 ||unsung-comment.com^
+||unsungexpression.com^
 ||unsungpolicy.com^
 ||unsunpluvian.help^
 ||untackreviler.com^
@@ -53269,6 +53282,7 @@ vkcdnservice.appspot.com^
 ||uraemiapeage.cfd^
 ||uralicchatot.com^
 ||uraliwarpagealmner.cyou^
+||uraninesau.cyou^
 ||urban-signal.pro^
 ||urbanercockily.cyou^
 ||urbannobody.pro^
@@ -56562,6 +56576,7 @@ vkcdnservice.appspot.com^
 ||wrwkkqbdldgwc.online^
 ||wrwwoyutmoeaq.website^
 ||wrxaycpjhpygc.space^
+||wrxdsplmtfwzp.space^
 ||wry-boss.com^
 ||wry-chicken.pro^
 ||wry1tppxttprlunl7xbqz68.cfd^
@@ -59080,6 +59095,7 @@ vkcdnservice.appspot.com^
 ||zinbreys.com^
 ||zinckedditionlysines.cyou^
 ||zincodefunksdottrel.cfd^
+||zinekrtshkgkl.website^
 ||zingaurtoam.net^
 ||zingingsuist.cyou^
 ||zinkyemraud.cfd^
@@ -74069,6 +74085,10 @@ vkcdnservice.appspot.com^
 ||x4hu95mh0t.com^
 ||llxjrt.icu^
 ||propagate44.top^
+||amcraahmou.com^
+||6w4ix4bxz1.com^
+||79n4cubmu8.com^
+||etqu.cn^
 ||binaqathh.com^
 ||kgaviuu42.com^
 ||g2w9awdq0.com^
