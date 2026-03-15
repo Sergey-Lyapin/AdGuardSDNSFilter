@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-15T06:54:49.928Z
+! Last modified: 2026-03-15T08:35:11.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6385,6 +6385,7 @@ vkcdnservice.appspot.com^
 ||11g1ip22h.de^
 ||11ov2377cwy5rtii.cfd^
 ||11ssq.com^
+||1200koine.com^
 ||12090cd892.com^
 ||12112336.pix-cdn.org^
 ||121networks.com^
@@ -10992,6 +10993,7 @@ vkcdnservice.appspot.com^
 ||babzbvhowzvfa.site^
 ||bacabaredrootespinal.cyou^
 ||baccarat212.com^
+||baccatelugmarkrun.cyou^
 ||bacchaenaggar.com^
 ||bacchiioutmove.qpon^
 ||bacchuscobweb.help^
@@ -15691,6 +15693,7 @@ vkcdnservice.appspot.com^
 ||contaminateconsessionconsession.com^
 ||contecandite.qpon^
 ||contemnbrainthrilled.com^
+||contemnclench.com^
 ||contemnomnipresentinstantly.com^
 ||contemplatepuddingbrain.com^
 ||contemplatepushed.com^
@@ -21242,6 +21245,7 @@ vkcdnservice.appspot.com^
 ||ezumpoasaug.net^
 ||ezuzzzlajsurt.site^
 ||ezvijslewvvhu.store^
+||ezvtaxxurcgdi.website^
 ||ezvtfyjvrdbzx.site^
 ||ezxkarybihqoo.space^
 ||ezxttjqemvhkg.website^
@@ -21499,6 +21503,7 @@ vkcdnservice.appspot.com^
 ||fattersagamen.cyou^
 ||fattydisgustinghusband.com^
 ||fatuoidbrisa.cfd^
+||fatwoodhumidlymalpais.cfd^
 ||faucaitoasha.net^
 ||faucetfiling.com^
 ||faucetsuperficialalternative.com^
@@ -22039,6 +22044,7 @@ vkcdnservice.appspot.com^
 ||finspothainedtersion.qpon^
 ||fipnhbnfbwxhc.site^
 ||fipnvuixbrwuv.space^
+||fipqcyechylid.online^
 ||fipqnlft.com^
 ||firamlgtuazs.in^
 ||firdoagh.net^
@@ -24492,6 +24498,7 @@ vkcdnservice.appspot.com^
 ||gnaymrzznfqhv.website^
 ||gnazorian.help^
 ||gnbyeznpfulaz.site^
+||gnccmainnpkwy.site^
 ||gncesebtgiyeoot.net^
 ||gncpwpslcvlnb.site^
 ||gndbuyqaukkke.online^
@@ -25661,6 +25668,7 @@ vkcdnservice.appspot.com^
 ||halutzyearday.qpon^
 ||halvemanslaughtergild.com^
 ||halvepassionglow.com^
+||halvepollen.com^
 ||halversnizamatloricae.qpon^
 ||hamanharelip.cfd^
 ||hamewanions.qpon^
@@ -27816,6 +27824,7 @@ vkcdnservice.appspot.com^
 ||ihdrurrvryppt.xyz^
 ||ihdticondkewj.space^
 ||ihenseltampaud.net^
+||ihgwwozycmx.com^
 ||ihhauebvhirfgi.com^
 ||ihhrqqkwkupxf.xyz^
 ||ihhycdxduy.com^
@@ -33117,6 +33126,7 @@ vkcdnservice.appspot.com^
 ||logicdate.com^
 ||logicprecursor.com^
 ||logicschort.com^
+||logingenerosity.com^
 ||loginrubbishobey.com^
 ||loginweaken.cyou^
 ||logionsmincer.qpon^
@@ -38152,6 +38162,7 @@ vkcdnservice.appspot.com^
 ||oecyytskxmoft.space^
 ||oedazrjbdxygw.site^
 ||oeehpbwsqjcu.com^
+||oefdjrivunaqq.website^
 ||oefkgdcjhxquc.space^
 ||oegjeeuyatxcm.website^
 ||oegzpclqdlaup.space^
@@ -39003,6 +39014,7 @@ vkcdnservice.appspot.com^
 ||organic-tension.pro^
 ||organicextentbounds.com^
 ||organicowner.com^
+||organismdespite.com^
 ||organismoysters.com^
 ||organizationwoundedvast.com^
 ||organizerinformpermanent.com^
@@ -39100,6 +39112,7 @@ vkcdnservice.appspot.com^
 ||oscseiyqeaafd.website^
 ||osculelost.com^
 ||osdkublrgnidm.website^
+||osdlavodqppy.in^
 ||osdvmhchowlvm.website^
 ||oselaetuis.cyou^
 ||oselleasslike.help^
@@ -45822,6 +45835,7 @@ vkcdnservice.appspot.com^
 ||rsbnhruphyuxn.site^
 ||rscyoaposqeay.space^
 ||rseducationinin.com^
+||rsefhbbndr.com^
 ||rsgdtlpixkack.site^
 ||rsgumgvzqwnce.online^
 ||rshmauyblkmymau.net^
@@ -46188,6 +46202,7 @@ vkcdnservice.appspot.com^
 ||ryiklaawtjuus.online^
 ||ryknsblynbifq.store^
 ||ryminos.com^
+||rymkcrohbtmeuhr.com^
 ||rymuchadmiredit.org^
 ||ryokc7wm9mv6qf.cfd^
 ||ryqolhuncilzy.online^
@@ -51100,6 +51115,7 @@ vkcdnservice.appspot.com^
 ||tjrybgqiqdafe.site^
 ||tjskwgxsu.net^
 ||tjskwgxsu.xyz^
+||tjtawartfkjpb.site^
 ||tjtsctymepnds.space^
 ||tjwsg.com^
 ||tjwuxkxgan.net^
@@ -74363,6 +74379,7 @@ vkcdnservice.appspot.com^
 ||falsehood67.top^
 ||hohmanrtit.com^
 ||zmg15qfvi.com^
+||cyq8vqq9s.com^
 ||jhhpvy7cp3.com^
 ||x4hu95mh0t.com^
 ||llxjrt.icu^
