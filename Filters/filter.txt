@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-16T07:14:10.875Z
+! Last modified: 2026-03-16T08:54:39.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6779,6 +6779,7 @@ vkcdnservice.appspot.com^
 ||30se9p8a0.de^
 ||30tgh64jp.de^
 ||3100056af7.com^
+||311factories.net^
 ||3120jpllh.de^
 ||314gqd3es.de^
 ||3163ba76f7.com^
@@ -33034,6 +33035,7 @@ vkcdnservice.appspot.com^
 ||lmdfmd.com^
 ||lmdljboquvute.space^
 ||lmdysqcmtinre.online^
+||lmeivxuejjbol.space^
 ||lmejmdznwwtth.space^
 ||lmepjztwwonxv.life^
 ||lmflkpnuefbw.xyz^
@@ -36636,6 +36638,7 @@ vkcdnservice.appspot.com^
 ||negationpompeypit.com^
 ||negatorriga.qpon^
 ||negjbfdn.net^
+||neglected-hour.com^
 ||neglectoffset.com^
 ||neglectsquad.com^
 ||negxkj5ca.com^
@@ -37581,6 +37584,7 @@ vkcdnservice.appspot.com^
 ||nszbiwxorynnf.xyz^
 ||ntboiydm.com^
 ||ntcfrzpzmeite.site^
+||ntdcfmssnmx.com^
 ||ntdieiitsgysb.space^
 ||ntejdiphkkfpx.website^
 ||ntepadkozezji.online^
@@ -41789,6 +41793,7 @@ vkcdnservice.appspot.com^
 ||pqnusvmrtxmtq.space^
 ||pqooztnzwrtbk.store^
 ||pqouwxvnbjkjm.space^
+||pqoxdvmdndmfz.website^
 ||pqsjujuhicwrx.online^
 ||pqt6ttp1ygnrcw2x6.cfd^
 ||pqthctoaotsik.online^
@@ -43577,6 +43582,7 @@ vkcdnservice.appspot.com^
 ||qrrzkvqbcmqee.online^
 ||qrsghetto.cyou^
 ||qrsncgmcjerjx.site^
+||qrtxfpiviodkq.website^
 ||qruatazgwctro.fun^
 ||qruihxvuwbaiw.space^
 ||qrvaygwbxg.net^
@@ -45421,6 +45427,7 @@ vkcdnservice.appspot.com^
 ||rkscfrnebvnic.website^
 ||rkv1.com^
 ||rkvhqhkztzlxk.website^
+||rkwidoqhrsmag.online^
 ||rkwvcicqkupid.website^
 ||rkzjmfywwxfqd.website^
 ||rkzuvrnnstkwv.online^
@@ -52768,6 +52775,7 @@ vkcdnservice.appspot.com^
 ||uhmfsydtgnaph.site^
 ||uhnrcmlqloxij.site^
 ||uhnrnjwey.xyz^
+||uhnvoddrtwyeg.website^
 ||uhodsplo.com^
 ||uhogleksob.net^
 ||uhopdhvsatlvf.store^
@@ -55692,6 +55700,7 @@ vkcdnservice.appspot.com^
 ||waxierowldom.help^
 ||waxqutxaotutu.life^
 ||waxworksoperate.com^
+||wayangbedunceryke.cfd^
 ||wayfarerniece.com^
 ||wayfarerorthodox.com^
 ||wayfareyomin.qpon^
@@ -56550,6 +56559,7 @@ vkcdnservice.appspot.com^
 ||wlmleoeykzsmm.space^
 ||wlmqngmpsyrgj.website^
 ||wlmyvnqbojjnv.site^
+||wlncydsetnshu.com^
 ||wlntdfsviqrxs.website^
 ||wlntzdjktaskn.website^
 ||wloalafswtvlk.site^
@@ -57039,6 +57049,7 @@ vkcdnservice.appspot.com^
 ||wubbmfsxhjtyber.com^
 ||wubmakoxasckf.com^
 ||wucnmyrcici.com^
+||wuehawcfnmmxk.online^
 ||wufazpappk.com^
 ||wufbvfxompodz.space^
 ||wufqafvykoyry.online^
@@ -58530,6 +58541,7 @@ vkcdnservice.appspot.com^
 ||yjhcwchynwgko.website^
 ||yjjfvcbzbrppe.store^
 ||yjnymcgboozbn.site^
+||yjodensttgbcw.online^
 ||yjonbxthuxllt.website^
 ||yjotqzesimahl.online^
 ||yjpqcnhnpaghu.site^
