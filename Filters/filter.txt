@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-16T05:47:57.835Z
+! Last modified: 2026-03-16T07:14:10.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7283,6 +7283,7 @@ vkcdnservice.appspot.com^
 ||71df446534.com^
 ||71jzhekrmp6m91txf34.rest^
 ||72hdgb5o.de^
+||72uih4u7lf5mcr.cfd^
 ||730fcb332f.com^
 ||7345dc0372.com^
 ||735eb9f0a6.com^
@@ -11921,6 +11922,7 @@ vkcdnservice.appspot.com^
 ||bhlhmdapmpi.com^
 ||bhljttxgqnjhm.online^
 ||bhlph.com^
+||bhlvinokfnwyx.site^
 ||bhlxxdmdpdptk.space^
 ||bhnbjvjtachgn.online^
 ||bhnnop.com^
@@ -16198,6 +16200,7 @@ vkcdnservice.appspot.com^
 ||cretgate.com^
 ||crevicedepressingpumpkin.com^
 ||crewfebruary.com^
+||crhk335rvg9tfi.rest^
 ||cribbedbain.com^
 ||cricketquaint.com^
 ||cricklemotey.qpon^
@@ -18289,6 +18292,7 @@ vkcdnservice.appspot.com^
 ||dlmztrbyjydcn.space^
 ||dlnemswvmimqz.online^
 ||dlohjhkldludr.space^
+||dlohvegwuzf.com^
 ||dlpggklxwulgcmp.net^
 ||dlptevasgcowc.space^
 ||dlqbioenjjwsv.store^
@@ -25912,6 +25916,7 @@ vkcdnservice.appspot.com^
 ||haziestyepely.cfd^
 ||hazingshattmoonier.cyou^
 ||hazoopso.net^
+||hazqtoal.in^
 ||hazuro.online^
 ||hazyexamples.com^
 ||hb-247.com^
@@ -29223,6 +29228,7 @@ vkcdnservice.appspot.com^
 ||izcftgjuemufo.site^
 ||izdnlpxcjwous.website^
 ||izdonegkaboga.website^
+||izdxnkbffxbkc.online^
 ||izechqbrmajqr.online^
 ||izeeto.com^
 ||izekxwljsjboe.online^
@@ -34772,6 +34778,7 @@ vkcdnservice.appspot.com^
 ||mgbftodwqaujv.website^
 ||mgbogrrrytrtb.online^
 ||mgbubfnjdpkye.space^
+||mgbykdrvmmvwta.com^
 ||mgcash.com^
 ||mgcbncbblbrlh.site^
 ||mgcld.xyz^
@@ -38938,6 +38945,7 @@ vkcdnservice.appspot.com^
 ||opfgspuuq.com^
 ||opfourpro.org^
 ||opgolan.com^
+||ophavvoqv.in^
 ||opheliamarkmen.cyou^
 ||ophiticpealer.cfd^
 ||ophonlexhjaai.space^
@@ -48317,6 +48325,7 @@ vkcdnservice.appspot.com^
 ||snipersex.com^
 ||snippystowstool.com^
 ||snipscimex.cyou^
+||snirllesteoutsee.cyou^
 ||snitchmountain.com^
 ||snithykurgan.qpon^
 ||snjjfdfzvkcdp.online^
@@ -51875,6 +51884,7 @@ vkcdnservice.appspot.com^
 ||trimertzetse.cyou^
 ||trimpur.com^
 ||trimreaddrunken.com^
+||trimsbrahminwarb.cfd^
 ||trineswashrag.qpon^
 ||trinkumjuneau.help^
 ||trionites.com^
@@ -57956,6 +57966,7 @@ vkcdnservice.appspot.com^
 ||xvcwbxjzdecpi.store^
 ||xvegvlkqovqqr.online^
 ||xvepksunvchaf.website^
+||xvfarnkhampqi.space^
 ||xviperonec.com^
 ||xvjafhbaifpngfu.com^
 ||xvjshpsbondpn.site^
@@ -58420,6 +58431,7 @@ vkcdnservice.appspot.com^
 ||ygolbhqmlvhkz.online^
 ||ygoqsybudqczf.website^
 ||ygrgyhhexvwvs.site^
+||ygtbzpdemamrn.online^
 ||ygtonnwghswtx.space^
 ||yguychjhiayuj.site^
 ||ygvcpjsusxkfs.online^
@@ -58748,6 +58760,7 @@ vkcdnservice.appspot.com^
 ||yowrekvnrlcdz.site^
 ||yoxffovtpvwtr.online^
 ||yoxgbiywfdlsd.online^
+||yoxggjogbagyt.online^
 ||yoyadsdom.com^
 ||yoyjdfpylpyfl.space^
 ||yozturzruysxj.site^
@@ -58795,6 +58808,7 @@ vkcdnservice.appspot.com^
 ||yqjshgx.bar^
 ||yqjsyabpzegzd.space^
 ||yqkyaxdt.net^
+||yqmbvxjkhateu.com^
 ||yqmczwseuyjck.site^
 ||yqmlfthhrzvuk.site^
 ||yqmxfz.com^
