@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-17T13:07:53.806Z
+! Last modified: 2026-03-17T14:54:39.521Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -898,10 +898,10 @@
 ||stripe.rs-1028-a.com^
 !
 ! Ads reinjection (For apps only)
-!+ NOT_PLATFORM(windows, mac, android)
-!+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
-!+ NOT_PLATFORM(windows, mac, android)
-!+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
+!+ NOT_PLATFORM(windows, mac, android, cli)
+!+ NOT_OPTIMIZED PLATFORM(windows, mac, android, cli)
+!+ NOT_PLATFORM(windows, mac, android, cli)
+!+ NOT_OPTIMIZED PLATFORM(windows, mac, android, cli)
 ||hub.fghtem.com^
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/31688
@@ -6199,7 +6199,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/38159
 ||affiliate.k4.tinhte.vn^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/8077
-!+ NOT_PLATFORM(windows, mac, android)
+!+ NOT_PLATFORM(windows, mac, android, cli)
 ||delivery.senvangvn.com^
 !---------------------------------------------------------------------
 !------------------------------ Fixing other filters -----------------
@@ -8937,6 +8937,7 @@ vkcdnservice.appspot.com^
 ||aheebacoadseech.xyz^
 ||ahejadicyivel.site^
 ||ahewrowizgtux.online^
+||ahfqiraq.in^
 ||ahfxdqlnlwpyz.site^
 ||ahgjbiqqwcmfo.website^
 ||ahgpiumykrvtj.site^
@@ -11382,6 +11383,7 @@ vkcdnservice.appspot.com^
 ||bboqtryjpdndp.online^
 ||bbpaakofsfydc.online^
 ||bbpbvyoziujgg.online^
+||bbppwgyzxftcx.online^
 ||bbqpvywcxmkjl.website^
 ||bbqtxxkyqk.net^
 ||bbrdbr.com^
@@ -12927,6 +12929,7 @@ vkcdnservice.appspot.com^
 ||bracciooneism.com^
 ||bracecherry.com^
 ||bracemascara.com^
+||bracerygloea.cyou^
 ||bracketauthorizedportray.com^
 ||braggleching.qpon^
 ||brahmiscarrow.help^
@@ -25368,6 +25371,7 @@ vkcdnservice.appspot.com^
 ||gtlmblpvpirgj.site^
 ||gtlykyvizfrui.space^
 ||gtmlihxoacezs.online^
+||gtnnwxkwcfhpe.online^
 ||gtosmdjgn.xyz^
 ||gtprmwvtduybm.online^
 ||gtraiqgaqwlrk.website^
@@ -27596,6 +27600,7 @@ vkcdnservice.appspot.com^
 ||hysracaaoffac.site^
 ||hysteriafiring.com^
 ||hysteriahung.com^
+||hytufdrcsrpbc.space^
 ||hytxg2.com^
 ||hyu4exo2y4o6u5lf4f2v5tkqrkllj7rpb21.cyou^
 ||hyvirttguqnwt.online^
@@ -30321,6 +30326,7 @@ vkcdnservice.appspot.com^
 ||jrvrkzrjrmyyj.top^
 ||jrvyuyanosdal.website^
 ||jrwbwckkpjjud.website^
+||jrwfhiyvmesgv.site^
 ||jrxgcthoussjz.store^
 ||jrxpwxfzwjdgo.online^
 ||jrybwitdqjjuo.store^
@@ -30560,6 +30566,7 @@ vkcdnservice.appspot.com^
 ||jvlrcbfxijxgk.store^
 ||jvmbgorjhyyao.click^
 ||jvnmstesxqmtf.website^
+||jvpeybujvmeso.website^
 ||jvpmjxgfphoqp.online^
 ||jvqboikiydimdol.com^
 ||jvqlisbixnxaz.space^
@@ -31306,6 +31313,7 @@ vkcdnservice.appspot.com^
 ||kjyytxyetnueu.club^
 ||kkarjbugckcln.online^
 ||kkaurkkfbdfhh.online^
+||kkcgucyhduvt.com^
 ||kkdeniqloaibr.site^
 ||kkdgwavpabkgk.space^
 ||kkeichcdm.xyz^
@@ -33709,6 +33717,7 @@ vkcdnservice.appspot.com^
 ||luagyywwmuq.xyz^
 ||luaqdpygomehy.online^
 ||luationiamcu.org^
+||lubjakntiafcl.space^
 ||lubowitz.biz^
 ||lubywhabi.com^
 ||lucajlsq.xyz^
@@ -35014,6 +35023,7 @@ vkcdnservice.appspot.com^
 ||mhtgouywqxrxa.online^
 ||mhusnegshd.xyz^
 ||mhvcffxkgupph.online^
+||mhvcwlpg.com^
 ||mhvjdaairdghp.online^
 ||mhvjfdcvakx.com^
 ||mhwmplcx.net^
@@ -36855,6 +36865,7 @@ vkcdnservice.appspot.com^
 ||neroftheparl.org^
 ||neroicwynds.cyou^
 ||nersionitsumpute.com^
+||nervdahgxv.com^
 ||nerveastonishingmeddle.com^
 ||nervesgeneralizepicture.com^
 ||nervesmomentshore.com^
@@ -37536,6 +37547,7 @@ vkcdnservice.appspot.com^
 ||notdewbeam.cyou^
 ||notebookballet.com^
 ||notebookdryersolution.com^
+||notebookpoet.com^
 ||notelayingtowers.com^
 ||notesbook.in^
 ||nothingelbowsigns.com^
@@ -41702,6 +41714,7 @@ vkcdnservice.appspot.com^
 ||poodlefairly.com^
 ||pooftahuncaked.cfd^
 ||poohihaiki.net^
+||pookabajocco.qpon^
 ||pooksys.site^
 ||poolcoolukprese.org^
 ||poolertabutpurge.cfd^
@@ -56533,6 +56546,7 @@ vkcdnservice.appspot.com^
 ||whomsostatchote.net^
 ||whomsudsikaxu.com^
 ||whoogheersowiks.net^
+||whooginger.cyou^
 ||whoohobersy.net^
 ||whoomsogleloo.net^
 ||whoomsouns.net^
@@ -57191,6 +57205,7 @@ vkcdnservice.appspot.com^
 ||wrangleclaspinteract.com^
 ||wrappedenolase.help^
 ||wrapstupendous.com^
+||wrathalkaidkneel.cfd^
 ||wrathfulletter.com^
 ||wrathyblesmol.com^
 ||wrazdlwgbgrvt.online^
@@ -74747,6 +74762,7 @@ vkcdnservice.appspot.com^
 ||af1tsjdta.com^
 ||cbhzxctgm.com^
 ||d48paxyhx.com^
+||aiheatta.com^
 ||w97nv5ibv4.com^
 ||1tvg524vih.com^
 ||pepwpv.icu^
