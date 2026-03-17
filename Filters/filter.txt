@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-17T04:24:08.866Z
+! Last modified: 2026-03-17T07:02:18.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9180,6 +9180,7 @@ vkcdnservice.appspot.com^
 ||akoxwanaydqya.space^
 ||akpafzad.in^
 ||akqpfvmbvrqjf.online^
+||akroterdaftar.cyou^
 ||aksssnpsgvjoa.online^
 ||aksvougxccpvg.online^
 ||aksxpzjcwbrwu.website^
@@ -11616,6 +11617,7 @@ vkcdnservice.appspot.com^
 ||belaudsaporiastwier.qpon^
 ||belavoplay.com^
 ||belayedsenlac.cyou^
+||beldermuts.cfd^
 ||beleapscavina.qpon^
 ||beleaptlatiner.cyou^
 ||belfrybreathrich.com^
@@ -15803,6 +15805,7 @@ vkcdnservice.appspot.com^
 ||controlclickflow.com^
 ||controllerix.com^
 ||controversykeenworkshop.com^
+||contunerefired.cyou^
 ||contus.sbs^
 ||convectpicory.cyou^
 ||conveniencegymnasium.com^
@@ -17666,6 +17669,7 @@ vkcdnservice.appspot.com^
 ||derriesenew.qpon^
 ||dertralycosa.qpon^
 ||dertrumoomancypledgee.cfd^
+||dervenucleli.qpon^
 ||derwaistthatheha.org^
 ||desaltsallo.help^
 ||descendedlibrarian.com^
@@ -18731,6 +18735,7 @@ vkcdnservice.appspot.com^
 ||dprptfbtilpmp.site^
 ||dpsplgwcglwnn.space^
 ||dpssevgyylnkh.site^
+||dptfodge.cyou^
 ||dptxqbwdwuqye.website^
 ||dpuplet.com^
 ||dpuppers.com^
@@ -19115,6 +19120,7 @@ vkcdnservice.appspot.com^
 ||dusteeripoff.cyou^
 ||dustexhibition.com^
 ||dustinga.com^
+||dustmenbuilder.cyou^
 ||dustoordebated.cfd^
 ||dustyrender.com^
 ||dutabuz.com^
@@ -24504,6 +24510,7 @@ vkcdnservice.appspot.com^
 ||gloostaimsou.net^
 ||glootsomes.net^
 ||gloporn.com^
+||gloppeneight.qpon^
 ||glorebistortopiism.cyou^
 ||gloriaagrarianstatement.com^
 ||gloriafreeway.com^
@@ -26645,6 +26652,7 @@ vkcdnservice.appspot.com^
 ||hjxajf.com^
 ||hjyimrwzncbrh.space^
 ||hkaixrkwqwubw.website^
+||hkavafaxfx.in^
 ||hkcqpidtxaqkl.online^
 ||hkdgrzawyossi.site^
 ||hkeyounqiaowh.space^
@@ -28959,6 +28967,7 @@ vkcdnservice.appspot.com^
 ||irritating-side.com^
 ||irrnimdjmdcbl.space^
 ||irrowewexyemh.website^
+||irt47vygem489o658emnel.rest^
 ||irtearful.help^
 ||irtfmfzzbkjrx.website^
 ||irtya.com^
@@ -30305,6 +30314,7 @@ vkcdnservice.appspot.com^
 ||jscount.com^
 ||jsdelvr.com^
 ||jsfeedadsget.com^
+||jsffbqcv.com^
 ||jsfir.cyou^
 ||jsfuz.com^
 ||jsgdrxwawuzvs.online^
@@ -31617,6 +31627,7 @@ vkcdnservice.appspot.com^
 ||kpgks.online^
 ||kphsqtglfxqim.space^
 ||kpievcjcrkudrg.xyz^
+||kpj7no51ijc2nhc9.cfd^
 ||kpkzbhcdsttqk.website^
 ||kpnacrabkhcbq.site^
 ||kpngcxgdpdfih.space^
@@ -35954,6 +35965,7 @@ vkcdnservice.appspot.com^
 ||msnenkmvzkacs.site^
 ||msnfcixxunwrh.site^
 ||msnmwlbylafpp.space^
+||msnxrlyxvrpqo.com^
 ||mspbgqloewpmm.space^
 ||mspcesbimzldj.online^
 ||msqwborynxnqd.online^
@@ -36084,6 +36096,7 @@ vkcdnservice.appspot.com^
 ||multitudefahrenheitcommiserate.com^
 ||multiwall-ads.shop^
 ||multstorage.com^
+||mumazfqir.in^
 ||mumbledhavings.cyou^
 ||mumblercameraephoebus.cyou^
 ||mumblesinwheel.cyou^
@@ -40594,10 +40607,12 @@ vkcdnservice.appspot.com^
 ||peplosknuckle.help^
 ||peppermintthorpeguess.com^
 ||peppery-talk.com^
+||peppilybalticpilula.qpon^
 ||peppy2lon1g1stalk.com^
 ||peptichanoi.cfd^
 ||percentscalespoorly.com^
 ||perceptpeperek.cyou^
+||percherinkshed.shop^
 ||perchincomenotorious.com^
 ||perchleonine.com^
 ||perchwinter.com^
@@ -48696,6 +48711,7 @@ vkcdnservice.appspot.com^
 ||songtopbrand.com^
 ||sonnerie.net^
 ||sonnyrespected.com^
+||sonoricteams.cfd^
 ||sonsethel.com^
 ||sonsstoop.com^
 ||soocaips.com^
@@ -52879,6 +52895,7 @@ vkcdnservice.appspot.com^
 ||ueujvfjkukeqf.website^
 ||uewe4x2e4nmqgcz6.cfd^
 ||uewhrvljpnkrw.site^
+||uewphjjrjqxxt.com^
 ||uewueeezeasmp.online^
 ||uey6jgncw7w3yp4579w1u6.rest^
 ||ueykjfltxqsb.space^
@@ -56560,6 +56577,7 @@ vkcdnservice.appspot.com^
 ||wildhookups.com^
 ||wildmatch.com^
 ||wildxxxparties.com^
+||wilgersgambetderbend.cyou^
 ||wilkicja.in^
 ||willing-lawyer.pro^
 ||willingcloud.pro^
@@ -58379,6 +58397,7 @@ vkcdnservice.appspot.com^
 ||yabhyprosmkov.online^
 ||yachtedoxymel.help^
 ||yachtermolders.cyou^
+||yachternautica.qpon^
 ||yacnbvkmpxerf.com^
 ||yacsvdpiqyrza.site^
 ||yadmarmizuogr.website^
@@ -59642,6 +59661,7 @@ vkcdnservice.appspot.com^
 ||zgzmomikxzwzk.online^
 ||zhaner.xyz^
 ||zhcftryddgsyg.website^
+||zhcxopfhzrfrc.com^
 ||zhcyrfxkupdvs.store^
 ||zhengzhouchendi.com^
 ||zhfbhtnxnw.com^
