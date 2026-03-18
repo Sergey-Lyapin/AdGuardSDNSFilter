@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-18T10:51:44.670Z
+! Last modified: 2026-03-18T13:07:44.206Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8261,6 +8261,7 @@ vkcdnservice.appspot.com^
 ||aditms.me^
 ||aditsafeweb.com^
 ||adivuernkcvkp.site^
+||adjfiramdo.in^
 ||adjmntesdsoi.love^
 ||adjoinartistic.com^
 ||adjoininglearning.com^
@@ -10036,6 +10037,7 @@ vkcdnservice.appspot.com^
 ||aravynlbydwiq.site^
 ||arbacindawpate.cyou^
 ||arbalosspitz.qpon^
+||arbalotzetseatavist.qpon^
 ||arbitresausage.qpon^
 ||arblastbhunder.cfd^
 ||arblastbrined.cyou^
@@ -14496,6 +14498,7 @@ vkcdnservice.appspot.com^
 ||cgnosvsqrqy.xyz^
 ||cgpjpvvcadzrp.store^
 ||cgpnhjatakwqnjd.xyz^
+||cgqkxzxipzxm.com^
 ||cgrsihmgjmzfb.space^
 ||cgsaxsvjvswcu.space^
 ||cgsmalgre.cfd^
@@ -16580,6 +16583,7 @@ vkcdnservice.appspot.com^
 ||cuffedpil.cfd^
 ||cughidroulrauno.net^
 ||cugnerteens.net^
+||cugt3bgyv5qcoyq99m7n.cfd^
 ||cuhkfxddpubbl.website^
 ||cuiejosparry.cyou^
 ||cuirieobols.qpon^
@@ -21246,6 +21250,7 @@ vkcdnservice.appspot.com^
 ||exodusjailhousetarantula.com^
 ||exofrwe.com^
 ||exolvemonimia.qpon^
+||exonianskewlybusman.cfd^
 ||exosrv.com^
 ||exotaedplwhur.space^
 ||expandeddistressclient.com^
@@ -29055,6 +29060,7 @@ vkcdnservice.appspot.com^
 ||irnmh.fun^
 ||iroaltidsou.net^
 ||irognpinedsgo.website^
+||irokcrrupywlp.site^
 ||ironcladchemistry.pro^
 ||ironcladtrouble.com^
 ||ironendeavour.com^
@@ -29693,6 +29699,7 @@ vkcdnservice.appspot.com^
 ||jcsubfkhazsil.website^
 ||jcuaehwyrflch.online^
 ||jcudgbsxoamtt.website^
+||jculbjoopikfwtq.com^
 ||jcvtdoqmifyzt.site^
 ||jcwdlhrlrqkmp.online^
 ||jcwylmuatiaqv.store^
@@ -30381,6 +30388,7 @@ vkcdnservice.appspot.com^
 ||jqwinunsuzcwf.site^
 ||jqwnvfjfqkfry.website^
 ||jqwqxdboznygi.online^
+||jqwsrywwuhkwd.online^
 ||jqxcrdytprcmk.online^
 ||jqxnjybgdjapy.site^
 ||jqyxtzjtoctnj.top^
@@ -32449,6 +32457,7 @@ vkcdnservice.appspot.com^
 ||layer-ad.org^
 ||layerrepeatedlychancy.com^
 ||layersottava.cfd^
+||layingframingcomrade.com^
 ||laymandelian.cyou^
 ||laymanesprit.com^
 ||layouthonouredbuyer.com^
@@ -33695,6 +33704,8 @@ vkcdnservice.appspot.com^
 ||lqljgkcjsuzer.store^
 ||lqllisdlizrix.site^
 ||lqlpchhficknp.site^
+||lqlrykpubisit.website^
+||lqmavxvvfazjy.site^
 ||lqnzjmlhskmez.space^
 ||lqotlgjojxelr.site^
 ||lqpusbmuqsfyf.site^
@@ -35533,6 +35544,7 @@ vkcdnservice.appspot.com^
 ||mmm5l.com^
 ||mmmavbycigrxr.website^
 ||mmmdn.net^
+||mmmmluggar.cyou^
 ||mmmocdsjpthwr.online^
 ||mmmubvcsmkjcz.online^
 ||mmnajttjehrhx.today^
@@ -35574,6 +35586,7 @@ vkcdnservice.appspot.com^
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mnirvpwlocqxh.online^
+||mnkcujkuxqose.website^
 ||mnlccsvceiohk.site^
 ||mnlgcsbncodnw.online^
 ||mnluyuegcbjdx.website^
@@ -48869,6 +48882,7 @@ vkcdnservice.appspot.com^
 ||softeighty.qpon^
 ||softenedimmortalityprocedure.com^
 ||softentears.com^
+||softforestmeadow.com^
 ||softonicads.com^
 ||softpopads.com^
 ||softresumesuperserver.com^
@@ -51533,6 +51547,7 @@ vkcdnservice.appspot.com^
 ||tight-devil.pro^
 ||tigyaxkrhsnen.space^
 ||tihzzgtucmnqp.online^
+||tijgksets.com^
 ||tiklvzlclrxhf.store^
 ||tikoorkidnaps.cyou^
 ||tiktakz.xyz^
@@ -57385,6 +57400,7 @@ vkcdnservice.appspot.com^
 ||wqbeavbpztwsm.website^
 ||wqbghtlchfeir.online^
 ||wqbuwbiuowblc.store^
+||wqciowajrkjfel.com^
 ||wqdjesmnsgecq.site^
 ||wqdkkdwnlcraz.website^
 ||wqejmqwtao.com^
@@ -58835,6 +58851,7 @@ vkcdnservice.appspot.com^
 ||ydbbbbyprecvz.online^
 ||ydcviwpi.com^
 ||ydeyqndahrpry.online^
+||ydgvlkrbsbdgn.online^
 ||ydiggeurkhusl.store^
 ||yditdwjmuksnj.website^
 ||ydjcybroarn.com^
@@ -58879,6 +58896,7 @@ vkcdnservice.appspot.com^
 ||yellowprotection.com^
 ||yelperwhapuku.cfd^
 ||yelzrlnjpdhoz.online^
+||yemjttmmunmpj.site^
 ||yemmethgqyufg.space^
 ||yemselregillswollen.qpon^
 ||yemxiadimvpyr.com^
@@ -59992,6 +60010,7 @@ vkcdnservice.appspot.com^
 ||zibethprewire.cyou^
 ||ziblo.cloud^
 ||ziccxwyfkathr.website^
+||zicthrpyqzrtt.website^
 ||zidaunsoud.net^
 ||zidwjopspizot.site^
 ||ziegerwelfare.qpon^
