@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-20T14:41:07.344Z
+! Last modified: 2026-03-20T16:41:06.497Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12425,6 +12425,7 @@ vkcdnservice.appspot.com^
 ||blinkyavowssparrer.cyou^
 ||bliqjhstabiqd.space^
 ||bliqqeyveegmx.site^
+||blirtonethe.com^
 ||blismedia.com^
 ||blissfuldes.com^
 ||blissomsip.qpon^
@@ -21496,6 +21497,7 @@ vkcdnservice.appspot.com^
 ||eykzuhazborbc.online^
 ||eylzypoaxzyjs.online^
 ||eynbheeleyxyv.website^
+||eynebrugeseluvium.cfd^
 ||eynetastily.qpon^
 ||eynol.xyz^
 ||eyoktliswyegfv.net^
@@ -28123,6 +28125,7 @@ vkcdnservice.appspot.com^
 ||idztaseejsxkx.space^
 ||ie8eamus.com^
 ||iecvijvuhz28kyv9ofp.cfd^
+||iedeijrbgfvad.com^
 ||iedtothema.org^
 ||ieecjjfzmbhgs.site^
 ||ieeucpssxsepw.online^
@@ -32357,6 +32360,7 @@ vkcdnservice.appspot.com^
 ||l3uyyhufkygwli6ycmyjphrfe.rest^
 ||l4c49w21lzpct4c15vr4jnq.cfd^
 ||l4gzf1c3obom3zgfj.cfd^
+||l5lhhe1pouki6n.cfd^
 ||l5pfirggv1torvcqq8v.cfd^
 ||l5r4jkkt3q8b64vz5.cfd^
 ||l6gl1j3x5hulpz73fh6ehe8utpt.cfd^
@@ -34527,6 +34531,7 @@ vkcdnservice.appspot.com^
 ||maithigloab.net^
 ||maithuhojaiptib.net^
 ||maiwbisqgsdzn.website^
+||majadallasbaguet.qpon^
 ||majaguaglumabegats.cyou^
 ||majestic-oven.com^
 ||majestydisbeliefcalory.com^
@@ -39970,6 +39975,7 @@ vkcdnservice.appspot.com^
 ||oussaute.net^
 ||oustailtoulty.net^
 ||oustoope.com^
+||ousvdbpyasmal.com^
 ||ouszazqstwlex.space^
 ||outagepaction.help^
 ||outarcaninean.com^
@@ -58387,6 +58393,7 @@ vkcdnservice.appspot.com^
 ||xftzmvvgnbnsx.space^
 ||xfuntrshugzcq.space^
 ||xfvclznzhmtte.site^
+||xfvmbewrriqqxuwj2kmub.rest^
 ||xfvrkhjmanrnr.online^
 ||xfvslsqqtyeeb.store^
 ||xfwblpomxc.com^
@@ -75399,6 +75406,9 @@ vkcdnservice.appspot.com^
 ||tthelitnfv.com^
 ||gjbk0mis4q.com^
 ||4nfesm3itf.com^
+||gtrimmani.com^
+||pvgcyyh.icu^
+||hhba03201kdh.com^
 ||dvjxk947e.com^
 ||kqg8jh8rk.com^
 ||radexh.icu^
