@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-20T12:56:11.051Z
+! Last modified: 2026-03-20T14:41:07.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8800,6 +8800,7 @@ vkcdnservice.appspot.com^
 ||africawin.com^
 ||afritevacandicorella.cfd^
 ||afritreeject.help^
+||afrontkiester.cyou^
 ||afrosinserts.qpon^
 ||afrxixlnj.com^
 ||afsohptiq.in^
@@ -9598,6 +9599,7 @@ vkcdnservice.appspot.com^
 ||amyrolrebob.cfd^
 ||amzdmgjigiolu.online^
 ||amzfepdudlyvb.site^
+||anacarahunts.cyou^
 ||anacarauppluck.qpon^
 ||anaceschalina.help^
 ||anacidethide.cfd^
@@ -9788,6 +9790,7 @@ vkcdnservice.appspot.com^
 ||antigayhydrous.shop^
 ||antingsdoggess.cyou^
 ||antiopeoverly.cyou^
+||antiquavotary.cyou^
 ||antique-average.com^
 ||antique-dad.pro^
 ||antiquepillar.com^
@@ -14788,6 +14791,7 @@ vkcdnservice.appspot.com^
 ||chiefindividual.com^
 ||chieflydecorationtreasure.com^
 ||chiefrecovery.com^
+||chiefswipercoble.cfd^
 ||chielbyjupon.cyou^
 ||chieldspleurum.cyou^
 ||chiffrehumors.cfd^
@@ -14918,6 +14922,7 @@ vkcdnservice.appspot.com^
 ||chrisspinet.help^
 ||christmascalled.com^
 ||christmaspoisonouswiped.com^
+||christpaid.cyou^
 ||chromoseatingalgorab.qpon^
 ||chromywheezy.cfd^
 ||chronicairliner.com^
@@ -15698,6 +15703,7 @@ vkcdnservice.appspot.com^
 ||comihon.com^
 ||comilar-efferiff.icu^
 ||comitespasisdoodler.cfd^
+||comlquina.com^
 ||commendhealthagitation.com^
 ||commentalumins.help^
 ||commentaryblame.com^
@@ -22887,6 +22893,7 @@ vkcdnservice.appspot.com^
 ||forcefulpacehauled.com^
 ||forcefulwest.com^
 ||forcepsfavissa.qpon^
+||forcepsmappensteele.qpon^
 ||forcertollon.help^
 ||fordjuly.com^
 ||fordletze.com^
@@ -25984,6 +25991,7 @@ vkcdnservice.appspot.com^
 ||hailbrunchsharpen.com^
 ||hailingwomp.cfd^
 ||hailofficemeasure.com^
+||hailsdepoh.cfd^
 ||haircutambient.com^
 ||haircutcrypticunlikely.com^
 ||hairdressergraduate.com^
@@ -29713,6 +29721,7 @@ vkcdnservice.appspot.com^
 ||jaigoubupoadaw.net^
 ||jaijeestaipsee.net^
 ||jaijs.com^
+||jaildomhexace.shop^
 ||jailishwabbles.cfd^
 ||jailorscoman.cfd^
 ||jailshoming.cyou^
@@ -43531,6 +43540,7 @@ vkcdnservice.appspot.com^
 ||pybedtkuphunq.online^
 ||pycniumclabber.cfd^
 ||pydtwiqutiusg.online^
+||pydulxopajrbwna.com^
 ||pydymphqitklb.website^
 ||pyebouezyhhxd.online^
 ||pyecyiqatdboi.site^
@@ -45638,6 +45648,7 @@ vkcdnservice.appspot.com^
 ||restomoumtoghur.net^
 ||restorationmourn.com^
 ||restorepushed.com^
+||restrainfannylimb.com^
 ||restripmiaotze.shop^
 ||resultlinks.com^
 ||resumetwigincarnate.com^
@@ -47283,6 +47294,7 @@ vkcdnservice.appspot.com^
 ||sarcasticnotarycontrived.com^
 ||sarcastscriptoechevin.cyou^
 ||sarclerwene.shop^
+||sardanaboxful.cfd^
 ||sardineabstract.com^
 ||sardineoctoberconnecting.com^
 ||sardonic-wind.com^
@@ -51210,6 +51222,7 @@ vkcdnservice.appspot.com^
 ||tcfuzwrctqofr.online^
 ||tcfydbeatqqbq.website^
 ||tcgjhulupwqpc.space^
+||tchaicolumna.cfd^
 ||tchapananew.qpon^
 ||tchapangrinter.qpon^
 ||tchastedwards.qpon^
@@ -54877,6 +54890,7 @@ vkcdnservice.appspot.com^
 ||vacscefagjky.in^
 ||vacuatearardebord.cyou^
 ||vacuefylateen.qpon^
+||vacuuahomonid.cfd^
 ||vacuumcoconut.com^
 ||vacuumpalsy.cfd^
 ||vacwrite.com^
@@ -57540,6 +57554,7 @@ vkcdnservice.appspot.com^
 ||wnujsatapndbq.today^
 ||wnuoqyophobbm.site^
 ||wnvxsbctvedod.online^
+||wnwccsuyrll.com^
 ||wnxcmjqpcviit.website^
 ||wnxgldmlnkdbf.site^
 ||wnzlvbrgskcfj.space^
@@ -60410,6 +60425,7 @@ vkcdnservice.appspot.com^
 ||zingaurtoam.net^
 ||zingingsuist.cyou^
 ||zinglapels.cfd^
+||zinkghoster.cfd^
 ||zinkyemraud.cfd^
 ||zinovu.com^
 ||zinzlixtaacfg.website^
