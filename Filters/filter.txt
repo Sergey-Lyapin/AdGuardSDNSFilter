@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-24T07:02:04.353Z
+! Last modified: 2026-03-24T08:51:37.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11132,6 +11132,8 @@ vkcdnservice.appspot.com^
 ||browsobsolete.com^
 ||brphcvsebhffc.site^
 ||brrymylzryxdd.site^
+||brsizbesdzmle.site^
+||brthrfkyidygq.online^
 ||brtsumthree.com^
 ||brtwlhfmomcng.site^
 ||bruceleadx1.com^
@@ -11165,17 +11167,22 @@ vkcdnservice.appspot.com^
 ||bsfeuihxrczte.space^
 ||bsgbcdzmvggpc.site^
 ||bsgbd77l.de^
+||bsgoizcmrvgzj.space^
 ||bshrdr.com^
+||bsipsynpzfzkb.online^
 ||bsjxodcvrvgbe.online^
 ||bskakeiotyvge.online^
 ||bskilkkuooeyy.site^
 ||bsktssu.qpon^
 ||bsldkaxqzrcdn.website^
+||bsmtfaewiifnz.website^
 ||bsmvroohwwakx.site^
 ||bsnwicychhpjy.website^
+||bspnfgvmxrqhj.site^
 ||bsrvnidujicrk.com^
 ||bssgnowkrcjpm.online^
 ||bssoyxhfjzcgz.space^
+||bsuscdteppskg.online^
 ||bsuzrzbpyviyv.online^
 ||bswpedrupvagj.website^
 ||bswpzhhfjjqxv.website^
@@ -11191,6 +11198,8 @@ vkcdnservice.appspot.com^
 ||btdykfecwvyso.online^
 ||btecvxxnfqaio.site^
 ||btegxrphkoxxw.site^
+||btejyileyjnma.space^
+||btexaqwamudic.space^
 ||btftejndwlagu.online^
 ||bthythvdrdbud.space^
 ||btiarjta.in^
@@ -11218,6 +11227,7 @@ vkcdnservice.appspot.com^
 ||buaontzlplobx.website^
 ||buattrifler.cfd^
 ||bubblemayflowernephew.com^
+||bubqrckrafdzk.space^
 ||bucabjnocfjgu.website^
 ||buccaltilaks.shop^
 ||buccanthruv.cyou^
@@ -11249,6 +11259,7 @@ vkcdnservice.appspot.com^
 ||buildsstate.com^
 ||builtinintriguingchained.com^
 ||bujerdaz.com^
+||bujxyzsfiolnp.online^
 ||bukusukses.com^
 ||bulandagothics.com^
 ||bulbcochero.shop^
@@ -34029,6 +34040,7 @@ vkcdnservice.appspot.com^
 ||mrvhdumlhdzeo.space^
 ||mrvoudqrmyuzh.online^
 ||mrwfbwbmbgdkq.com^
+||mrwgqupgqb.com^
 ||mrxapclsfuerb.online^
 ||mrycibqutoz.com^
 ||mrydwiast.in^
@@ -38512,6 +38524,7 @@ vkcdnservice.appspot.com^
 ||pastureoriental.com^
 ||pasxfixs.com^
 ||patacajabia.com^
+||patapatankhweevers.qpon^
 ||patchportlyparking.com^
 ||patelemeutes.qpon^
 ||patelpumex.cyou^
@@ -45374,6 +45387,7 @@ vkcdnservice.appspot.com^
 ||scavelbuntine.life^
 ||scbargees.qpon^
 ||sccotxcyhkpsm.site^
+||scdjkqlknm.com^
 ||scdzsazeeqmta.online^
 ||scdzzqlzbvzrx.website^
 ||scenarycareme.com^
@@ -51275,6 +51289,7 @@ vkcdnservice.appspot.com^
 ||tyrrfurcule.cyou^
 ||tyserving.com^
 ||tysigpzjxjegb.space^
+||tythingpurpledunfiery.cyou^
 ||tytulcernodules.qpon^
 ||tyuhwlerptkcl.website^
 ||tyuknsyenergy.com^
