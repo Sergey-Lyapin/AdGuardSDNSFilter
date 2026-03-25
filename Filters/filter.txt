@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-25T05:22:12.141Z
+! Last modified: 2026-03-25T07:00:17.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7024,6 +7024,7 @@ vkcdnservice.appspot.com^
 ||514df5b14c.com^
 ||51f7cf32cd.com^
 ||5201l41kuvl7.top^
+||523kvw9tuecfmt763lp87jiixj.rest^
 ||52588314e4.com^
 ||526d43cc6c.com^
 ||528b4dabec.com^
@@ -7139,6 +7140,7 @@ vkcdnservice.appspot.com^
 ||6fy36oc1b1nj7399.rest^
 ||6glece4homah8dweracea.com^
 ||6h5n3f6kwifel7kti3rl.rest^
+||6ip2l99m6kj3ut4f3v18c28fwiqcvvgofx7r.cfd^
 ||6ir8zn9ec4ubov9ftkr.cfd^
 ||6j296m8k.de^
 ||6mbc18yufuulgv6ov4ko1v23gecb36l8k.rest^
@@ -14160,6 +14162,7 @@ vkcdnservice.appspot.com^
 ||cuksopsaiksooph.net^
 ||cukvpiadkpewh.store^
 ||culbutjwvefjh.site^
+||culchesresizerazole.qpon^
 ||culethernial.shop^
 ||culizyxhdblqa.website^
 ||cullasjowls.qpon^
@@ -14352,6 +14355,7 @@ vkcdnservice.appspot.com^
 ||cwhbzcwbodejg.online^
 ||cwhjirncjhrmo.site^
 ||cwicxhjljfqki.site^
+||cwicybzyryttv.space^
 ||cwiercvirbius.qpon^
 ||cwkanmdqepjx.com^
 ||cwkgzodpuitif.online^
@@ -23152,6 +23156,7 @@ vkcdnservice.appspot.com^
 ||grughouteersok.net^
 ||grulrestikroubs.net^
 ||grumblestardomtactful.com^
+||grummelunsolve.qpon^
 ||grummerscult.help^
 ||grumpaccidia.com^
 ||grumphycopers.cyou^
@@ -25629,6 +25634,7 @@ vkcdnservice.appspot.com^
 ||iaopbzjfhemrb.website^
 ||iapygessaining.cyou^
 ||iapzzgtuekvbz.website^
+||iaqnnsytsjkbu.website^
 ||iarekbazzdlqm.space^
 ||iarofhjdkxwyp.store^
 ||iasbetaffiliates.com^
@@ -34001,6 +34007,7 @@ vkcdnservice.appspot.com^
 ||mouesgloriam.qpon^
 ||moujooseehize.net^
 ||moukewelaimaiho.net^
+||moulageairbag.cfd^
 ||moumaiphuch.net^
 ||moundconclusive.com^
 ||mountainousstop.pro^
@@ -35813,6 +35820,7 @@ vkcdnservice.appspot.com^
 ||northercutters.cfd^
 ||northrtbads.top^
 ||northwestreluctantvault.com^
+||noryxujuqcdwo.site^
 ||nosegaytootled.qpon^
 ||nosemorgue.com^
 ||nosenotch.com^
@@ -37137,6 +37145,7 @@ vkcdnservice.appspot.com^
 ||olkogmwma.in^
 ||ollamhgalesblasts.cyou^
 ||olliestonifyopinant.cfd^
+||olmdapoj.in^
 ||olmiweb.com^
 ||olmtnqdgfhdsw.space^
 ||olntyyszaelkp.online^
@@ -44716,6 +44725,7 @@ vkcdnservice.appspot.com^
 ||rrxoysq.art^
 ||rrypbcicshtso.online^
 ||rs-stripe.com^
+||rsacvqvyougxwei.com^
 ||rsalcch.com^
 ||rsaltsjt.com^
 ||rsapanhtopcqf.website^
@@ -45443,6 +45453,7 @@ vkcdnservice.appspot.com^
 ||satisfypliablehumiliated.com^
 ||satisfyruns.com^
 ||sativepuzzle.cfd^
+||satndtcocoxlv.space^
 ||sattiostiounper.com^
 ||sattleovula.cyou^
 ||saturdaymarryspill.com^
@@ -51705,6 +51716,7 @@ vkcdnservice.appspot.com^
 ||udjvypscmvaxq.website^
 ||udkeqktfblppo.site^
 ||udmserve.net^
+||udophtkooyzew.website^
 ||udplgiotjursc.website^
 ||udppercfezmis.online^
 ||udtdxbqavttyz.online^
@@ -53032,6 +53044,7 @@ vkcdnservice.appspot.com^
 ||uwuypebetgkvr.online^
 ||uwvfubpjih.com^
 ||uwvuepnaaefvm.space^
+||uwxeefniupmth.site^
 ||uwxvfjcaoo.com^
 ||ux2y7ue3hhueyt6h.cfd^
 ||uxahhowennlqf.website^
@@ -54128,6 +54141,7 @@ vkcdnservice.appspot.com^
 ||vmuavcpco.in^
 ||vmuid.com^
 ||vmurpruqkhtoh.site^
+||vmvdnxrkephwg.website^
 ||vmvwstuhensma.online^
 ||vmvxxphjazbtu.space^
 ||vmwculygknjdb.com^
@@ -54157,6 +54171,7 @@ vkcdnservice.appspot.com^
 ||vnlhedlhjyzrs.site^
 ||vnncpccdpfupq.site^
 ||vnnvrstpewqyb.site^
+||vnoeytklzthqu.website^
 ||vnourljxqtsxz.site^
 ||vnpcqiazqmzeq.online^
 ||vnrbjvbwbqfob.click^
@@ -73847,6 +73862,7 @@ vkcdnservice.appspot.com^
 ||trouupjeu.com^
 ||uj2h8xm8w.com^
 ||uftokromta.com^
+||aickw1c4w.com^
 ||6lpm5zq6t3.com^
 ||b8mnb9ke9z.com^
 ||7s7bvoungt.com^
