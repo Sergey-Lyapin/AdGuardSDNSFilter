@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-27T07:04:32.837Z
+! Last modified: 2026-03-27T08:51:19.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6456,7 +6456,6 @@
 ||pampopholf.com^
 vkcdnservice.appspot.com^
 ||vkcdnservice.com^
-||acbp0020171456.page.tl^
 ||vuryua.ru^
 ||mepirtedic.com^
 ||silimbompom.com^
@@ -8088,6 +8087,7 @@ vkcdnservice.appspot.com^
 ||adstook.com^
 ||adstoppedtotalkto.com^
 ||adstreampro.com^
+||adstub.net^
 ||adsupply.com^
 ||adsupplyssl.com^
 ||adsurve.com^
@@ -8395,6 +8395,7 @@ vkcdnservice.appspot.com^
 ||agitatedfoot.com^
 ||agitatedparquetscam.com^
 ||agitationselfservice.com^
+||agjtdfjxvvhwi.site^
 ||agkbhvkpuuzxf.site^
 ||agl001.bid^
 ||agl002.online^
@@ -9800,6 +9801,7 @@ vkcdnservice.appspot.com^
 ||b14ae1c233.com^
 ||b1733e915d.com^
 ||b1814392f8.com^
+||b1ll3r11.xyz^
 ||b240ea4ef8.com^
 ||b2cd8956b2.com^
 ||b2f5a87e42.com^
@@ -12203,6 +12205,7 @@ vkcdnservice.appspot.com^
 ||cheapenleaving.com^
 ||cheaperredressrationally.com^
 ||cheaphat.pro^
+||cheaplyregainthrift.com^
 ||cheapmachinerywail.com^
 ||cheateditza.cyou^
 ||cheatingagricultural.com^
@@ -16778,6 +16781,7 @@ vkcdnservice.appspot.com^
 ||dsa8h7.com^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsadyttmalqac.website^
+||dsamfe.com^
 ||dsb68d.com^
 ||dsbnvctq.com^
 ||dsbohcqqdvbyt.site^
@@ -19210,6 +19214,7 @@ vkcdnservice.appspot.com^
 ||exwxaowmxeuks.website^
 ||exxtended-access.com^
 ||exyck4lrbjlc32yu.cfd^
+||exyjahomxj.com^
 ||exzocglvthjxr.space^
 ||ey43.com^
 ||ey9ygbkbwchqefkle4gye12vobu8.cfd^
@@ -19760,6 +19765,7 @@ vkcdnservice.appspot.com^
 ||feechoojaigeep.net^
 ||feed-ads.com^
 ||feed-xml.com^
+||feedbackadmiralfortnight.com^
 ||feedfinder23.info^
 ||feedingflax.com^
 ||feedyourheadmag.com^
@@ -25617,6 +25623,7 @@ vkcdnservice.appspot.com^
 ||hurdlesawide.qpon^
 ||hurkarubypaths.com^
 ||hurlmedia.design^
+||hurrerrwynocking.qpon^
 ||hurriedlyslumremiss.com^
 ||hurtful-job.com^
 ||hurtful-message.com^
@@ -26673,6 +26680,7 @@ vkcdnservice.appspot.com^
 ||includedmotley.com^
 ||includemodal.com^
 ||inclusapilaued.com^
+||incomerboxier.cfd^
 ||incomethurst.qpon^
 ||incomparable-day.pro^
 ||incomparable-pair.com^
@@ -33809,6 +33817,7 @@ vkcdnservice.appspot.com^
 ||misavermaomao.cyou^
 ||misawfkcu.com^
 ||misbodeweans.cyou^
+||miscarriageapartment.com^
 ||miscarriagedevelopmentfoil.com^
 ||miscellaneousfloraprosecutor.com^
 ||miscookcuorin.cyou^
@@ -35780,6 +35789,7 @@ vkcdnservice.appspot.com^
 ||nhwoxbzlacaqx.website^
 ||nhzczuzvmmcfh.website^
 ||niagaraswails.com^
+||niamcbxhefpdj.space^
 ||niaumxovmqpur.online^
 ||niayuziuisuru.online^
 ||nibbybeteela.cfd^
@@ -41268,6 +41278,7 @@ vkcdnservice.appspot.com^
 ||profitablegate.com^
 ||profitablegatecpm.com^
 ||profitablegatetocontent.com^
+||profitablemood.pro^
 ||profitableratecpm.com^
 ||profitabletrustednetwork.com^
 ||profitsence.com^
@@ -42954,6 +42965,7 @@ vkcdnservice.appspot.com^
 ||questgin.com^
 ||questionable-heat.pro^
 ||questionable-shoulder.pro^
+||questionablenet.com^
 ||questionneuroticgrief.com^
 ||questionschildish.com^
 ||questorarrect.shop^
@@ -47069,6 +47081,7 @@ vkcdnservice.appspot.com^
 ||shrunkbaumier.shop^
 ||shrupsfuzz.cyou^
 ||shsrqndzhaqdo.site^
+||shstvvexwudrg.website^
 ||shtdgmiuejdnn.online^
 ||shteoddyxckqn.online^
 ||shtetelaloysia.qpon^
@@ -47731,6 +47744,7 @@ vkcdnservice.appspot.com^
 ||snaglighter.com^
 ||snailammoniabees.com^
 ||snailscheepedrinsers.cyou^
+||snailscrambledcontrivance.com^
 ||snailthreatenedinvited.com^
 ||snajebrxiyiih.website^
 ||snakerlauturejects.cfd^
@@ -53067,6 +53081,7 @@ vkcdnservice.appspot.com^
 ||unpufframpler.com^
 ||unputembricagoat.cyou^
 ||unqsnzyrsdkuz.website^
+||unquitrheexempts.cyou^
 ||unquittertii.help^
 ||unquotejervin.cfd^
 ||unqxeekhpyfyq.online^
@@ -54566,6 +54581,7 @@ vkcdnservice.appspot.com^
 ||violet-space.pro^
 ||violet-throat.pro^
 ||violetcommercial.com^
+||violetfigure.com^
 ||violetsdentals.qpon^
 ||violistexla.qpon^
 ||violsvelella.qpon^
@@ -55214,6 +55230,7 @@ vkcdnservice.appspot.com^
 ||vwhhkanqimp.xyz^
 ||vwjdosviijhit.website^
 ||vwjsiywwgynud.online^
+||vwkrrwxbuvotg.space^
 ||vwmdzetaikxvc.site^
 ||vwmtrauf.com^
 ||vwnjjfehgryri.space^
@@ -56229,6 +56246,7 @@ vkcdnservice.appspot.com^
 ||whudwpbpfcjye.site^
 ||whulsaux.com^
 ||whuzucot.net^
+||whvpiizizkopf.website^
 ||whvxstats.com^
 ||whvyhcvlszizp.online^
 ||whwodicurhybp.website^
@@ -56757,6 +56775,7 @@ vkcdnservice.appspot.com^
 ||worrisomeshop.pro^
 ||worrycuriositymafia.com^
 ||worryinginadmissible.com^
+||worst-parent.pro^
 ||worst-recognition.pro^
 ||worstbreath.pro^
 ||worstoffice.com^
@@ -57923,6 +57942,7 @@ vkcdnservice.appspot.com^
 ||xssqdlcguplkd.space^
 ||xstjammrjbseq.site^
 ||xstmgzvivatte.online^
+||xstujnilzhjqr.site^
 ||xsudqfks.com^
 ||xsvirldugvltc.net^
 ||xswtzxsxzwho.com^
@@ -58194,6 +58214,7 @@ vkcdnservice.appspot.com^
 ||y97h4vgk6iqcfhy7vn8wfp.cfd^
 ||y9httmmlc8vk5zmg.cfd^
 ||y9yfexnb72pw5goz.cfd^
+||yaalchzajtoqg.online^
 ||yabhyprosmkov.online^
 ||yachtedoxymel.help^
 ||yachtermolders.cyou^
