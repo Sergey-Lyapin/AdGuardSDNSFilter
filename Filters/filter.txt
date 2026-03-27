@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-27T10:46:37.844Z
+! Last modified: 2026-03-27T13:02:39.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7018,6 +7018,7 @@ vkcdnservice.appspot.com^
 ||4rabettraff.com^
 ||4uc1bcgizofb9wq3.rest^
 ||4ucwg8mu4txq5jr5n19.rest^
+||4urrobfjygm9mnwyt.cfd^
 ||4uzknty9cgzfitho8.rest^
 ||4w3tmyk8tzll5qvjwv2qmlwv52elkmpk.rest^
 ||4wnetwork.com^
@@ -7382,6 +7383,7 @@ vkcdnservice.appspot.com^
 ||9xeqynu3gt7c.com^
 ||9xob25oszs.com^
 ||9ye8pij8u3hufnt96q1h1tb87r52cm1.cfd^
+||9zgjybtp7lmq71c5llgczx3v7z3rucqc.rest^
 ||a-ads.com^
 ||a-mo.net^
 ||a-mx.com^
@@ -8546,6 +8548,7 @@ vkcdnservice.appspot.com^
 ||ajar-emphasis.pro^
 ||ajar-sister.com^
 ||ajarguitar.pro^
+||ajaridibbedglottid.cfd^
 ||ajarmargaritaalmond.com^
 ||ajdfwamz.com^
 ||ajdhawgchjuix.online^
@@ -9768,6 +9771,7 @@ vkcdnservice.appspot.com^
 ||azeleiljkpywl.vip^
 ||azenka.one^
 ||azeriondigital.com^
+||azfoblavr.in^
 ||azfpkrxjbsduf.space^
 ||azgftoymwpszx.online^
 ||azidosovertyattaleh.cyou^
@@ -11926,6 +11930,7 @@ vkcdnservice.appspot.com^
 ||ccjzuavqrh.com^
 ||ccmiocw.com^
 ||ccn08sth.de^
+||ccncyngyyiwpz.space^
 ||ccoyaballots.com^
 ||ccpdaindrmyyx.online^
 ||ccresqutyc.com^
@@ -17414,6 +17419,7 @@ vkcdnservice.appspot.com^
 ||ecinw7ux5nyzcoy4ef8.cfd^
 ||ecjhgxpqqpuzu.website^
 ||ecjrzisfqedcu.space^
+||ecknbonfiftad.website^
 ||eclbxwsilamsg.online^
 ||eclinerybelfast.org^
 ||eclkmpsa.com^
@@ -17680,6 +17686,7 @@ vkcdnservice.appspot.com^
 ||efqemayffauii.space^
 ||efrheeqcwgxsb.online^
 ||efrwdjavjkiqw.online^
+||efsuoodjpyxew.space^
 ||eftbmbcyhiwvt.site^
 ||eftxrcaicsyoc.space^
 ||efulcurtseysadmi.org^
@@ -18833,6 +18840,7 @@ vkcdnservice.appspot.com^
 ||etooqcedvlzyh.space^
 ||etotreatwithdify.com^
 ||etphoneme.com^
+||etqaasanaibvh.com^
 ||etqzttxmlrgxm.space^
 ||etrem.site^
 ||etrenneamotionknocker.cfd^
@@ -23204,6 +23212,7 @@ vkcdnservice.appspot.com^
 ||gravitationtaxpayer.com^
 ||gravyhuman.com^
 ||grayedcoptersthrip.cfd^
+||grayedmellit.com^
 ||grayerkhlysti.help^
 ||grayfelicity.com^
 ||graythought.pro^
@@ -23340,6 +23349,7 @@ vkcdnservice.appspot.com^
 ||griwourtadoothe.net^
 ||grizzled-doctor.pro^
 ||grizzledgrowth.pro^
+||grjgbrecfliwm.com^
 ||grjqvelblmzmu.website^
 ||grmciysmhnyaj.site^
 ||grmtas.com^
@@ -23495,6 +23505,7 @@ vkcdnservice.appspot.com^
 ||gsumjooasiufl.site^
 ||gswondenthaiti.org^
 ||gswwbrgadqshu.space^
+||gsxytzcnwtyht.online^
 ||gsyfhaxwmeyg.com^
 ||gsyndication.com^
 ||gszipwrttnsxu.website^
@@ -27899,6 +27910,7 @@ vkcdnservice.appspot.com^
 ||jaznthphugfwz.online^
 ||jazzestyrosyl.cfd^
 ||jazzistagallop.com^
+||jbalnemwgxsbp.space^
 ||jbaqavqkrovyy.top^
 ||jbazlkbvmyecd.website^
 ||jbbyyryolmlvq.top^
@@ -29619,6 +29631,7 @@ vkcdnservice.appspot.com^
 ||khwgamafdcaxu.space^
 ||khztdiumpfiqy.site^
 ||kiackepeus.cyou^
+||kiackhaulmy.com^
 ||kiawpakkhzdoy.website^
 ||kibccoap.in^
 ||kibltcionrekv.site^
@@ -34631,6 +34644,7 @@ vkcdnservice.appspot.com^
 ||mrmnd.com^
 ||mrnjxjiosjpgy.online^
 ||mrnnahkpwcmnn.space^
+||mrojeihalqsyl.online^
 ||mrplmfulxetas.space^
 ||mrpqqtuzjnkdc.site^
 ||mrqcxjbhluvew.xyz^
@@ -35096,6 +35110,7 @@ vkcdnservice.appspot.com^
 ||mymukindwould.com^
 ||mynealpttfyoq.space^
 ||mynutraresearch.com^
+||myogenactuoseferular.qpon^
 ||myomasardana.cfd^
 ||myonememinaway.cfd^
 ||myopiasdunnest.com^
@@ -43866,6 +43881,7 @@ vkcdnservice.appspot.com^
 ||reddedstobs.cfd^
 ||reddishpandal.help^
 ||reddlebasten.shop^
+||reddleblitum.cfd^
 ||redealpaxwax.shop^
 ||redeckgriffespluton.cyou^
 ||redeemcontagiontransmitted.com^
@@ -46271,6 +46287,7 @@ vkcdnservice.appspot.com^
 ||scorchsschwa.cyou^
 ||scoredconnect.com^
 ||scornfacultative.com^
+||scornfulleg.com^
 ||scotiamyiasisdrawrod.cfd^
 ||scotiawinze.com^
 ||scoundrelbreakdown.com^
@@ -47252,6 +47269,7 @@ vkcdnservice.appspot.com^
 ||silverleafroad.com^
 ||silverwhitebirds.co^
 ||simblumpatty.qpon^
+||simhtgguozodp.online^
 ||similarlyabdomenwrestle.com^
 ||similarnatural.pro^
 ||similarpresence.com^
@@ -48984,6 +49002,7 @@ vkcdnservice.appspot.com^
 ||streetmonumentemulate.com^
 ||strekepetrols.com^
 ||stremmaraftage.com^
+||strengthdetention.com^
 ||strengthhaberdashery.com^
 ||strengthyellow.com^
 ||strenuoustarget.com^
@@ -50110,6 +50129,7 @@ vkcdnservice.appspot.com^
 ||tdvnadvdusjco.site^
 ||tdvpihxupzkcw.online^
 ||tdwpdgmgjgbqk.site^
+||tdxegdjfabfgkg.com^
 ||tdxwtdxyvgi.com^
 ||tdzegpeatygun.tech^
 ||te6mumo35cc2t6rc11cvh.cfd^
@@ -52179,6 +52199,7 @@ vkcdnservice.appspot.com^
 ||tyglbnvkmaxih.com^
 ||tyhxysuulzzmr.site^
 ||tyieyjfawbdb.com^
+||tyijgwwnaaxwc.space^
 ||tyilygslda.com^
 ||tyingtastevolleyball.com^
 ||tyjhppeycigsm.space^
@@ -52325,6 +52346,7 @@ vkcdnservice.appspot.com^
 ||ubfokqqlwcggb.space^
 ||ubfotxzmhttgx.online^
 ||ubgneblgrosii.site^
+||ubgvqakukavmm.space^
 ||ubhoryjlvjfux.website^
 ||ubiepvmfdzkhx.online^
 ||ubilinkbin.com^
@@ -53081,6 +53103,7 @@ vkcdnservice.appspot.com^
 ||unluckasserta.com^
 ||unlucky-chemical.pro^
 ||unluckydoubt.com^
+||unluckygirl.pro^
 ||unluckyrecent.com^
 ||unlumpylynette.com^
 ||unlusheyespot.cyou^
@@ -54635,6 +54658,7 @@ vkcdnservice.appspot.com^
 ||violsvelella.qpon^
 ||vionito.com^
 ||vip-vip-vup.com^
+||vipavkacrfujf.online^
 ||vipcbtwvdabun.site^
 ||vipdragonapp.monster^
 ||viperishly.com^
@@ -56553,6 +56577,7 @@ vkcdnservice.appspot.com^
 ||wkptzopfmmezc.space^
 ||wkpuhmkdupgee.website^
 ||wkpvhgnzgxkyu.site^
+||wkqbmyjcuqfxm.site^
 ||wkqrwyzwkehjb.website^
 ||wkrqvffpntjzm.store^
 ||wksdimozlhixl.site^
@@ -57923,6 +57948,7 @@ vkcdnservice.appspot.com^
 ||xqvenulmbseas.space^
 ||xqvozdrhmwurw.website^
 ||xqvsufkeuiwde.website^
+||xqvtzwwblkcho.space^
 ||xqwaixyfvtvxy.space^
 ||xqwkfbmazxgwe.online^
 ||xqwrdegbmdfrv.top^
@@ -58762,6 +58788,7 @@ vkcdnservice.appspot.com^
 ||ylscmihqxrrda.global^
 ||yluemmumvvneh.online^
 ||yluqzwoggtdaa.online^
+||ylwbxiuajnvzz.space^
 ||ylwfbiqipjmuz.online^
 ||ylx-1.com^
 ||ylx-2.com^
