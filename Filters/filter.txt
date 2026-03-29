@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-29T07:01:31.997Z
+! Last modified: 2026-03-29T08:37:40.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8815,6 +8815,7 @@ vkcdnservice.appspot.com^
 ||amendmentinsistdevotion.com^
 ||amendmentlakeinterim.com^
 ||amenrecorder.com^
+||amercedsawyerscubdom.cfd^
 ||amesgraduatel.xyz^
 ||ametheyallflewa.com^
 ||amewtoehwajro.site^
@@ -11343,6 +11344,7 @@ vkcdnservice.appspot.com^
 ||brutishlylifevoicing.com^
 ||brutuzzzymudq.world^
 ||bruzzexacter.com^
+||brxqlwrzcpcvx.website^
 ||brygella.com^
 ||brzbrjycauqcf.site^
 ||brzjthsubtlwj.site^
@@ -27360,6 +27362,7 @@ vkcdnservice.appspot.com^
 ||inznbvtcgmfzn.store^
 ||ioadserve.com^
 ||ioassrlwlhqzk.website^
+||iobolsqkxbxlw.space^
 ||iobswixghwftq.site^
 ||iodatrtttbfji.online^
 ||iodideeyebath.cam^
@@ -27456,6 +27459,7 @@ vkcdnservice.appspot.com^
 ||iptautoariroa.net^
 ||iptautup.com^
 ||iptnljjxlqe.com^
+||iptvqiahamw.com^
 ||iptydbyenzagm.site^
 ||ipvaqxfgypulc.website^
 ||ipvosaljgwqkeh.com^
@@ -28814,6 +28818,7 @@ vkcdnservice.appspot.com^
 ||jorvzkfgalohg.space^
 ||joryvztqojsig.space^
 ||josephclassics.com^
+||jostledsibsmalmed.cfd^
 ||jotfmxlmbkgwb.online^
 ||jotmakutu.cfd^
 ||joudauhee.com^
@@ -30856,6 +30861,7 @@ vkcdnservice.appspot.com^
 ||la-la-sf.com^
 ||laaaqmkbvcxf.xyz^
 ||laarmwcgehodw.website^
+||laastlqfntmun.online^
 ||labaarabrember.shop^
 ||labaaraseta.cfd^
 ||labadena.com^
@@ -31196,6 +31202,7 @@ vkcdnservice.appspot.com^
 ||lcfamqtgupf.xyz^
 ||lcfauizghtxzb.website^
 ||lcfegzfnnayrz.website^
+||lcfurcblzoonf.online^
 ||lcfzdtilsbpiu.site^
 ||lcgvdkaclfzft.website^
 ||lcgwkdjniixjb.store^
@@ -34438,6 +34445,7 @@ vkcdnservice.appspot.com^
 ||mnmiunmojyncy.website^
 ||mnmsvtqnvtbbf.online^
 ||mnnqgnndirrdjac.com^
+||mnnxnxalofo.com^
 ||mnoaepwkwfeeo.website^
 ||mnpuxygfpkvey.online^
 ||mnpxmcrlmvdok.website^
@@ -40693,6 +40701,7 @@ vkcdnservice.appspot.com^
 ||plcmsdajsliinl.xyz^
 ||plcxwtxuojnnh.website^
 ||pleachwonnot.qpon^
+||pleasant-commercial.pro^
 ||pleasant-gear.com^
 ||pleasant-toe.pro^
 ||pleasantinformation.com^
@@ -41350,6 +41359,7 @@ vkcdnservice.appspot.com^
 ||pqooztnzwrtbk.store^
 ||pqouwxvnbjkjm.space^
 ||pqoxdvmdndmfz.website^
+||pqpockwufqgpf.website^
 ||pqrbgxsbatdiy.space^
 ||pqsjujuhicwrx.online^
 ||pqt6ttp1ygnrcw2x6.cfd^
@@ -44079,6 +44089,7 @@ vkcdnservice.appspot.com^
 ||reachmode.com^
 ||readiong.net^
 ||readserv.com^
+||ready-march.com^
 ||ready-skin.pro^
 ||readycelebrationleaf.com^
 ||readydolphinpoverty.com^
@@ -45373,6 +45384,7 @@ vkcdnservice.appspot.com^
 ||robrquvpjczvx.online^
 ||robspabah.com^
 ||robustpsychology.com^
+||rocivctofjzka.space^
 ||rockaccountantcrowded.com^
 ||rockersbaalize.com^
 ||rockershiring.cyou^
@@ -48527,6 +48539,7 @@ vkcdnservice.appspot.com^
 ||sorgijeegrooz.net^
 ||soritespary.com^
 ||sorosisfooleryrm.cyou^
+||sorrowdefinedasterisk.com^
 ||sorrowphysidvedro.cfd^
 ||sorryfearknockout.com^
 ||sortedtincts.cyou^
@@ -52374,6 +52387,7 @@ vkcdnservice.appspot.com^
 ||tuckedcurtain.com^
 ||tuckedtransmitterwizards.com^
 ||tuckedtucked.com^
+||tuckergrass.com^
 ||tuckytalefulclauber.cyou^
 ||tucwydhulyyuk.net^
 ||tudrrynzkocdq.website^
@@ -59428,6 +59442,7 @@ vkcdnservice.appspot.com^
 ||yocbiylltzzaj.website^
 ||yodeolios.qpon^
 ||yodjmbkeiafuf.website^
+||yodpaudrpndfkd.com^
 ||yodtjqogjwarc.com^
 ||yoducu.site^
 ||yodyohsjqjsvc.space^
